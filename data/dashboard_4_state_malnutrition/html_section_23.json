@@ -1,0 +1,308 @@
+{
+  "url": "https://acutemalnutrition.org/en/countries",
+  "structural_elements": {
+    "headers": [
+      {
+        "level": 1,
+        "text": "Global"
+      },
+      {
+        "level": 3,
+        "text": "Where are we intreating children with SAM?"
+      },
+      {
+        "level": 3,
+        "text": "Explore National and SubNational data"
+      },
+      {
+        "level": 3,
+        "text": "ANALYSE THE DATA"
+      },
+      {
+        "level": 3,
+        "text": "What is happening at acountry level?"
+      },
+      {
+        "level": 5,
+        "text": "The State of Acute Malnutrition"
+      },
+      {
+        "level": 5,
+        "text": "Contact us"
+      }
+    ],
+    "paragraphs": [
+      {
+        "text": "The State ofAcute Malnutrition"
+      },
+      {
+        "text": "Select a country from the below menu to access country-level data, resources and events."
+      },
+      {
+        "text": "West andCentralAfrica"
+      },
+      {
+        "text": "Eastern andSouthern Africa"
+      },
+      {
+        "text": "SouthAsia"
+      },
+      {
+        "text": "East Asiaand Pacific"
+      },
+      {
+        "text": "Europe andCentral Asia"
+      },
+      {
+        "text": "Middle Eastand NorthAfrica"
+      },
+      {
+        "text": "Between 2015 and 2020, The State of Acute Malnutrition was supported by theNo Wasted LivesCoalition, an interagency effort between Action Against Hunger, the Children’s Investment Fund Foundation, the European Commission Directorate-General for Humanitarian Aid and Civil Protection (ECHO), the innocent foundation, the International Rescue Committee (IRC), UNICEF, and World Food Programme (WFP). The CMAM 2.0: Reinventing Community Management of Acute Malnutrition grant supported by the Children’s Investment Fund Foundation that financed the No Wasted Lives initiative, is now closed."
+      },
+      {
+        "text": "Twitter:@AcuteMalnut"
+      },
+      {
+        "text": "Email:info@acutemalnutrition.org"
+      },
+      {
+        "text": "Privacy policy"
+      }
+    ]
+  },
+  "div_hierarchy": [
+    {
+      "text": "About us"
+    },
+    {
+      "text": "Website guide"
+    },
+    {
+      "text": "Submit Data / Resources"
+    },
+    {
+      "text": "EnglishFrançais"
+    },
+    {
+      "text": "EnglishFrançais"
+    },
+    {
+      "text": "The State ofAcute Malnutrition"
+    },
+    {
+      "text": "DataResourcesNews & EventsResearch LandscapeCOVID-19 AdaptationsCoPsAbout usWebsite guideSubmit Data / Resources"
+    },
+    {
+      "text": "Global"
+    },
+    {
+      "text": "Where are we intreating children with SAM?"
+    },
+    {
+      "text": "National Data"
+    },
+    {
+      "text": "Select Category"
+    },
+    {
+      "text": "×Burden of Acute Malnutrition"
+    },
+    {
+      "text": "Select Sub Category"
+    },
+    {
+      "text": "×GAM Prevalence (%)"
+    },
+    {
+      "text": "Select a year"
+    },
+    {
+      "text": "×2018"
+    },
+    {
+      "text": "Subnational Data"
+    },
+    {
+      "text": "Select Category"
+    },
+    {
+      "text": "Select Sub Category"
+    },
+    {
+      "text": "Select a year"
+    },
+    {
+      "text": "Select Graps"
+    },
+    {
+      "text": "×GRAPH 1: Compare countries for one indicator (numeric)"
+    },
+    {
+      "text": "Select Year"
+    },
+    {
+      "text": "×2018"
+    },
+    {
+      "text": "Select Indicator"
+    },
+    {
+      "text": "Select Region"
+    },
+    {
+      "text": "Select Countries"
+    },
+    {
+      "text": "What is happening at acountry level?"
+    },
+    {
+      "text": "Select a country from the below menu to access country-level data, resources and events."
+    },
+    {
+      "text": "Latin Americaand CaribbeanWest andCentralAfricaEastern andSouthern AfricaSouthAsiaEast Asiaand PacificEurope andCentral AsiaMiddle Eastand NorthAfrica"
+    },
+    {
+      "text": "Subscribe"
+    },
+    {
+      "text": "Between 2015 and 2020, The State of Acute Malnutrition was supported by theNo Wasted LivesCoalition, an interagency effort between Action Against Hunger, the Children’s Investment Fund Foundation, the European Commission Directorate-General for Humanitarian Aid and Civil Protection (ECHO), the innocent foundation, the International Rescue Committee (IRC), UNICEF, and World Food Programme (WFP). The CMAM 2.0: Reinventing Community Management of Acute Malnutrition grant supported by the Children’s Investment Fund Foundation that financed the No Wasted Lives initiative, is now closed."
+    },
+    {
+      "text": "Twitter:@AcuteMalnut"
+    },
+    {
+      "text": "Email:info@acutemalnutrition.org"
+    },
+    {
+      "text": "Privacy policy"
+    }
+  ],
+  "links": [
+    {
+      "text": "About us",
+      "href": "/about-us"
+    },
+    {
+      "text": "Website guide",
+      "href": "/website-guide"
+    },
+    {
+      "text": "Submit Data / Resources",
+      "href": "/submit-data"
+    },
+    {
+      "text": "English",
+      "href": ""
+    },
+    {
+      "text": "Français",
+      "href": ""
+    },
+    {
+      "text": "English",
+      "href": ""
+    },
+    {
+      "text": "Français",
+      "href": ""
+    },
+    {
+      "text": "Data",
+      "href": "/countries"
+    },
+    {
+      "text": "Resources",
+      "href": "/resource-library"
+    },
+    {
+      "text": "News & Events",
+      "href": "/events"
+    },
+    {
+      "text": "Research Landscape",
+      "href": "/research-landscape"
+    },
+    {
+      "text": "COVID-19 Adaptations",
+      "href": "/en/innovations-and-covid19-adaptations"
+    },
+    {
+      "text": "CoPs",
+      "href": "/communities-of-practice"
+    },
+    {
+      "text": "About us",
+      "href": "/about-us"
+    },
+    {
+      "text": "Website guide",
+      "href": "/website-guide"
+    },
+    {
+      "text": "Submit Data / Resources",
+      "href": "/submit-data"
+    },
+    {
+      "text": "",
+      "href": "#"
+    },
+    {
+      "text": "National Data",
+      "href": ""
+    },
+    {
+      "text": "Subnational Data",
+      "href": ""
+    },
+    {
+      "text": "",
+      "href": "#"
+    },
+    {
+      "text": "Latin Americaand Caribbean",
+      "href": ""
+    },
+    {
+      "text": "West andCentralAfrica",
+      "href": ""
+    },
+    {
+      "text": "Eastern andSouthern Africa",
+      "href": ""
+    },
+    {
+      "text": "SouthAsia",
+      "href": ""
+    },
+    {
+      "text": "East Asiaand Pacific",
+      "href": ""
+    },
+    {
+      "text": "Europe andCentral Asia",
+      "href": ""
+    },
+    {
+      "text": "Middle Eastand NorthAfrica",
+      "href": ""
+    },
+    {
+      "text": "No Wasted Lives",
+      "href": "https://www.nowastedlives.org/"
+    },
+    {
+      "text": "@AcuteMalnut",
+      "href": "https://twitter.com/acutemalnut"
+    },
+    {
+      "text": "info@acutemalnutrition.org",
+      "href": "mailto:info@acutemalnutrition.org"
+    },
+    {
+      "text": "Privacy policy",
+      "href": "/privacy-policy"
+    }
+  ],
+  "map": [],
+  "other infornation": ""
+}
