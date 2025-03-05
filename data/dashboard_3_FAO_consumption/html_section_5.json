@@ -1,0 +1,3643 @@
+{
+  "url": "https://www.fao.org/gift-individual-food-consumption/data/en",
+  "structural_elements": {
+    "headers": [
+      {
+        "level": 2,
+        "text": "FAO/WHO GIFT | Global Individual Food Consumption Data Tool"
+      },
+      {
+        "level": 2,
+        "text": "What does the status mean?"
+      },
+      {
+        "level": 2,
+        "text": "Error encountered, please re-try"
+      },
+      {
+        "level": 2,
+        "text": "There are no datasets corresponding to these criteria."
+      },
+      {
+        "level": 2,
+        "text": "Introductory text"
+      },
+      {
+        "level": 2,
+        "text": "Too many results found.Please refine the search criteria.."
+      },
+      {
+        "level": 3,
+        "text": "Daily diet: grams per person per day"
+      },
+      {
+        "level": 3,
+        "text": "Foods"
+      },
+      {
+        "level": 3,
+        "text": "Beverages"
+      },
+      {
+        "level": 3,
+        "text": "Foods"
+      },
+      {
+        "level": 3,
+        "text": "Beverages"
+      },
+      {
+        "level": 3,
+        "text": "Percentage of women achieving MDD-W"
+      },
+      {
+        "level": 3,
+        "text": "Frequency of FGDS​"
+      },
+      {
+        "level": 3,
+        "text": "Percentage of women consuming different food groups"
+      },
+      {
+        "level": 3,
+        "text": "EstimatedGREENHOUSE GAS\n                                                    EMISSIONSfrom different food groups and food items"
+      },
+      {
+        "level": 3,
+        "text": "EstimatedWATER USEfrom\n                                                different food groups and food items"
+      },
+      {
+        "level": 3,
+        "text": "EstimatedLAND USEfrom\n                                                different food groups and food items"
+      },
+      {
+        "level": 3,
+        "text": "Estimated environmental impacts perper person per day"
+      },
+      {
+        "level": 3,
+        "text": "PLEASE VERIFY YOUR ACCOUNT!WE SENT YOU AN AUTOMATIC EMAIL IN ORDER TO VERIFY YOUR EMAIL ACCOUNT!Did you open the confirmation link we sent you by email?YES"
+      },
+      {
+        "level": 3,
+        "text": "Login successful!"
+      },
+      {
+        "level": 4,
+        "text": "Survey details"
+      },
+      {
+        "level": 4,
+        "text": "Filter Dataset"
+      },
+      {
+        "level": 4,
+        "text": "Survey Details"
+      },
+      {
+        "level": 4,
+        "text": "Download"
+      },
+      {
+        "level": 5,
+        "text": "Share"
+      },
+      {
+        "level": 5,
+        "text": "Select, view and download data and survey details"
+      },
+      {
+        "level": 5,
+        "text": "FILTERS"
+      },
+      {
+        "level": 5,
+        "text": "STATUS"
+      },
+      {
+        "level": 5,
+        "text": "RESULTS"
+      },
+      {
+        "level": 5,
+        "text": "Country"
+      },
+      {
+        "level": 5,
+        "text": "Time"
+      },
+      {
+        "level": 5,
+        "text": "Geographical/Administrative coverage"
+      },
+      {
+        "level": 5,
+        "text": "Coverage Sector"
+      },
+      {
+        "level": 5,
+        "text": "Sex"
+      },
+      {
+        "level": 5,
+        "text": "Special Condition"
+      },
+      {
+        "level": 5,
+        "text": "Age Granularity"
+      },
+      {
+        "level": 5,
+        "text": "Age"
+      },
+      {
+        "level": 5,
+        "text": "Food Items"
+      },
+      {
+        "level": 5,
+        "text": "Type of Area"
+      },
+      {
+        "level": 5,
+        "text": "Sex"
+      },
+      {
+        "level": 5,
+        "text": "Age Granularity"
+      },
+      {
+        "level": 5,
+        "text": "Regions"
+      },
+      {
+        "level": 5,
+        "text": "Special Condition"
+      },
+      {
+        "level": 5,
+        "text": "Age"
+      },
+      {
+        "level": 5,
+        "text": "Country"
+      },
+      {
+        "level": 5,
+        "text": "Time"
+      },
+      {
+        "level": 5,
+        "text": "Geographical/Administrative coverage"
+      },
+      {
+        "level": 5,
+        "text": "Coverage Sector"
+      },
+      {
+        "level": 5,
+        "text": "Food Items"
+      },
+      {
+        "level": 5,
+        "text": "Select a food group or a food item"
+      },
+      {
+        "level": 5,
+        "text": "WeChat"
+      },
+      {
+        "level": 6,
+        "text": "Follow us on"
+      }
+    ],
+    "paragraphs": [
+      {
+        "text": "The map provides information on known individual quantitative food consumption data worldwide. Browse the map or use the filters to find surveys of interest, check their availability and view the survey details. Surveys with the status “Data available” have been harmonised and are shared through FAO/WHO GIFT. Available data can be downloaded and visualised through interactive indicators and summary statistics. For additional information, please refer to theMethodologysection."
+      },
+      {
+        "text": "Please write tofao-who-gift@fao.orgif you are aware of an\n                                individual quantitative dietary survey that is not yet included in the map, or if you\n                                notice any inaccurate information."
+      },
+      {
+        "text": "To display other status"
+      },
+      {
+        "text": "The boundaries and names shown and the designations used on this map do not imply the expression of any opinion whatsoever on the part of FAO concerning the legal status of any country, territory, city or area or of its authorities, or concerning the delimitation of its frontiers and boundaries.Dashed lines on map represent approximate border lines for which there may not yet be full agreement."
+      },
+      {
+        "text": "Final boundary between the Sudan and South Sudan has not yet been determined.Final status of the Abyei area is not yet determined.Dotted line represents approximately the Line of Control in Jammu and Kashmir agreed upon by India and Pakistan.The final status of Jammu and Kashmir has not yet been agreed upon by the parties."
+      },
+      {
+        "text": "Data download"
+      },
+      {
+        "text": "Survey details"
+      },
+      {
+        "text": "Data download"
+      },
+      {
+        "text": "Survey details"
+      },
+      {
+        "text": "Data download"
+      },
+      {
+        "text": "Survey details"
+      },
+      {
+        "text": "Data download"
+      },
+      {
+        "text": "Survey details"
+      },
+      {
+        "text": "Data download"
+      },
+      {
+        "text": "Survey details"
+      },
+      {
+        "text": "Data download"
+      },
+      {
+        "text": "Survey details"
+      },
+      {
+        "text": "Data download"
+      },
+      {
+        "text": "Survey details"
+      },
+      {
+        "text": "Data download"
+      },
+      {
+        "text": "Survey details"
+      },
+      {
+        "text": "Data download"
+      },
+      {
+        "text": "Survey details"
+      },
+      {
+        "text": "Data download"
+      },
+      {
+        "text": "Survey details"
+      },
+      {
+        "text": "Loading results"
+      },
+      {
+        "text": "Loading results"
+      },
+      {
+        "text": "Loading results"
+      },
+      {
+        "text": "Acute food consumption per day and/or per kilogram of bodyweight\n                                                        per day among High Consumers (or, more precisely,\n                                                        high-percentile consumers referring to percentiles 95-99) is\n                                                        used to estimate how much of a given food item or food belonging\n                                                        to a food group is consumed on the days on which consumption of\n                                                        the food of interest occurs."
+      },
+      {
+        "text": "This information is of particular use for risk assessment when\n                                                        the data is combined with the content of potentially harmful\n                                                        chemical substances in foods. The result indicates whether the\n                                                        presence of this substance in a given food can pose acute\n                                                        toxicity risks from consumption of a single meal or through a\n                                                        single day (24 hours) of dietary exposure."
+      },
+      {
+        "text": "Loading results"
+      },
+      {
+        "text": "This infographic shows the contribution of different foods and food groups to the average dietary intake of different micronutrients expressed in grams per person per day."
+      },
+      {
+        "text": "Loading results"
+      },
+      {
+        "text": "This infographic shows the contribution of different foods and food groups to the average dietary intake of different macronutrients expressed in grams per person per day."
+      },
+      {
+        "text": "Loading results"
+      },
+      {
+        "text": "This infographic shows the average percentage contribution of macronutrients (fat, carbohydrate and protein) to total energy intake. The values are shown with reference to the recommended by WHO proportions of macronutrients in the diet (see methodology section for references)."
+      },
+      {
+        "text": "Loading results"
+      },
+      {
+        "text": "The Minimum Dietary Diversity for Women (MDD-W) is a dichotomous indicator of\nwhether non-pregnant women of reproductive age, 15-49 years old, have\nconsumed at least five out of ten defined food groups over a 24-hour period. No\ninformation on quantities of foods consumed are needed."
+      },
+      {
+        "text": "MDD-W is a food group diversity indicator that can be used as a proxy to indicate\nan acceptable level of dietary micronutrient adequacy across 11 micronutrients,\nincluding vitamin A, thiamin, riboflavin, niacin, vitamin B6, folate, vitamin B12,\nvitamin C, calcium, iron and zinc. The higher the proportion of women achieving\nMDD-W, the better the micronutrient adequacy in a given population."
+      },
+      {
+        "text": "Loading results"
+      },
+      {
+        "text": "The Minimum Dietary Diversity for Women (MDD-W) is a dichotomous indicator of\nwhether non-pregnant women of reproductive age, 15-49 years old, have\nconsumed at least five out of ten defined food groups over a 24-hour period. No\ninformation on quantities of foods consumed are needed."
+      },
+      {
+        "text": "MDD-W is a food group diversity indicator that can be used as a proxy to indicate\nan acceptable level of dietary micronutrient adequacy across 11 micronutrients,\nincluding vitamin A, thiamin, riboflavin, niacin, vitamin B6, folate, vitamin B12,\nvitamin C, calcium, iron and zinc. The higher the proportion of women achieving\nMDD-W, the better the micronutrient adequacy in a given population."
+      },
+      {
+        "text": "Loading results"
+      },
+      {
+        "text": "The Minimum Dietary Diversity for Women (MDD-W) is a dichotomous indicator of\nwhether non-pregnant women of reproductive age, 15-49 years old, have\nconsumed at least five out of ten defined food groups over a 24-hour period. No\ninformation on quantities of foods consumed are needed."
+      },
+      {
+        "text": "MDD-W is a food group diversity indicator that can be used as a proxy to indicate\nan acceptable level of dietary micronutrient adequacy across 11 micronutrients,\nincluding vitamin A, thiamin, riboflavin, niacin, vitamin B6, folate, vitamin B12,\nvitamin C, calcium, iron and zinc. The higher the proportion of women achieving\nMDD-W, the better the micronutrient adequacy in a given population."
+      },
+      {
+        "text": "Loading results"
+      },
+      {
+        "text": "This infographic shows the estimated averagegreenhouse\n                                                            gas emissions(kilograms of carbon dioxide\n                                                        equivalents (kg CO₂ eq)),water use(litres)\n                                                        andland use(square meters (m²)) of foods in\n                                                        the diet per person per day. This is also expressed by food\n                                                        group, subgroup, and items."
+      },
+      {
+        "text": "The calculations take into account all individuals in the\n                                                        population: consumers and non-consumers. Consumers are those\n                                                        individuals who consumed the foods of interest during the survey\n                                                        period, and non-consumers are those who did not. The\n                                                        environmental impact values of foods are based on Poore and\n                                                        Nemecek (2018). The system boundaries considered by Poore and\n                                                        Nemecek start with the extraction of resources needed to produce\n                                                        inputs for agricultural production, end at the retail store, and\n                                                        includes processing, packaging, transportation and losses from\n                                                        farm to retail point. Further details on the data sources used                                                        \n                                                        and methods applied can be found in theMethodology section."
+      },
+      {
+        "text": "This infographic offers an understanding of the contribution of\n                                                        different foods and food groups to the total environmental\n                                                        impact of diets, and how the composition of the diet may\n                                                        influence its environmental impact."
+      },
+      {
+        "text": "Three levels of impact (average, low, and high) are considered.\n                                                        The main graph is calculated using theglobal\n                                                            averageenvironmental impact of each food, based on\n                                                        Poore & Nemecek (2018). Two additional graphs present\n                                                        hypothetical scenarios showing the environmental impact ofthe same dietif all foods had lower\n                                                        environmental impacts (low-impact scenario), or\n                                                        higher environmental impacts (high-impact\n                                                            scenario). These hypothetical scenarios reflect the\n                                                        variation in environmental impact values and the uncertainty\n                                                        around estimates using the global means (main graph)."
+      },
+      {
+        "text": "Loading results"
+      },
+      {
+        "text": "Loading results"
+      },
+      {
+        "text": "Loading results"
+      },
+      {
+        "text": "This infographic shows the estimated average greenhouse gas\n                                                        emissions (kilograms of carbon dioxide equivalents (kg CO₂ eq)),\n                                                        water use (litres) and land use (square meters (m²)) per1000 kilocalories, 10 g of protein or 100 mg of\n                                                            calciumreported as consumed, per person per day.\n                                                        The calculations take into account all individuals in the\n                                                        population: consumers and non-consumers. Consumers are those\n                                                        individuals who consumed the foods of interest during the survey\n                                                        period, and non-consumers are those who did not. The\n                                                        environmental impact values of foods are based on Poore and\n                                                        Nemecek (2018). The system boundaries considered by Poore and\n                                                        Nemecek start with the extraction of resources needed to produce\n                                                        inputs for agricultural production, end at the retail store, and\n                                                        includes processing, packaging, transportation and losses from\n                                                        farm to retail point. Further details on the data sources used\n                                                        and methods applied can be found in theMethodology section."
+      },
+      {
+        "text": "Environmental impacts of diets are usually reported per weight or\n                                                        volume (kilograms or litres) of foods or beverages consumed.\n                                                        While this approach is simple and easy to understand, it does\n                                                        not express food functionality. Therefore, a metric that\n                                                        reflects the function of the food (a functional unit) is\n                                                        important to describe its environmental impacts. Dietary energy\n                                                        (kcal/day) and protein (g/day) are important for understanding\n                                                        food security and different forms of malnutrition, whereas\n                                                        calcium (mg/day) is an important micronutrient for bone health\n                                                        and several physiological functions. The functional units used\n                                                        are aimed at normalising results, and are not intended to\n                                                        reflect dietary energy or nutrient requirements."
+      },
+      {
+        "text": "Three levels of impact (average, low, and high) are considered.\n                                                        The main graph is calculated using theglobal\n                                                            averageof the environmental impact of each food,\n                                                        based on Poore & Nemecek (2018). Two additional graphs present\n                                                        hypothetical scenarios showing the environmental impact ofthe same dietif all foods had lower\n                                                        environmental impacts (low-impact scenario), or\n                                                        higher environmental impacts (high-impact\n                                                            scenario). These hypothetical scenarios reflect the\n                                                        variation in environmental impact values and the uncertainty\n                                                        around estimates using the global means (main graph)."
+      },
+      {
+        "text": "Loading results"
+      },
+      {
+        "text": "The observed single-day intake data for a nutrient reflects two\n                                                        components of\n                                                        variation: the variation between persons and the variation\n                                                        within a person, the so-\n                                                        called day-to-day variation. Since, for the purpose of dietary\n                                                        assessment, the long.\n                                                        term average nutrient intake of a person provides a better basis\n                                                        for further\n                                                        analysis, the effect of the day-to-day variation should be\n                                                        mitigated. This can only\n                                                        be achieved by applying statistical models. Adjusting for\n                                                        day-to-day variation\n                                                        results in a narrower distribution, with the same mean intake\n                                                        compared to the\n                                                        original data."
+      },
+      {
+        "text": "The results are presented as a function of age on the percentile\n                                                        scale and can be\n                                                        directly compared with Estimated Average Requirements (EARs) or\n                                                        Average\n                                                        Requirements (ARs) to estimate the percentage of a population\n                                                        not meeting their\n                                                        nutrient requirements. However, the results of such comparison\n                                                        should be\n                                                        interpreted with caution given the limitations specific to each\n                                                        dataset, the\n                                                        available Nutrient Reference Values (NRVs), as well as the\n                                                        uncertainty in the\n                                                        habitual intake distribution, which is also displayed."
+      },
+      {
+        "text": "The usual intake distributions were estimated based on datasets\n                                                        that contain\n                                                        dietary intake data from two or more non-consecutive days for\n                                                        the whole or a\n                                                        subset of the sample."
+      },
+      {
+        "text": "Calculations were performed using the Statistical Program to\n                                                        Assess Dietary\n                                                        Exposure (SPADE)."
+      },
+      {
+        "text": "Nutrient Reference Values"
+      },
+      {
+        "text": "Loading results"
+      },
+      {
+        "text": "MEDIANestimated usual intake"
+      },
+      {
+        "text": "mg/day"
+      },
+      {
+        "text": "mg/day"
+      },
+      {
+        "text": "mg/day"
+      },
+      {
+        "text": "Survey Age Range"
+      },
+      {
+        "text": "CHILDREN"
+      },
+      {
+        "text": "1-8"
+      },
+      {
+        "text": "years old"
+      },
+      {
+        "text": "ADOLESCENTS"
+      },
+      {
+        "text": "9-18"
+      },
+      {
+        "text": "years old"
+      },
+      {
+        "text": "ADULTS"
+      },
+      {
+        "text": "19-97"
+      },
+      {
+        "text": "years old"
+      },
+      {
+        "text": "around the median intake"
+      },
+      {
+        "text": "mg/day"
+      },
+      {
+        "text": "mg/day"
+      },
+      {
+        "text": "mg/day"
+      },
+      {
+        "text": "CHILDREN"
+      },
+      {
+        "text": "ADOLESCENTS"
+      },
+      {
+        "text": "ADULTS"
+      },
+      {
+        "text": "MEDIANestimated usual intake"
+      },
+      {
+        "text": "Survey Age Range"
+      },
+      {
+        "text": "ADULTS"
+      },
+      {
+        "text": "1-8"
+      },
+      {
+        "text": "years old"
+      },
+      {
+        "text": "MALE"
+      },
+      {
+        "text": "9-18"
+      },
+      {
+        "text": "years old"
+      },
+      {
+        "text": "FEMALE"
+      },
+      {
+        "text": "19-97"
+      },
+      {
+        "text": "years old"
+      },
+      {
+        "text": "around the median intake"
+      },
+      {
+        "text": "mg/day"
+      },
+      {
+        "text": "mg/day"
+      },
+      {
+        "text": "mg/day"
+      },
+      {
+        "text": "Percentile Range"
+      },
+      {
+        "text": "Estimated usual intake ofin\n                                mg/day"
+      },
+      {
+        "text": "CHILDREN"
+      },
+      {
+        "text": "years old"
+      },
+      {
+        "text": "CHILDREN"
+      },
+      {
+        "text": "years old"
+      },
+      {
+        "text": "CHILDREN"
+      },
+      {
+        "text": "years old"
+      },
+      {
+        "text": "Nutrient Reference Values forCALCIUMin mg/day"
+      },
+      {
+        "text": "MALE"
+      },
+      {
+        "text": "FEMALE"
+      },
+      {
+        "text": "MALE"
+      },
+      {
+        "text": "FEMALE"
+      },
+      {
+        "text": "MALE"
+      },
+      {
+        "text": "FEMALE"
+      },
+      {
+        "text": "Nutrient Reference Values forIRONin mg/day"
+      },
+      {
+        "text": "MALE"
+      },
+      {
+        "text": "FEMALE"
+      },
+      {
+        "text": "MALE"
+      },
+      {
+        "text": "FEMALE"
+      },
+      {
+        "text": "MALE"
+      },
+      {
+        "text": "FEMALE"
+      },
+      {
+        "text": "Nutrient Reference Values forFOLATEinμg/day"
+      },
+      {
+        "text": "MALE"
+      },
+      {
+        "text": "FEMALE"
+      },
+      {
+        "text": "MALE"
+      },
+      {
+        "text": "FEMALE"
+      },
+      {
+        "text": "MALE"
+      },
+      {
+        "text": "FEMALE"
+      },
+      {
+        "text": "Loading results"
+      }
+    ]
+  },
+  "div_hierarchy": [
+    {
+      "text": "About FAONewsMultimediaMain topicsStatisticsMembersPublications"
+    },
+    {
+      "text": "العربية中文FrançaisРусскийEspañol"
+    },
+    {
+      "text": "×"
+    },
+    {
+      "text": "Share"
+    },
+    {
+      "text": "Close"
+    },
+    {
+      "text": "FAO/WHO GIFT | Global Individual Food Consumption Data Tool"
+    },
+    {
+      "text": "AboutDataMethodologyResources"
+    },
+    {
+      "text": "Select, view and download data and survey detailsThe map provides information on known individual quantitative food consumption data worldwide. Browse the map or use the filters to find surveys of interest, check their availability and view the survey details. Surveys with the status “Data available” have been harmonised and are shared through FAO/WHO GIFT. Available data can be downloaded and visualised through interactive indicators and summary statistics. For additional information, please refer to theMethodologysection."
+    },
+    {
+      "text": "×"
+    },
+    {
+      "text": "Please write tofao-who-gift@fao.orgif you are aware of an\n                                individual quantitative dietary survey that is not yet included in the map, or if you\n                                notice any inaccurate information."
+    },
+    {
+      "text": "×"
+    },
+    {
+      "text": "What does the status mean?"
+    },
+    {
+      "text": "Data available"
+    },
+    {
+      "text": "Datasets have been harmonised and are shared through\n                                            FAO/WHO GIFT."
+    },
+    {
+      "text": "Survey detailsavailable"
+    },
+    {
+      "text": "Data visualisationsavailable"
+    },
+    {
+      "text": "Data downloadavailable"
+    },
+    {
+      "text": "Data soon to be available"
+    },
+    {
+      "text": "Datasets in preparation for sharing through FAO/WHO GIFT."
+    },
+    {
+      "text": "Survey detailsavailable"
+    },
+    {
+      "text": "Data visualisationsavailable"
+    },
+    {
+      "text": "Data downloadavailable"
+    },
+    {
+      "text": "Other surveys"
+    },
+    {
+      "text": "Other surveys identified as suitable for sharing through\n                                            FAO/WHO GIFT."
+    },
+    {
+      "text": "Survey detailsavailable"
+    },
+    {
+      "text": "Data visualisationsavailable"
+    },
+    {
+      "text": "Data downloadavailable"
+    },
+    {
+      "text": "FILTERS"
+    },
+    {
+      "text": "Country"
+    },
+    {
+      "text": "Coverage"
+    },
+    {
+      "text": "Population"
+    },
+    {
+      "text": "Food"
+    },
+    {
+      "text": "STATUS"
+    },
+    {
+      "text": "Data available"
+    },
+    {
+      "text": "Data soon to be available"
+    },
+    {
+      "text": "Other surveys"
+    },
+    {
+      "text": "All"
+    },
+    {
+      "text": "To display other statusClear Population/Food filter."
+    },
+    {
+      "text": "RESULTS"
+    },
+    {
+      "text": "Loading..."
+    },
+    {
+      "text": "SEE AS A LISTEXPORT SUMMARY"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "6"
+    },
+    {
+      "text": "6"
+    },
+    {
+      "text": "6"
+    },
+    {
+      "text": "6"
+    },
+    {
+      "text": "6"
+    },
+    {
+      "text": "6"
+    },
+    {
+      "text": "2"
+    },
+    {
+      "text": "2"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "3"
+    },
+    {
+      "text": "3"
+    },
+    {
+      "text": "3"
+    },
+    {
+      "text": "3"
+    },
+    {
+      "text": "3"
+    },
+    {
+      "text": "3"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "2"
+    },
+    {
+      "text": "2"
+    },
+    {
+      "text": "2"
+    },
+    {
+      "text": "2"
+    },
+    {
+      "text": "2"
+    },
+    {
+      "text": "2"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "8"
+    },
+    {
+      "text": "8"
+    },
+    {
+      "text": "8"
+    },
+    {
+      "text": "8"
+    },
+    {
+      "text": "8"
+    },
+    {
+      "text": "8"
+    },
+    {
+      "text": "8"
+    },
+    {
+      "text": "8"
+    },
+    {
+      "text": "2"
+    },
+    {
+      "text": "2"
+    },
+    {
+      "text": "2"
+    },
+    {
+      "text": "2"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "2"
+    },
+    {
+      "text": "2"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "2"
+    },
+    {
+      "text": "2"
+    },
+    {
+      "text": "2"
+    },
+    {
+      "text": "2"
+    },
+    {
+      "text": "2"
+    },
+    {
+      "text": "2"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "+−"
+    },
+    {
+      "text": "Leaflet|UN Geospatial Clearmap"
+    },
+    {
+      "text": "The boundaries and names shown and the designations used on this map do not imply the expression of any opinion whatsoever on the part of FAO concerning the legal status of any country, territory, city or area or of its authorities, or concerning the delimitation of its frontiers and boundaries.Dashed lines on map represent approximate border lines for which there may not yet be full agreement.Final boundary between the Sudan and South Sudan has not yet been determined.Final status of the Abyei area is not yet determined.Dotted line represents approximately the Line of Control in Jammu and Kashmir agreed upon by India and Pakistan.The final status of Jammu and Kashmir has not yet been agreed upon by the parties."
+    },
+    {
+      "text": "×Survey details"
+    },
+    {
+      "text": "ContentFree textResource TypeData SourceReference PeriodReference AreaData DomainRegionAccessibilityStatus of ConfidentialitySearch by idUid"
+    },
+    {
+      "text": "×"
+    },
+    {
+      "text": "Clear All"
+    },
+    {
+      "text": "Select All"
+    },
+    {
+      "text": "Clear All"
+    },
+    {
+      "text": "Apply Selection"
+    },
+    {
+      "text": "×"
+    },
+    {
+      "text": "1980202500019801991200320142025"
+    },
+    {
+      "text": "NationalSub-nationalAll"
+    },
+    {
+      "text": "Only ruralOnly urbanBoth Urban and Rural"
+    },
+    {
+      "text": "Clear All"
+    },
+    {
+      "text": "Apply Selection"
+    },
+    {
+      "text": "×"
+    },
+    {
+      "text": "MaleFemaleAll"
+    },
+    {
+      "text": "PregnantLactatingPregnant and lactatingNon pregnant and non lactatingBreastfed"
+    },
+    {
+      "text": "YearMonth"
+    },
+    {
+      "text": "01200000306090120"
+    },
+    {
+      "text": "Clear All"
+    },
+    {
+      "text": "Apply Selection"
+    },
+    {
+      "text": "×"
+    },
+    {
+      "text": "Clear All"
+    },
+    {
+      "text": "Select All"
+    },
+    {
+      "text": "Clear All"
+    },
+    {
+      "text": "Apply Selection"
+    },
+    {
+      "text": "Loading, please wait"
+    },
+    {
+      "text": "Country"
+    },
+    {
+      "text": "Coverage"
+    },
+    {
+      "text": "Title"
+    },
+    {
+      "text": "Sample Size"
+    },
+    {
+      "text": "Start Year"
+    },
+    {
+      "text": "End Year"
+    },
+    {
+      "text": "Visualise data"
+    },
+    {
+      "text": "Visualise data"
+    },
+    {
+      "text": "Visualise data"
+    },
+    {
+      "text": "Visualise data"
+    },
+    {
+      "text": "Visualise data"
+    },
+    {
+      "text": "Visualise data"
+    },
+    {
+      "text": "Visualise data"
+    },
+    {
+      "text": "Visualise data"
+    },
+    {
+      "text": "Visualise data"
+    },
+    {
+      "text": "Visualise data"
+    },
+    {
+      "text": "‹1234567›"
+    },
+    {
+      "text": "There are no datasets corresponding to these criteria."
+    },
+    {
+      "text": "Introductory text"
+    },
+    {
+      "text": "Too many results found.Please refine the search criteria.."
+    },
+    {
+      "text": "Indicators and summary statistics"
+    },
+    {
+      "text": "BACK TO DATASETS"
+    },
+    {
+      "text": "More informaton about this dataset:Survey Details"
+    },
+    {
+      "text": "Start Year"
+    },
+    {
+      "text": "End Year"
+    },
+    {
+      "text": "Filter Dataset"
+    },
+    {
+      "text": "Type of Area"
+    },
+    {
+      "text": "MaleFemaleAll"
+    },
+    {
+      "text": "YearMonth"
+    },
+    {
+      "text": "Regions"
+    },
+    {
+      "text": "PregnantLactatingPregnant and lactatingNon pregnant and non lactatingBreastfed"
+    },
+    {
+      "text": "01200000306090120"
+    },
+    {
+      "text": "Clear All"
+    },
+    {
+      "text": "Select All"
+    },
+    {
+      "text": "1980202500019801991200320142025"
+    },
+    {
+      "text": "NationalSub-nationalAll"
+    },
+    {
+      "text": "Only ruralOnly urbanBoth Urban and Rural"
+    },
+    {
+      "text": "Clear All"
+    },
+    {
+      "text": "Select All"
+    },
+    {
+      "text": "SubjectsRegionsType of AreaPopulation GroupAge coverageTotal Sample-----Your Selection---All"
+    },
+    {
+      "text": "Remove all filters"
+    },
+    {
+      "text": "×"
+    },
+    {
+      "text": "Loading..."
+    },
+    {
+      "text": "Daily diet: grams per person per day"
+    },
+    {
+      "text": "Foods"
+    },
+    {
+      "text": "Beverages"
+    },
+    {
+      "text": "Loading..."
+    },
+    {
+      "text": "Loading..."
+    },
+    {
+      "text": "Cereals and their productsRoots, tubers and plantainsLegumesSeeds and nuts and their productsMilk and milk productsEggs and their productsFish, shellfish and their productsMeat and meat productsInsects, grubs and their productsVegetables and their productsFruits and their productsFats and oilsSugar and confectionnary (including cocoa products)Herbs, spices and condimentsBeveragesFoods for particular nutritional usesFood supplements and similarFood additivesComposite dishes"
+    },
+    {
+      "text": "50th percentile95th percentile97.5th percentile99th percentile"
+    },
+    {
+      "text": "g/day"
+    },
+    {
+      "text": "g/kg/day"
+    },
+    {
+      "text": "×"
+    },
+    {
+      "text": "Acute food consumption per day and/or per kilogram of bodyweight\n                                                        per day among High Consumers (or, more precisely,\n                                                        high-percentile consumers referring to percentiles 95-99) is\n                                                        used to estimate how much of a given food item or food belonging\n                                                        to a food group is consumed on the days on which consumption of\n                                                        the food of interest occurs.This information is of particular use for risk assessment when\n                                                        the data is combined with the content of potentially harmful\n                                                        chemical substances in foods. The result indicates whether the\n                                                        presence of this substance in a given food can pose acute\n                                                        toxicity risks from consumption of a single meal or through a\n                                                        single day (24 hours) of dietary exposure."
+    },
+    {
+      "text": "Loading..."
+    },
+    {
+      "text": "consumed byof the population during the survey days"
+    },
+    {
+      "text": "Daily portion sizeforhigh\n                                                    consumersHigh consumers are those individuals who consume more than\n                                                        95-99% of\n                                                        the\n                                                        consumers in the given population (depending on the selected\n                                                        percentile)()"
+    },
+    {
+      "text": "INFANTS"
+    },
+    {
+      "text": "0-35 months"
+    },
+    {
+      "text": "0"
+    },
+    {
+      "text": "Survey age range(months):NN-NN"
+    },
+    {
+      "text": "Percentage of consumers:0%"
+    },
+    {
+      "text": "Consumption days:"
+    },
+    {
+      "text": "YOUNG CHILDREN"
+    },
+    {
+      "text": "3-5 years"
+    },
+    {
+      "text": "0"
+    },
+    {
+      "text": "Survey age range:NN-NN"
+    },
+    {
+      "text": "Percentage of consumers:0%"
+    },
+    {
+      "text": "Consumption days:"
+    },
+    {
+      "text": "CHILDREN"
+    },
+    {
+      "text": "6-14 years"
+    },
+    {
+      "text": "0"
+    },
+    {
+      "text": "Survey age range:NN-NN"
+    },
+    {
+      "text": "Percentage of consumers:0%"
+    },
+    {
+      "text": "Consumption days:"
+    },
+    {
+      "text": "ADULTS"
+    },
+    {
+      "text": "15-49 years"
+    },
+    {
+      "text": "0"
+    },
+    {
+      "text": "Survey age range:NN-NN"
+    },
+    {
+      "text": "Percentage of consumers:0%"
+    },
+    {
+      "text": "Consumption days:"
+    },
+    {
+      "text": "OLDER ADULTS"
+    },
+    {
+      "text": "50-74 years"
+    },
+    {
+      "text": "0"
+    },
+    {
+      "text": "Survey age range:NN-NN"
+    },
+    {
+      "text": "Percentage of consumers:0%"
+    },
+    {
+      "text": "Consumption days:"
+    },
+    {
+      "text": "SENIORS"
+    },
+    {
+      "text": ">75 years"
+    },
+    {
+      "text": "0"
+    },
+    {
+      "text": "Survey age range:NN-NN"
+    },
+    {
+      "text": "Percentage of consumers:0%"
+    },
+    {
+      "text": "Consumption days:"
+    },
+    {
+      "text": "*Results are calculated only if data from ≥40 days\n                                        of\n                                        consumption are available."
+    },
+    {
+      "text": "CalciumIronZincVitamin AThiaminRiboflavinNiacinVitamin B6FolateVitamin B12Vitamin C"
+    },
+    {
+      "text": "×"
+    },
+    {
+      "text": "This infographic shows the contribution of different foods and food groups to the average dietary intake of different micronutrients expressed in grams per person per day."
+    },
+    {
+      "text": "Loading..."
+    },
+    {
+      "text": "Vitamin A RAEVitamin A RE"
+    },
+    {
+      "text": "ProteinCarbohydrateFiberFatSaturated Fat"
+    },
+    {
+      "text": "×"
+    },
+    {
+      "text": "This infographic shows the contribution of different foods and food groups to the average dietary intake of different macronutrients expressed in grams per person per day."
+    },
+    {
+      "text": "Loading..."
+    },
+    {
+      "text": "×"
+    },
+    {
+      "text": "This infographic shows the average percentage contribution of macronutrients (fat, carbohydrate and protein) to total energy intake. The values are shown with reference to the recommended by WHO proportions of macronutrients in the diet (see methodology section for references)."
+    },
+    {
+      "text": "ACTUAL"
+    },
+    {
+      "text": "RECOMMENDED"
+    },
+    {
+      "text": "Carbohydrate - actualProtein - actualFat - actualCarbohydrate -\n                                                    recommendedProtein - recommendedFat - recommended"
+    },
+    {
+      "text": "Loading..."
+    },
+    {
+      "text": "WOMENof reproductive age(15-49 years old)"
+    },
+    {
+      "text": "×"
+    },
+    {
+      "text": "The Minimum Dietary Diversity for Women (MDD-W) is a dichotomous indicator of\nwhether non-pregnant women of reproductive age, 15-49 years old, have\nconsumed at least five out of ten defined food groups over a 24-hour period. No\ninformation on quantities of foods consumed are needed.MDD-W is a food group diversity indicator that can be used as a proxy to indicate\nan acceptable level of dietary micronutrient adequacy across 11 micronutrients,\nincluding vitamin A, thiamin, riboflavin, niacin, vitamin B6, folate, vitamin B12,\nvitamin C, calcium, iron and zinc. The higher the proportion of women achieving\nMDD-W, the better the micronutrient adequacy in a given population."
+    },
+    {
+      "text": "Percentage of women achieving MDD-W"
+    },
+    {
+      "text": "Loading..."
+    },
+    {
+      "text": "Average FGDS​:"
+    },
+    {
+      "text": "Selected sample"
+    },
+    {
+      "text": "424women"
+    },
+    {
+      "text": "Average FGDS​"
+    },
+    {
+      "text": "5.1food groups"
+    },
+    {
+      "text": "WOMENof reproductive age(15-49 years old)"
+    },
+    {
+      "text": "×"
+    },
+    {
+      "text": "The Minimum Dietary Diversity for Women (MDD-W) is a dichotomous indicator of\nwhether non-pregnant women of reproductive age, 15-49 years old, have\nconsumed at least five out of ten defined food groups over a 24-hour period. No\ninformation on quantities of foods consumed are needed.MDD-W is a food group diversity indicator that can be used as a proxy to indicate\nan acceptable level of dietary micronutrient adequacy across 11 micronutrients,\nincluding vitamin A, thiamin, riboflavin, niacin, vitamin B6, folate, vitamin B12,\nvitamin C, calcium, iron and zinc. The higher the proportion of women achieving\nMDD-W, the better the micronutrient adequacy in a given population."
+    },
+    {
+      "text": "Frequency of FGDS​"
+    },
+    {
+      "text": "Loading..."
+    },
+    {
+      "text": "WOMENof reproductive age(15-49 years old)"
+    },
+    {
+      "text": "×"
+    },
+    {
+      "text": "The Minimum Dietary Diversity for Women (MDD-W) is a dichotomous indicator of\nwhether non-pregnant women of reproductive age, 15-49 years old, have\nconsumed at least five out of ten defined food groups over a 24-hour period. No\ninformation on quantities of foods consumed are needed.MDD-W is a food group diversity indicator that can be used as a proxy to indicate\nan acceptable level of dietary micronutrient adequacy across 11 micronutrients,\nincluding vitamin A, thiamin, riboflavin, niacin, vitamin B6, folate, vitamin B12,\nvitamin C, calcium, iron and zinc. The higher the proportion of women achieving\nMDD-W, the better the micronutrient adequacy in a given population."
+    },
+    {
+      "text": "Loading..."
+    },
+    {
+      "text": "Percentage of women consuming different food groups"
+    },
+    {
+      "text": "Expand food groups​"
+    },
+    {
+      "text": "Hide food subgroups"
+    },
+    {
+      "text": "×"
+    },
+    {
+      "text": "This infographic shows the estimated averagegreenhouse\n                                                            gas emissions(kilograms of carbon dioxide\n                                                        equivalents (kg CO₂ eq)),water use(litres)\n                                                        andland use(square meters (m²)) of foods in\n                                                        the diet per person per day. This is also expressed by food\n                                                        group, subgroup, and items.The calculations take into account all individuals in the\n                                                        population: consumers and non-consumers. Consumers are those\n                                                        individuals who consumed the foods of interest during the survey\n                                                        period, and non-consumers are those who did not. The\n                                                        environmental impact values of foods are based on Poore and\n                                                        Nemecek (2018). The system boundaries considered by Poore and\n                                                        Nemecek start with the extraction of resources needed to produce\n                                                        inputs for agricultural production, end at the retail store, and\n                                                        includes processing, packaging, transportation and losses from\n                                                        farm to retail point. Further details on the data sources used                                                        \n                                                        and methods applied can be found in theMethodology section.This infographic offers an understanding of the contribution of\n                                                        different foods and food groups to the total environmental\n                                                        impact of diets, and how the composition of the diet may\n                                                        influence its environmental impact.Three levels of impact (average, low, and high) are considered.\n                                                        The main graph is calculated using theglobal\n                                                            averageenvironmental impact of each food, based on\n                                                        Poore & Nemecek (2018). Two additional graphs present\n                                                        hypothetical scenarios showing the environmental impact ofthe same dietif all foods had lower\n                                                        environmental impacts (low-impact scenario), or\n                                                        higher environmental impacts (high-impact\n                                                            scenario). These hypothetical scenarios reflect the\n                                                        variation in environmental impact values and the uncertainty\n                                                        around estimates using the global means (main graph)."
+    },
+    {
+      "text": "Loading..."
+    },
+    {
+      "text": "EstimatedGREENHOUSE GAS\n                                                    EMISSIONSfrom different food groups and food items"
+    },
+    {
+      "text": "Seehypothetical\n                                                        environmental impact scenariosaccording to food\n                                                    production\n                                                    practices"
+    },
+    {
+      "text": "LOW-IMPACTSCENARIO"
+    },
+    {
+      "text": "If all foods were to be produced usingmore\n                                                            sustainable practices"
+    },
+    {
+      "text": "HIGH-IMPACTSCENARIO"
+    },
+    {
+      "text": "If all foods were to be produced usingless\n                                                            sustainable practices"
+    },
+    {
+      "text": "Loading..."
+    },
+    {
+      "text": "EstimatedWATER USEfrom\n                                                different food groups and food items"
+    },
+    {
+      "text": "Seehypothetical\n                                                        environmental impact scenariosaccording to food\n                                                    production\n                                                    practices"
+    },
+    {
+      "text": "LOW-IMPACTSCENARIO"
+    },
+    {
+      "text": "If all foods were to be produced usingmore\n                                                            sustainable practices"
+    },
+    {
+      "text": "HIGH-IMPACTSCENARIO"
+    },
+    {
+      "text": "If all foods were to be produced usingless\n                                                            sustainable practices"
+    },
+    {
+      "text": "Loading..."
+    },
+    {
+      "text": "EstimatedLAND USEfrom\n                                                different food groups and food items"
+    },
+    {
+      "text": "Seehypothetical\n                                                        environmental impact scenariosaccording to food\n                                                    production\n                                                    practices"
+    },
+    {
+      "text": "LOW-IMPACTSCENARIO"
+    },
+    {
+      "text": "If all foods were to be produced usingmore\n                                                            sustainable practices"
+    },
+    {
+      "text": "HIGH-IMPACTSCENARIO"
+    },
+    {
+      "text": "If all foods were to be produced usingless\n                                                            sustainable practices"
+    },
+    {
+      "text": "1000 kilocalories"
+    },
+    {
+      "text": "10 g of protein"
+    },
+    {
+      "text": "100 mg of calcium"
+    },
+    {
+      "text": "×"
+    },
+    {
+      "text": "This infographic shows the estimated average greenhouse gas\n                                                        emissions (kilograms of carbon dioxide equivalents (kg CO₂ eq)),\n                                                        water use (litres) and land use (square meters (m²)) per1000 kilocalories, 10 g of protein or 100 mg of\n                                                            calciumreported as consumed, per person per day.\n                                                        The calculations take into account all individuals in the\n                                                        population: consumers and non-consumers. Consumers are those\n                                                        individuals who consumed the foods of interest during the survey\n                                                        period, and non-consumers are those who did not. The\n                                                        environmental impact values of foods are based on Poore and\n                                                        Nemecek (2018). The system boundaries considered by Poore and\n                                                        Nemecek start with the extraction of resources needed to produce\n                                                        inputs for agricultural production, end at the retail store, and\n                                                        includes processing, packaging, transportation and losses from\n                                                        farm to retail point. Further details on the data sources used\n                                                        and methods applied can be found in theMethodology section.Environmental impacts of diets are usually reported per weight or\n                                                        volume (kilograms or litres) of foods or beverages consumed.\n                                                        While this approach is simple and easy to understand, it does\n                                                        not express food functionality. Therefore, a metric that\n                                                        reflects the function of the food (a functional unit) is\n                                                        important to describe its environmental impacts. Dietary energy\n                                                        (kcal/day) and protein (g/day) are important for understanding\n                                                        food security and different forms of malnutrition, whereas\n                                                        calcium (mg/day) is an important micronutrient for bone health\n                                                        and several physiological functions. The functional units used\n                                                        are aimed at normalising results, and are not intended to\n                                                        reflect dietary energy or nutrient requirements.Three levels of impact (average, low, and high) are considered.\n                                                        The main graph is calculated using theglobal\n                                                            averageof the environmental impact of each food,\n                                                        based on Poore & Nemecek (2018). Two additional graphs present\n                                                        hypothetical scenarios showing the environmental impact ofthe same dietif all foods had lower\n                                                        environmental impacts (low-impact scenario), or\n                                                        higher environmental impacts (high-impact\n                                                            scenario). These hypothetical scenarios reflect the\n                                                        variation in environmental impact values and the uncertainty\n                                                        around estimates using the global means (main graph)."
+    },
+    {
+      "text": "Estimated environmental impacts perper person per day"
+    },
+    {
+      "text": "Loading..."
+    },
+    {
+      "text": "Greenhouse gas emissions-kg CO2eqper"
+    },
+    {
+      "text": "Water use-litresper"
+    },
+    {
+      "text": "Land use-m2per"
+    },
+    {
+      "text": "Seehypothetical\n                                                environmental impact scenariosaccording to food production\n                                            practices"
+    },
+    {
+      "text": "LOW-IMPACTSCENARIOIf all foods were to be produced usingmore\n                                            sustainable\n                                            practices"
+    },
+    {
+      "text": "-kg CO2eqper"
+    },
+    {
+      "text": "-litresper"
+    },
+    {
+      "text": "-m2per"
+    },
+    {
+      "text": "HIGH-IMPACTSCENARIOIf all foods were to be produced usingless\n                                            sustainable\n                                            practices"
+    },
+    {
+      "text": "-kg CO2eqper"
+    },
+    {
+      "text": "-litresper"
+    },
+    {
+      "text": "-m2per"
+    },
+    {
+      "text": "*Filters have been reset and can't be applied on this indicator"
+    },
+    {
+      "text": "CalciumIronFolate"
+    },
+    {
+      "text": "≥ 19 years old"
+    },
+    {
+      "text": "≥ 14 years old"
+    },
+    {
+      "text": "1-8years old"
+    },
+    {
+      "text": "Only1-3years old"
+    },
+    {
+      "text": "Only4-8years old"
+    },
+    {
+      "text": "9-18years old"
+    },
+    {
+      "text": "Only9-13years old"
+    },
+    {
+      "text": "Only14-18years old"
+    },
+    {
+      "text": "≥19years old"
+    },
+    {
+      "text": "Only19-50years old"
+    },
+    {
+      "text": "Only ≥51years old"
+    },
+    {
+      "text": "≥14years old"
+    },
+    {
+      "text": "Only14-50years old"
+    },
+    {
+      "text": "Only ≥51years old"
+    },
+    {
+      "text": "×"
+    },
+    {
+      "text": "The observed single-day intake data for a nutrient reflects two\n                                                        components of\n                                                        variation: the variation between persons and the variation\n                                                        within a person, the so-\n                                                        called day-to-day variation. Since, for the purpose of dietary\n                                                        assessment, the long.\n                                                        term average nutrient intake of a person provides a better basis\n                                                        for further\n                                                        analysis, the effect of the day-to-day variation should be\n                                                        mitigated. This can only\n                                                        be achieved by applying statistical models. Adjusting for\n                                                        day-to-day variation\n                                                        results in a narrower distribution, with the same mean intake\n                                                        compared to the\n                                                        original data.The results are presented as a function of age on the percentile\n                                                        scale and can be\n                                                        directly compared with Estimated Average Requirements (EARs) or\n                                                        Average\n                                                        Requirements (ARs) to estimate the percentage of a population\n                                                        not meeting their\n                                                        nutrient requirements. However, the results of such comparison\n                                                        should be\n                                                        interpreted with caution given the limitations specific to each\n                                                        dataset, the\n                                                        available Nutrient Reference Values (NRVs), as well as the\n                                                        uncertainty in the\n                                                        habitual intake distribution, which is also displayed.The usual intake distributions were estimated based on datasets\n                                                        that contain\n                                                        dietary intake data from two or more non-consecutive days for\n                                                        the whole or a\n                                                        subset of the sample.Calculations were performed using the Statistical Program to\n                                                        Assess Dietary\n                                                        Exposure (SPADE)."
+    },
+    {
+      "text": "Nutrient Reference Values"
+    },
+    {
+      "text": "Loading..."
+    },
+    {
+      "text": "* Results are calculated only if the sample size for the\n                                    given population group is of ≥50 subjects"
+    },
+    {
+      "text": "MEDIANestimated usual intakeSee percentile\n                                            range"
+    },
+    {
+      "text": "751mg/day"
+    },
+    {
+      "text": "743mg/day"
+    },
+    {
+      "text": "739mg/day"
+    },
+    {
+      "text": "Survey Age Range"
+    },
+    {
+      "text": "CHILDREN1-8years old"
+    },
+    {
+      "text": "ADOLESCENTS9-18years old"
+    },
+    {
+      "text": "ADULTS19-97years old"
+    },
+    {
+      "text": "UncertaintyThe uncertainty is quantified and provided by bootstrapping the\n                                                confidence\n                                                interval (95%), which indicates the range of possible median estimated\n                                                usual\n                                                intakes for the analyzed sample.around the median intake"
+    },
+    {
+      "text": "751mg/day"
+    },
+    {
+      "text": "751mg/day"
+    },
+    {
+      "text": "751mg/day"
+    },
+    {
+      "text": "BACK"
+    },
+    {
+      "text": "CHILDREN"
+    },
+    {
+      "text": "ADOLESCENTS"
+    },
+    {
+      "text": "ADULTS"
+    },
+    {
+      "text": "MEDIANestimated usual intakeSee percentile range"
+    },
+    {
+      "text": "Survey Age Range"
+    },
+    {
+      "text": "ADULTS1-8years old"
+    },
+    {
+      "text": "MALE9-18years old"
+    },
+    {
+      "text": "FEMALE19-97years old"
+    },
+    {
+      "text": "UncertaintyThe uncertainty is quantified and provided by bootstrapping the\n                                                confidence\n                                                interval (95%), which indicates the range of possible median estimated\n                                                usual\n                                                intakes for the analyzed sample.around the median intake"
+    },
+    {
+      "text": "751mg/day"
+    },
+    {
+      "text": "751mg/day"
+    },
+    {
+      "text": "751mg/day"
+    },
+    {
+      "text": "×"
+    },
+    {
+      "text": "Percentile RangeEstimated usual intake ofin\n                                mg/day"
+    },
+    {
+      "text": "P1"
+    },
+    {
+      "text": "P10"
+    },
+    {
+      "text": "P30"
+    },
+    {
+      "text": "P20"
+    },
+    {
+      "text": "P40"
+    },
+    {
+      "text": "P50"
+    },
+    {
+      "text": "P60"
+    },
+    {
+      "text": "P70"
+    },
+    {
+      "text": "P80"
+    },
+    {
+      "text": "P90"
+    },
+    {
+      "text": "P99"
+    },
+    {
+      "text": "P1"
+    },
+    {
+      "text": "P10"
+    },
+    {
+      "text": "P30"
+    },
+    {
+      "text": "P20"
+    },
+    {
+      "text": "P40"
+    },
+    {
+      "text": "P50"
+    },
+    {
+      "text": "P60"
+    },
+    {
+      "text": "P70"
+    },
+    {
+      "text": "P80"
+    },
+    {
+      "text": "P90"
+    },
+    {
+      "text": "P99"
+    },
+    {
+      "text": "P1"
+    },
+    {
+      "text": "P10"
+    },
+    {
+      "text": "P30"
+    },
+    {
+      "text": "P20"
+    },
+    {
+      "text": "P40"
+    },
+    {
+      "text": "P50"
+    },
+    {
+      "text": "P60"
+    },
+    {
+      "text": "P70"
+    },
+    {
+      "text": "P80"
+    },
+    {
+      "text": "P90"
+    },
+    {
+      "text": "P99"
+    },
+    {
+      "text": "×"
+    },
+    {
+      "text": "Nutrient Reference Values forCALCIUMin mg/day"
+    },
+    {
+      "text": "FAO & WHOEFSAIOM"
+    },
+    {
+      "text": "MALELIFE STAGE GROUPEARs*Estimated Average Requirement0-6months-7-12months-1-3years4174-6years5007-9years58310-18years108319-65years833>65years1083"
+    },
+    {
+      "text": "FEMALELIFE STAGE GROUPEARs*Estimated Average Requirement0-6months-7-12months-1-3years4174-6years5007-9years58310-18years108319-50years833>50years1083Pregnant - last trimester1000Lactating833"
+    },
+    {
+      "text": "*Estimated Average Requirements (EARs) for calcium calculated\n                                                    based on Recommended Nutrient Intakes (RNIs) established by FAO &\n                                                    WHO1using conversion factors2.Sources1FAO/WHO. 2004. Vitamin and Mineral Requirements in\n                                                    Human Nutrition, 2nd ed. Rome: FAO.2Allen, L., de Benoist, B., Dary, O. & Hurrell R.\n                                                    2006. WHO/FAO Guidelines on Food Fortification with Micronutrients.\n                                                    WHO: Geneva, Switzerland."
+    },
+    {
+      "text": "MALELIFE STAGE GROUPARsAverage Requirements0-6months-7-12months-1-3years3904-10years68011-17years96018-24years860≥25years750"
+    },
+    {
+      "text": "FEMALELIFE STAGE GROUPARsAverage Requirements0-6months-7-12months-1-3years3904-10years68011-17years96018-24years*860≥25years*750"
+    },
+    {
+      "text": "*Including pregnant and lactatingSourcesEuropean Food Safety Authority (EFSA), Nutrition and Allergies\n                                                        (NDA) Panel. 2015c. Scientific opinion on Dietary Reference\n                                                        Values for Calcium. EFSA Journal 2015;13(5):4101, 82 pp.\n                                                        doi:10.2903/j.efsa.2015.4101"
+    },
+    {
+      "text": "MALELIFE STAGE GROUPEARsEstimated Average Requirement0-6months-7-12months-1-3years5004-8years8009-13years110014-18years110019-30years80031-50years80051-70years800>70years1000"
+    },
+    {
+      "text": "FEMALELIFE STAGE GROUPEARsEstimated Average Requirement0-6months-7-12months-1-3years5004-8years8009-13years110014-18years110019-30years80031-50years80051-70years1000>70years1000≤18years,pregnant100019-50years,pregnant800≤18years,lactating100019-50years,lactating800"
+    },
+    {
+      "text": "SourcesInstitute of Medicine (IOM) 2011. Dietary Reference Intakes\n                                                        for Calcium and Vitamin. D. Washington, DC: The National\n                                                        Academies Press. https://doi.org/10.17226/13050."
+    },
+    {
+      "text": "Nutrient Reference Values forIRONin mg/day"
+    },
+    {
+      "text": "FAO & WHOEFSAIOM"
+    },
+    {
+      "text": "MALELIFE STAGE GROUPEARs*Estimated Average RequirementBioavailability15%12%10%5%0-6months----7-12months----1-3years----4-6years----7-10years----11-14years6.98.710.420.915-17years8.911.213.426.9≥18years7.08.810.521.1"
+    },
+    {
+      "text": "FEMALELIFE STAGE GROUPEARs*Estimated Average RequirementBioavailability15%12%10%5%0-6months----7-12months----1-3years----4-6years----7-10years----11-14years(pre-menarche)5.87.38.817.511-14years(menstruating)----15-17years----≥18years----Postmenopausal4.75.97.114.1Lactating7.18.910.721.4"
+    },
+    {
+      "text": "*Estimated Average Requirements (EARs) for iron, from diets with different dietary iron bioavailability, calculated based on Recommended Nutrient Intakes (RNIs) established by FAO & WHO1using conversion factors2.Sources1FAO/WHO. 2004. Vitamin and Mineral Requirements in\n                                                    Human Nutrition, 2nd ed. Rome: FAO.2Allen, L., de Benoist, B., Dary, O. & Hurrell R.\n                                                    2006. WHO/FAO Guidelines on Food Fortification with Micronutrients.\n                                                    WHO: Geneva, Switzerland."
+    },
+    {
+      "text": "MALELIFE STAGE GROUPARsEstimated Average Requirement0-6months-7-12months81-3years54-6years57-11years812-17years8≥18years6"
+    },
+    {
+      "text": "FEMALELIFE STAGE GROUPARsEstimated Average Requirement0-6months-7-12months81-3years54-6years57-11years812-17years7≥18yearsPremenopausal7Postmenopausal6Pregnant7Lactating7"
+    },
+    {
+      "text": "SourcesEuropean Food Safety Authority (EFSA), Nutrition and Allergies\n                                                        (NDA) Panel. 2015b. Scientific Opinion on Dietary Reference\n                                                        Values for iron. EFSA Journal 2015;13(10):4254. URL:\n                                                        https://www.efsa.europa.eu/en/efsajournal/pub/4254"
+    },
+    {
+      "text": "MALELIFE STAGE GROUPEARs*Estimated Average Requirement0-6months-7-12months6.91-3years34-8years4.19-13years5.914-18years7.719-30years631-50years651-70years6>70years6"
+    },
+    {
+      "text": "FEMALELIFE STAGE GROUPEARs*Estimated Average Requirement0-6months-7-12months6.91-3years34-8years4.19-13years5.714-18years7.919-30years8.131-50years8.151-70years5>70years5≤18years,pregnant2319-50years,pregnant22≤18years,lactating719-50years,lactating6.5"
+    },
+    {
+      "text": "*Requirements set based on the assumed mixed Western omnivorous\n                                                    diet with a maximal bioavailability of iron of 18 percent. The\n                                                    estimated bioavailability of iron from a vegetarian diet is\n                                                    approximately 10 percent. Hence the requirement for iron would be\n                                                    1.8 times higher for vegetarians. Diets in developing countries\n                                                    (characterized by low diversity and access to animal-source foods)\n                                                    might have very low iron bioavailability approaching 5\n                                                    percent.SourcesInstitute of Medicine (IOM) 2006. Dietary Reference Intakes:\n                                                        The Essential Guide to Nutrient Requirements. Washington, DC:\n                                                        The National Academies Press.\n                                                        https://doi.org/10.17226/11537."
+    },
+    {
+      "text": "Nutrient Reference Values forFOLATEinμg/day"
+    },
+    {
+      "text": "FAO & WHOEFSAIOM"
+    },
+    {
+      "text": "MALELIFE STAGE GROUPEARsEstimated Average Requirement0-6months*657-12months651-3years1204-6years1607-9years25010-18years33019-65years320>65years320"
+    },
+    {
+      "text": "FEMALELIFE STAGE GROUPEARsEstimated Average Requirement0-6months*657-12months651-3years1204-6years1607-9years25010-18years33019-65years320>65years320Pregnant520Lactating450"
+    },
+    {
+      "text": "*Based on human milk intake of 0.75 l/daySourcesFAO/WHO. 2004. Vitamin and Mineral Requirements in Human\n                                                        Nutrition, 2nd ed. Rome: FAO."
+    },
+    {
+      "text": "MALELIFE STAGE GROUPARsEstimated Average Requirement0-6months-7-11months-1-3years904-6years1107-10years16011-14years210≥15years250"
+    },
+    {
+      "text": "FEMALELIFE STAGE GROUPARsEstimated Average Requirement0-6months-7-11months-1-3years904-6years1107-10years16011-14years210≥15years250Pregnant-Lactating380"
+    },
+    {
+      "text": "* Dietary Folate EquivalentSourcesEuropean Food Safety Authority (EFSA), Nutrition and Allergies\n                                                        (NDA) Panel. 2015d. Scientific opinion on Dietary Reference\n                                                        Values for folate EFSA Journal 2014;12(11):3893, 59 pp.\n                                                        doi:10.2903/j.efsa.2014.3894"
+    },
+    {
+      "text": "MALELIFE STAGE GROUPEARsEstimated Average Requirement0-6months-7-12months-1-3years1204-8years1609-13years25014-18years33019-30years32031-50years32051-70years320>70years320"
+    },
+    {
+      "text": "FEMALELIFE STAGE GROUPEARsEstimated Average Requirement0-6months-7-12months-1-3years1204-8years1609-13years25014-18years33019-30years32031-50years32051-70years320>70years320≤18years,pregnant52019-50years,pregnant520≤18years,lactating45019-50years,lactating450"
+    },
+    {
+      "text": "SourcesInstitute of Medicine (IOM) 2006. Dietary Reference Intakes:\n                                                        The Essential Guide to Nutrient Requirements. Washington, DC:\n                                                        The National Academies Press.\n                                                        https://doi.org/10.17226/11537."
+    },
+    {
+      "text": "Cautionary noticeThe summary statistics displayed are derived from the data selected using the above filters.\n                    Statistics should be interpreted taking into account the limitations highlighted\n                    in theSurvey\n                        Detailsand theMethodologysection."
+    },
+    {
+      "text": "Survey Details×"
+    },
+    {
+      "text": "Loading..."
+    },
+    {
+      "text": "×Download"
+    },
+    {
+      "text": "PLEASE VERIFY YOUR ACCOUNT!WE SENT YOU AN AUTOMATIC EMAIL IN ORDER TO VERIFY YOUR EMAIL ACCOUNT!Did you open the confirmation link we sent you by email?YES"
+    },
+    {
+      "text": "Login successful!"
+    },
+    {
+      "text": "×"
+    },
+    {
+      "text": "Short description of the intended use of the data:"
+    },
+    {
+      "text": "Please, insert a valid justification before saving"
+    },
+    {
+      "text": "WeChat"
+    },
+    {
+      "text": "Follow us on"
+    },
+    {
+      "text": "FAO Organizational Chart"
+    },
+    {
+      "text": "Regional Office for AfricaRegional Office for Asia and the PacificRegional Office for Europe and Central AsiaRegional Office for Latin America and the CaribbeanRegional Office for the Near East and North AfricaCountry Offices"
+    },
+    {
+      "text": "JobsContact usTerms and ConditionsData protection and privacyScam AlertReport MisconductTransparency and accountability"
+    },
+    {
+      "text": "© FAO 2025"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "href": "https://www.fao.org"
+    },
+    {
+      "text": "About FAO",
+      "href": "https://www.fao.org/about/en/"
+    },
+    {
+      "text": "News",
+      "href": "https://www.fao.org/news/en/"
+    },
+    {
+      "text": "Multimedia",
+      "href": "https://www.fao.org/news/video-at-fao/en/"
+    },
+    {
+      "text": "Main topics",
+      "href": "https://www.fao.org/themes/en/"
+    },
+    {
+      "text": "Statistics",
+      "href": "https://www.fao.org/statistics/en/"
+    },
+    {
+      "text": "Members",
+      "href": "https://www.fao.org/countryprofiles/en/"
+    },
+    {
+      "text": "Publications",
+      "href": "https://www.fao.org/publications/en/"
+    },
+    {
+      "text": "العربية",
+      "href": ""
+    },
+    {
+      "text": "中文",
+      "href": ""
+    },
+    {
+      "text": "Français",
+      "href": ""
+    },
+    {
+      "text": "Русский",
+      "href": ""
+    },
+    {
+      "text": "Español",
+      "href": ""
+    },
+    {
+      "text": "",
+      "href": "#"
+    },
+    {
+      "text": "",
+      "href": "#collapseSearchBox"
+    },
+    {
+      "text": "×",
+      "href": "javascript:void(0)"
+    },
+    {
+      "text": "",
+      "href": "https://www.facebook.com/sharer/sharer.php?u=https://www.fao.org/gift-individual-food-consumption/data/en"
+    },
+    {
+      "text": "",
+      "href": "https://www.linkedin.com/shareArticle?mini=true&title=Data&url=https://www.fao.org/gift-individual-food-consumption/data/en"
+    },
+    {
+      "text": "",
+      "href": "https://twitter.com/intent/tweet?text=https://www.fao.org/gift-individual-food-consumption/data/en"
+    },
+    {
+      "text": "",
+      "href": "https://service.weibo.com/share/share.php?title=Data&url=https://www.fao.org/gift-individual-food-consumption/data/en"
+    },
+    {
+      "text": "",
+      "href": "https://www.fao.org/gift-individual-food-consumption/home/en"
+    },
+    {
+      "text": "About",
+      "href": "/gift-individual-food-consumption/about/en"
+    },
+    {
+      "text": "Data",
+      "href": "/gift-individual-food-consumption/data/en"
+    },
+    {
+      "text": "Methodology",
+      "href": "/gift-individual-food-consumption/methodology/en"
+    },
+    {
+      "text": "Resources",
+      "href": "/gift-individual-food-consumption/resources/en"
+    },
+    {
+      "text": "Methodology",
+      "href": "/gift-individual-food-consumption/methodology/en"
+    },
+    {
+      "text": "fao-who-gift@fao.org",
+      "href": "mailto:fao-who-gift@fao.org"
+    },
+    {
+      "text": "+",
+      "href": "#"
+    },
+    {
+      "text": "−",
+      "href": "#"
+    },
+    {
+      "text": "Leaflet",
+      "href": "https://leafletjs.com"
+    },
+    {
+      "text": "UN Geospatial Clearmap",
+      "href": "https://geoservices.un.org/Html5Viewer/index.html?viewer=clearmap"
+    },
+    {
+      "text": "Content",
+      "href": ""
+    },
+    {
+      "text": "Free text",
+      "href": ""
+    },
+    {
+      "text": "Resource Type",
+      "href": ""
+    },
+    {
+      "text": "Data Source",
+      "href": ""
+    },
+    {
+      "text": "Reference Period",
+      "href": ""
+    },
+    {
+      "text": "Reference Area",
+      "href": ""
+    },
+    {
+      "text": "Data Domain",
+      "href": ""
+    },
+    {
+      "text": "Region",
+      "href": ""
+    },
+    {
+      "text": "Accessibility",
+      "href": ""
+    },
+    {
+      "text": "Status of Confidentiality",
+      "href": ""
+    },
+    {
+      "text": "Search by id",
+      "href": ""
+    },
+    {
+      "text": "Uid",
+      "href": ""
+    },
+    {
+      "text": "Afghanistan",
+      "href": "#"
+    },
+    {
+      "text": "Albania",
+      "href": "#"
+    },
+    {
+      "text": "Algeria",
+      "href": "#"
+    },
+    {
+      "text": "American Samoa",
+      "href": "#"
+    },
+    {
+      "text": "Andorra",
+      "href": "#"
+    },
+    {
+      "text": "Angola",
+      "href": "#"
+    },
+    {
+      "text": "Anguilla",
+      "href": "#"
+    },
+    {
+      "text": "Antarctica",
+      "href": "#"
+    },
+    {
+      "text": "Antigua and Barbuda",
+      "href": "#"
+    },
+    {
+      "text": "Argentina",
+      "href": "#"
+    },
+    {
+      "text": "Armenia",
+      "href": "#"
+    },
+    {
+      "text": "Aruba",
+      "href": "#"
+    },
+    {
+      "text": "Ascension, Saint Helena and Tristan da Cunha",
+      "href": "#"
+    },
+    {
+      "text": "Australia",
+      "href": "#"
+    },
+    {
+      "text": "Austria",
+      "href": "#"
+    },
+    {
+      "text": "Azerbaijan",
+      "href": "#"
+    },
+    {
+      "text": "Bahamas",
+      "href": "#"
+    },
+    {
+      "text": "Bahrain",
+      "href": "#"
+    },
+    {
+      "text": "Bangladesh",
+      "href": "#"
+    },
+    {
+      "text": "Barbados",
+      "href": "#"
+    },
+    {
+      "text": "Belarus",
+      "href": "#"
+    },
+    {
+      "text": "Belgium",
+      "href": "#"
+    },
+    {
+      "text": "Belize",
+      "href": "#"
+    },
+    {
+      "text": "Benin",
+      "href": "#"
+    },
+    {
+      "text": "Bermuda",
+      "href": "#"
+    },
+    {
+      "text": "Bhutan",
+      "href": "#"
+    },
+    {
+      "text": "Bolivia (Plurinational State of)",
+      "href": "#"
+    },
+    {
+      "text": "Bonaire, Sint Eustatius and Saba",
+      "href": "#"
+    },
+    {
+      "text": "Bosnia and Herzegovina",
+      "href": "#"
+    },
+    {
+      "text": "Botswana",
+      "href": "#"
+    },
+    {
+      "text": "Bouvet Island",
+      "href": "#"
+    },
+    {
+      "text": "Brazil",
+      "href": "#"
+    },
+    {
+      "text": "British Indian Ocean Territory",
+      "href": "#"
+    },
+    {
+      "text": "British Virgin Islands",
+      "href": "#"
+    },
+    {
+      "text": "Brunei Darussalam",
+      "href": "#"
+    },
+    {
+      "text": "Bulgaria",
+      "href": "#"
+    },
+    {
+      "text": "Burkina Faso",
+      "href": "#"
+    },
+    {
+      "text": "Burundi",
+      "href": "#"
+    },
+    {
+      "text": "Cabo Verde",
+      "href": "#"
+    },
+    {
+      "text": "Cambodia",
+      "href": "#"
+    },
+    {
+      "text": "Cameroon",
+      "href": "#"
+    },
+    {
+      "text": "Canada",
+      "href": "#"
+    },
+    {
+      "text": "Cayman Islands",
+      "href": "#"
+    },
+    {
+      "text": "Central African Republic",
+      "href": "#"
+    },
+    {
+      "text": "Chad",
+      "href": "#"
+    },
+    {
+      "text": "Channel Islands",
+      "href": "#"
+    },
+    {
+      "text": "Chile",
+      "href": "#"
+    },
+    {
+      "text": "China",
+      "href": "#"
+    },
+    {
+      "text": "China, Hong Kong SAR",
+      "href": "#"
+    },
+    {
+      "text": "China, Macao SAR",
+      "href": "#"
+    },
+    {
+      "text": "Christmas Island",
+      "href": "#"
+    },
+    {
+      "text": "Cocos (Keeling) Islands",
+      "href": "#"
+    },
+    {
+      "text": "Colombia",
+      "href": "#"
+    },
+    {
+      "text": "Comoros",
+      "href": "#"
+    },
+    {
+      "text": "Congo",
+      "href": "#"
+    },
+    {
+      "text": "Cook Islands",
+      "href": "#"
+    },
+    {
+      "text": "Costa Rica",
+      "href": "#"
+    },
+    {
+      "text": "Croatia",
+      "href": "#"
+    },
+    {
+      "text": "Cuba",
+      "href": "#"
+    },
+    {
+      "text": "Curaçao",
+      "href": "#"
+    },
+    {
+      "text": "Cyprus",
+      "href": "#"
+    },
+    {
+      "text": "Czechia",
+      "href": "#"
+    },
+    {
+      "text": "Czechoslovakia",
+      "href": "#"
+    },
+    {
+      "text": "Côte d'Ivoire",
+      "href": "#"
+    },
+    {
+      "text": "Democratic People's Republic of Korea",
+      "href": "#"
+    },
+    {
+      "text": "Democratic Republic of the Congo",
+      "href": "#"
+    },
+    {
+      "text": "Denmark",
+      "href": "#"
+    },
+    {
+      "text": "Djibouti",
+      "href": "#"
+    },
+    {
+      "text": "Dominica",
+      "href": "#"
+    },
+    {
+      "text": "Dominican Republic",
+      "href": "#"
+    },
+    {
+      "text": "Ecuador",
+      "href": "#"
+    },
+    {
+      "text": "Egypt",
+      "href": "#"
+    },
+    {
+      "text": "El Salvador",
+      "href": "#"
+    },
+    {
+      "text": "Equatorial Guinea",
+      "href": "#"
+    },
+    {
+      "text": "Eritrea",
+      "href": "#"
+    },
+    {
+      "text": "Estonia",
+      "href": "#"
+    },
+    {
+      "text": "Eswatini",
+      "href": "#"
+    },
+    {
+      "text": "Ethiopia",
+      "href": "#"
+    },
+    {
+      "text": "European Union",
+      "href": "#"
+    },
+    {
+      "text": "Falkland Islands (Malvinas)",
+      "href": "#"
+    },
+    {
+      "text": "Faroe Islands (Associate Member)",
+      "href": "#"
+    },
+    {
+      "text": "Fiji",
+      "href": "#"
+    },
+    {
+      "text": "Finland",
+      "href": "#"
+    },
+    {
+      "text": "France",
+      "href": "#"
+    },
+    {
+      "text": "French Guiana",
+      "href": "#"
+    },
+    {
+      "text": "French Polynesia",
+      "href": "#"
+    },
+    {
+      "text": "French Southern Territories",
+      "href": "#"
+    },
+    {
+      "text": "Gabon",
+      "href": "#"
+    },
+    {
+      "text": "Gambia",
+      "href": "#"
+    },
+    {
+      "text": "Georgia",
+      "href": "#"
+    },
+    {
+      "text": "German Democratic Republic",
+      "href": "#"
+    },
+    {
+      "text": "Germany",
+      "href": "#"
+    },
+    {
+      "text": "Ghana",
+      "href": "#"
+    },
+    {
+      "text": "Gibraltar",
+      "href": "#"
+    },
+    {
+      "text": "Greece",
+      "href": "#"
+    },
+    {
+      "text": "Greenland",
+      "href": "#"
+    },
+    {
+      "text": "Grenada",
+      "href": "#"
+    },
+    {
+      "text": "Guadeloupe",
+      "href": "#"
+    },
+    {
+      "text": "Guam",
+      "href": "#"
+    },
+    {
+      "text": "Guatemala",
+      "href": "#"
+    },
+    {
+      "text": "Guernsey",
+      "href": "#"
+    },
+    {
+      "text": "Guinea",
+      "href": "#"
+    },
+    {
+      "text": "Guinea-Bissau",
+      "href": "#"
+    },
+    {
+      "text": "Guyana",
+      "href": "#"
+    },
+    {
+      "text": "Haiti",
+      "href": "#"
+    },
+    {
+      "text": "Heard Island and McDonald Islands",
+      "href": "#"
+    },
+    {
+      "text": "Holy See",
+      "href": "#"
+    },
+    {
+      "text": "Honduras",
+      "href": "#"
+    },
+    {
+      "text": "Hungary",
+      "href": "#"
+    },
+    {
+      "text": "Iceland",
+      "href": "#"
+    },
+    {
+      "text": "India",
+      "href": "#"
+    },
+    {
+      "text": "Indonesia",
+      "href": "#"
+    },
+    {
+      "text": "Iran (Islamic Republic of)",
+      "href": "#"
+    },
+    {
+      "text": "Iraq",
+      "href": "#"
+    },
+    {
+      "text": "Ireland",
+      "href": "#"
+    },
+    {
+      "text": "Isle of Man",
+      "href": "#"
+    },
+    {
+      "text": "Israel",
+      "href": "#"
+    },
+    {
+      "text": "Italy",
+      "href": "#"
+    },
+    {
+      "text": "Jamaica",
+      "href": "#"
+    },
+    {
+      "text": "Japan",
+      "href": "#"
+    },
+    {
+      "text": "Jersey",
+      "href": "#"
+    },
+    {
+      "text": "Jordan",
+      "href": "#"
+    },
+    {
+      "text": "Kazakhstan",
+      "href": "#"
+    },
+    {
+      "text": "Kenya",
+      "href": "#"
+    },
+    {
+      "text": "Kiribati",
+      "href": "#"
+    },
+    {
+      "text": "Kuwait",
+      "href": "#"
+    },
+    {
+      "text": "Kyrgyzstan",
+      "href": "#"
+    },
+    {
+      "text": "Lao People's Democratic Republic",
+      "href": "#"
+    },
+    {
+      "text": "Latvia",
+      "href": "#"
+    },
+    {
+      "text": "Lebanon",
+      "href": "#"
+    },
+    {
+      "text": "Lesotho",
+      "href": "#"
+    },
+    {
+      "text": "Liberia",
+      "href": "#"
+    },
+    {
+      "text": "Libya",
+      "href": "#"
+    },
+    {
+      "text": "Liechtenstein",
+      "href": "#"
+    },
+    {
+      "text": "Lithuania",
+      "href": "#"
+    },
+    {
+      "text": "Luxembourg",
+      "href": "#"
+    },
+    {
+      "text": "Madagascar",
+      "href": "#"
+    },
+    {
+      "text": "Malawi",
+      "href": "#"
+    },
+    {
+      "text": "Malaysia",
+      "href": "#"
+    },
+    {
+      "text": "Maldives",
+      "href": "#"
+    },
+    {
+      "text": "Mali",
+      "href": "#"
+    },
+    {
+      "text": "Malta",
+      "href": "#"
+    },
+    {
+      "text": "Marshall Islands",
+      "href": "#"
+    },
+    {
+      "text": "Martinique",
+      "href": "#"
+    },
+    {
+      "text": "Mauritania",
+      "href": "#"
+    },
+    {
+      "text": "Mauritius",
+      "href": "#"
+    },
+    {
+      "text": "Mayotte",
+      "href": "#"
+    },
+    {
+      "text": "Mexico",
+      "href": "#"
+    },
+    {
+      "text": "Micronesia (Federated States of)",
+      "href": "#"
+    },
+    {
+      "text": "Monaco",
+      "href": "#"
+    },
+    {
+      "text": "Mongolia",
+      "href": "#"
+    },
+    {
+      "text": "Montenegro",
+      "href": "#"
+    },
+    {
+      "text": "Montserrat",
+      "href": "#"
+    },
+    {
+      "text": "Morocco",
+      "href": "#"
+    },
+    {
+      "text": "Mozambique",
+      "href": "#"
+    },
+    {
+      "text": "Myanmar",
+      "href": "#"
+    },
+    {
+      "text": "Namibia",
+      "href": "#"
+    },
+    {
+      "text": "Nauru",
+      "href": "#"
+    },
+    {
+      "text": "Nepal",
+      "href": "#"
+    },
+    {
+      "text": "Netherlands (Kingdom of the)",
+      "href": "#"
+    },
+    {
+      "text": "Netherlands Antilles",
+      "href": "#"
+    },
+    {
+      "text": "New Caledonia",
+      "href": "#"
+    },
+    {
+      "text": "New Zealand",
+      "href": "#"
+    },
+    {
+      "text": "Nicaragua",
+      "href": "#"
+    },
+    {
+      "text": "Niger",
+      "href": "#"
+    },
+    {
+      "text": "Nigeria",
+      "href": "#"
+    },
+    {
+      "text": "Niue",
+      "href": "#"
+    },
+    {
+      "text": "Norfolk Island",
+      "href": "#"
+    },
+    {
+      "text": "North Macedonia",
+      "href": "#"
+    },
+    {
+      "text": "Northern Mariana Islands",
+      "href": "#"
+    },
+    {
+      "text": "Norway",
+      "href": "#"
+    },
+    {
+      "text": "Oman",
+      "href": "#"
+    },
+    {
+      "text": "Pakistan",
+      "href": "#"
+    },
+    {
+      "text": "Palau",
+      "href": "#"
+    },
+    {
+      "text": "Palestine",
+      "href": "#"
+    },
+    {
+      "text": "Panama",
+      "href": "#"
+    },
+    {
+      "text": "Papua New Guinea",
+      "href": "#"
+    },
+    {
+      "text": "Paraguay",
+      "href": "#"
+    },
+    {
+      "text": "Peru",
+      "href": "#"
+    },
+    {
+      "text": "Philippines",
+      "href": "#"
+    },
+    {
+      "text": "Pitcairn",
+      "href": "#"
+    },
+    {
+      "text": "Poland",
+      "href": "#"
+    },
+    {
+      "text": "Portugal",
+      "href": "#"
+    },
+    {
+      "text": "Puerto Rico",
+      "href": "#"
+    },
+    {
+      "text": "Qatar",
+      "href": "#"
+    },
+    {
+      "text": "Republic of Korea",
+      "href": "#"
+    },
+    {
+      "text": "Republic of Moldova",
+      "href": "#"
+    },
+    {
+      "text": "Romania",
+      "href": "#"
+    },
+    {
+      "text": "Russian Federation",
+      "href": "#"
+    },
+    {
+      "text": "Rwanda",
+      "href": "#"
+    },
+    {
+      "text": "Réunion",
+      "href": "#"
+    },
+    {
+      "text": "Saint Barthélemy",
+      "href": "#"
+    },
+    {
+      "text": "Saint Kitts and Nevis",
+      "href": "#"
+    },
+    {
+      "text": "Saint Lucia",
+      "href": "#"
+    },
+    {
+      "text": "Saint Martin (French part)",
+      "href": "#"
+    },
+    {
+      "text": "Saint Pierre and Miquelon",
+      "href": "#"
+    },
+    {
+      "text": "Saint Vincent and the Grenadines",
+      "href": "#"
+    },
+    {
+      "text": "Samoa",
+      "href": "#"
+    },
+    {
+      "text": "San Marino",
+      "href": "#"
+    },
+    {
+      "text": "Sao Tome and Principe",
+      "href": "#"
+    },
+    {
+      "text": "Saudi Arabia",
+      "href": "#"
+    },
+    {
+      "text": "Senegal",
+      "href": "#"
+    },
+    {
+      "text": "Serbia",
+      "href": "#"
+    },
+    {
+      "text": "Serbia and Montenegro",
+      "href": "#"
+    },
+    {
+      "text": "Seychelles",
+      "href": "#"
+    },
+    {
+      "text": "Sierra Leone",
+      "href": "#"
+    },
+    {
+      "text": "Singapore",
+      "href": "#"
+    },
+    {
+      "text": "Sint Maarten",
+      "href": "#"
+    },
+    {
+      "text": "Slovakia",
+      "href": "#"
+    },
+    {
+      "text": "Slovenia",
+      "href": "#"
+    },
+    {
+      "text": "Solomon Islands",
+      "href": "#"
+    },
+    {
+      "text": "Somalia",
+      "href": "#"
+    },
+    {
+      "text": "South Africa",
+      "href": "#"
+    },
+    {
+      "text": "South Georgia and the South Sandwich Islands",
+      "href": "#"
+    },
+    {
+      "text": "South Sudan",
+      "href": "#"
+    },
+    {
+      "text": "Soviet Union",
+      "href": "#"
+    },
+    {
+      "text": "Spain",
+      "href": "#"
+    },
+    {
+      "text": "Sri Lanka",
+      "href": "#"
+    },
+    {
+      "text": "Sudan",
+      "href": "#"
+    },
+    {
+      "text": "Suriname",
+      "href": "#"
+    },
+    {
+      "text": "Svalbard and Jan Mayen Islands",
+      "href": "#"
+    },
+    {
+      "text": "Sweden",
+      "href": "#"
+    },
+    {
+      "text": "Switzerland",
+      "href": "#"
+    },
+    {
+      "text": "Syrian Arab Republic",
+      "href": "#"
+    },
+    {
+      "text": "Taiwan Province of China",
+      "href": "#"
+    },
+    {
+      "text": "Tajikistan",
+      "href": "#"
+    },
+    {
+      "text": "Thailand",
+      "href": "#"
+    },
+    {
+      "text": "Timor-Leste",
+      "href": "#"
+    },
+    {
+      "text": "Togo",
+      "href": "#"
+    },
+    {
+      "text": "Tokelau (Associate Member)",
+      "href": "#"
+    },
+    {
+      "text": "Tonga",
+      "href": "#"
+    },
+    {
+      "text": "Trinidad and Tobago",
+      "href": "#"
+    },
+    {
+      "text": "Tunisia",
+      "href": "#"
+    },
+    {
+      "text": "Turkmenistan",
+      "href": "#"
+    },
+    {
+      "text": "Turks and Caicos Islands",
+      "href": "#"
+    },
+    {
+      "text": "Tuvalu",
+      "href": "#"
+    },
+    {
+      "text": "Türkiye",
+      "href": "#"
+    },
+    {
+      "text": "Uganda",
+      "href": "#"
+    },
+    {
+      "text": "Ukraine",
+      "href": "#"
+    },
+    {
+      "text": "United Arab Emirates",
+      "href": "#"
+    },
+    {
+      "text": "United Kingdom of Great Britain and Northern Ireland",
+      "href": "#"
+    },
+    {
+      "text": "United Republic of Tanzania",
+      "href": "#"
+    },
+    {
+      "text": "United States Minor Outlying Islands",
+      "href": "#"
+    },
+    {
+      "text": "United States Virgin Islands",
+      "href": "#"
+    },
+    {
+      "text": "United States of America",
+      "href": "#"
+    },
+    {
+      "text": "Uruguay",
+      "href": "#"
+    },
+    {
+      "text": "Uzbekistan",
+      "href": "#"
+    },
+    {
+      "text": "Vanuatu",
+      "href": "#"
+    },
+    {
+      "text": "Venezuela (Bolivarian Republic of)",
+      "href": "#"
+    },
+    {
+      "text": "Viet Nam",
+      "href": "#"
+    },
+    {
+      "text": "Wallis and Futuna Islands",
+      "href": "#"
+    },
+    {
+      "text": "Western Sahara",
+      "href": "#"
+    },
+    {
+      "text": "Yemen",
+      "href": "#"
+    },
+    {
+      "text": "Yugoslavia",
+      "href": "#"
+    },
+    {
+      "text": "Zambia",
+      "href": "#"
+    },
+    {
+      "text": "Zimbabwe",
+      "href": "#"
+    },
+    {
+      "text": "Åland Islands",
+      "href": "#"
+    },
+    {
+      "text": "Cereals and their products",
+      "href": "#"
+    },
+    {
+      "text": "Roots, tubers and plantains",
+      "href": "#"
+    },
+    {
+      "text": "Legumes",
+      "href": "#"
+    },
+    {
+      "text": "Seeds and nuts and their products",
+      "href": "#"
+    },
+    {
+      "text": "Milk and milk products",
+      "href": "#"
+    },
+    {
+      "text": "Eggs and their products",
+      "href": "#"
+    },
+    {
+      "text": "Fish, shellfish and their products",
+      "href": "#"
+    },
+    {
+      "text": "Meat and meat products",
+      "href": "#"
+    },
+    {
+      "text": "Insects, grubs and their products",
+      "href": "#"
+    },
+    {
+      "text": "Vegetables and their products",
+      "href": "#"
+    },
+    {
+      "text": "Fruits and their products",
+      "href": "#"
+    },
+    {
+      "text": "Fats and oils",
+      "href": "#"
+    },
+    {
+      "text": "Sugar and confectionnary (including cocoa products)",
+      "href": "#"
+    },
+    {
+      "text": "Herbs, spices and condiments",
+      "href": "#"
+    },
+    {
+      "text": "Beverages",
+      "href": "#"
+    },
+    {
+      "text": "Foods for particular nutritional uses",
+      "href": "#"
+    },
+    {
+      "text": "Food supplements and similar",
+      "href": "#"
+    },
+    {
+      "text": "Food additives",
+      "href": "#"
+    },
+    {
+      "text": "Composite dishes",
+      "href": "#"
+    },
+    {
+      "text": "‹",
+      "href": "#"
+    },
+    {
+      "text": "1",
+      "href": "#"
+    },
+    {
+      "text": "2",
+      "href": "#"
+    },
+    {
+      "text": "3",
+      "href": "#"
+    },
+    {
+      "text": "4",
+      "href": "#"
+    },
+    {
+      "text": "5",
+      "href": "#"
+    },
+    {
+      "text": "6",
+      "href": "#"
+    },
+    {
+      "text": "7",
+      "href": "#"
+    },
+    {
+      "text": "›",
+      "href": "#"
+    },
+    {
+      "text": "Filter Dataset",
+      "href": ""
+    },
+    {
+      "text": "Cereals and their products",
+      "href": "#"
+    },
+    {
+      "text": "Roots, tubers and plantains",
+      "href": "#"
+    },
+    {
+      "text": "Legumes",
+      "href": "#"
+    },
+    {
+      "text": "Seeds and nuts and their products",
+      "href": "#"
+    },
+    {
+      "text": "Milk and milk products",
+      "href": "#"
+    },
+    {
+      "text": "Eggs and their products",
+      "href": "#"
+    },
+    {
+      "text": "Fish, shellfish and their products",
+      "href": "#"
+    },
+    {
+      "text": "Meat and meat products",
+      "href": "#"
+    },
+    {
+      "text": "Insects, grubs and their products",
+      "href": "#"
+    },
+    {
+      "text": "Vegetables and their products",
+      "href": "#"
+    },
+    {
+      "text": "Fruits and their products",
+      "href": "#"
+    },
+    {
+      "text": "Fats and oils",
+      "href": "#"
+    },
+    {
+      "text": "Sugar and confectionnary (including cocoa products)",
+      "href": "#"
+    },
+    {
+      "text": "Herbs, spices and condiments",
+      "href": "#"
+    },
+    {
+      "text": "Beverages",
+      "href": "#"
+    },
+    {
+      "text": "Foods for particular nutritional uses",
+      "href": "#"
+    },
+    {
+      "text": "Food supplements and similar",
+      "href": "#"
+    },
+    {
+      "text": "Food additives",
+      "href": "#"
+    },
+    {
+      "text": "Composite dishes",
+      "href": "#"
+    },
+    {
+      "text": "Remove all filters",
+      "href": ""
+    },
+    {
+      "text": "Food Consumption",
+      "href": "#foodConsumptionTab"
+    },
+    {
+      "text": "Food Safety",
+      "href": "#foodSafetyTab"
+    },
+    {
+      "text": "Nutrition",
+      "href": "#nutritionTab"
+    },
+    {
+      "text": "Dietary Diversity",
+      "href": "#dietaryDiversityTab"
+    },
+    {
+      "text": "Environment",
+      "href": "#environmentalTab"
+    },
+    {
+      "text": "Advanced Analysis",
+      "href": "#advancedAnalysisTab"
+    },
+    {
+      "text": "Cereals and their products",
+      "href": "#"
+    },
+    {
+      "text": "Roots, tubers and plantains",
+      "href": "#"
+    },
+    {
+      "text": "Legumes",
+      "href": "#"
+    },
+    {
+      "text": "Seeds and nuts and their products",
+      "href": "#"
+    },
+    {
+      "text": "Milk and milk products",
+      "href": "#"
+    },
+    {
+      "text": "Eggs and their products",
+      "href": "#"
+    },
+    {
+      "text": "Fish, shellfish and their products",
+      "href": "#"
+    },
+    {
+      "text": "Meat and meat products",
+      "href": "#"
+    },
+    {
+      "text": "Insects, grubs and their products",
+      "href": "#"
+    },
+    {
+      "text": "Vegetables and their products",
+      "href": "#"
+    },
+    {
+      "text": "Fruits and their products",
+      "href": "#"
+    },
+    {
+      "text": "Fats and oils",
+      "href": "#"
+    },
+    {
+      "text": "Sugar and confectionnary (including cocoa products)",
+      "href": "#"
+    },
+    {
+      "text": "Herbs, spices and condiments",
+      "href": "#"
+    },
+    {
+      "text": "Beverages",
+      "href": "#"
+    },
+    {
+      "text": "Foods for particular nutritional uses",
+      "href": "#"
+    },
+    {
+      "text": "Food supplements and similar",
+      "href": "#"
+    },
+    {
+      "text": "Food additives",
+      "href": "#"
+    },
+    {
+      "text": "Composite dishes",
+      "href": "#"
+    },
+    {
+      "text": "Sources of MICRONUTRIENT in the diet",
+      "href": "#sourceOfNutrientsInTheDiet"
+    },
+    {
+      "text": "Sources of MACRONUTRIENT in the diet",
+      "href": "#sourceOfMacroNutrientsInTheDiet"
+    },
+    {
+      "text": "MACRONUTRIENT CONTRIBUTION to total energy intake",
+      "href": "#macronutrients"
+    },
+    {
+      "text": "Calcium",
+      "href": "#"
+    },
+    {
+      "text": "Iron",
+      "href": "#"
+    },
+    {
+      "text": "Zinc",
+      "href": "#"
+    },
+    {
+      "text": "Vitamin A",
+      "href": "#"
+    },
+    {
+      "text": "Thiamin",
+      "href": "#"
+    },
+    {
+      "text": "Riboflavin",
+      "href": "#"
+    },
+    {
+      "text": "Niacin",
+      "href": "#"
+    },
+    {
+      "text": "Vitamin B6",
+      "href": "#"
+    },
+    {
+      "text": "Folate",
+      "href": "#"
+    },
+    {
+      "text": "Vitamin B12",
+      "href": "#"
+    },
+    {
+      "text": "Vitamin C",
+      "href": "#"
+    },
+    {
+      "text": "Protein",
+      "href": "#"
+    },
+    {
+      "text": "Carbohydrate",
+      "href": "#"
+    },
+    {
+      "text": "Fiber",
+      "href": "#"
+    },
+    {
+      "text": "Fat",
+      "href": "#"
+    },
+    {
+      "text": "Saturated Fat",
+      "href": "#"
+    },
+    {
+      "text": "Minimum Dietary Diversity for Women (MDD-W)",
+      "href": "#minumumDietary"
+    },
+    {
+      "text": "Food Group Diversity Score (FGDS)​",
+      "href": "#foodGroupDiversityDietary"
+    },
+    {
+      "text": "Food group consumption",
+      "href": "#foodGroupConsumptionDietary"
+    },
+    {
+      "text": "Estimated impact by food group",
+      "href": "#foodGroupsENV"
+    },
+    {
+      "text": "Estimated impact per nutritional functional unit",
+      "href": "#functionalUnitsENV"
+    },
+    {
+      "text": "Greenhouse gas emissions",
+      "href": "#ghguTab"
+    },
+    {
+      "text": "Water use",
+      "href": "#wuTab"
+    },
+    {
+      "text": "Land use",
+      "href": "#luTab"
+    },
+    {
+      "text": "Methodology section",
+      "href": "https://www.fao.org/gift-individual-food-consumption/methodology/indicators-and-summary-statistics/environment/en"
+    },
+    {
+      "text": "Methodology section",
+      "href": "https://www.fao.org/gift-individual-food-consumption/methodology/indicators-and-summary-statistics/environment/en"
+    },
+    {
+      "text": "Calcium",
+      "href": "#"
+    },
+    {
+      "text": "Iron",
+      "href": "#"
+    },
+    {
+      "text": "Folate",
+      "href": "#"
+    },
+    {
+      "text": "Methodology",
+      "href": "https://sfcs.fao.org/gift/methodology/en"
+    },
+    {
+      "text": "",
+      "href": "http://www.facebook.com/pages/Food-and-Agriculture-Organization-of-the-United-Nations-FAO/46370758585?ref=mf"
+    },
+    {
+      "text": "",
+      "href": "https://instagram.com/fao"
+    },
+    {
+      "text": "",
+      "href": "http://www.linkedin.com/company/fao"
+    },
+    {
+      "text": "",
+      "href": "https://soundcloud.com/unfao"
+    },
+    {
+      "text": "",
+      "href": "https://www.tiktok.com/@fao"
+    },
+    {
+      "text": "",
+      "href": "https://www.toutiao.com/c/user/token/MS4wLjABAAAAddfBLLYL2GZzXAetR_paFVV1-M4fdAWpUxiROxuOpl7pDGuXLCGfYg_VOogU135J/"
+    },
+    {
+      "text": "",
+      "href": "http://www.weibo.com/unfao?from=myfollow_all"
+    },
+    {
+      "text": "",
+      "href": "https://bit.ly/3BBpfEq"
+    },
+    {
+      "text": "",
+      "href": "https://x.com/FAO"
+    },
+    {
+      "text": "",
+      "href": "http://www.youtube.com/user/FAOoftheUN"
+    },
+    {
+      "text": "FAO Organizational Chart",
+      "href": "https://www.fao.org/about/org-chart/en/"
+    },
+    {
+      "text": "Regional Office for Africa",
+      "href": "https://www.fao.org/africa/en/"
+    },
+    {
+      "text": "Regional Office for Asia and the Pacific",
+      "href": "https://www.fao.org/asiapacific/en/"
+    },
+    {
+      "text": "Regional Office for Europe and Central Asia",
+      "href": "https://www.fao.org/europe/en/"
+    },
+    {
+      "text": "Regional Office for Latin America and the Caribbean",
+      "href": "https://www.fao.org/americas/en/"
+    },
+    {
+      "text": "Regional Office for the Near East and North Africa",
+      "href": "https://www.fao.org/neareast/en/"
+    },
+    {
+      "text": "Country Offices",
+      "href": "https://www.fao.org/about/who-we-are/worldwide-offices/en"
+    },
+    {
+      "text": "Jobs",
+      "href": "https://www.fao.org/employment/home/en/"
+    },
+    {
+      "text": "Contact us",
+      "href": "https://fao.org/contact-us/en/"
+    },
+    {
+      "text": "Terms and Conditions",
+      "href": "https://fao.org/contact-us/terms/en/"
+    },
+    {
+      "text": "Data protection and privacy",
+      "href": "https://fao.org/contact-us/data-protection-and-privacy/en/"
+    },
+    {
+      "text": "Scam Alert",
+      "href": "https://fao.org/contact-us/scam-alert/en/"
+    },
+    {
+      "text": "Report Misconduct",
+      "href": "https://www.fao.org/contact-us/report-misconduct/en/"
+    },
+    {
+      "text": "Transparency and accountability",
+      "href": "https://www.fao.org/transparency/en"
+    },
+    {
+      "text": "© FAO 2025",
+      "href": "https://www.fao.org/contact-us/terms/en/"
+    }
+  ],
+  "map": [],
+  "other infornation": ""
+}
