@@ -1,5 +1,5 @@
 # Dashbaord Evaluation
-This repository contains code and data supporting the paper: *[Leveraging LLMs for Enhanced Quality Assessment of Nutrition and Health Dashboards]*.
+This repository contains code and data supporting the paper: *Leveraging LLMs for Enhanced Quality Assessment of Nutrition and Health Dashboards*.
 
 ## Repository Structure
 - `code/` - Analysis scripts
