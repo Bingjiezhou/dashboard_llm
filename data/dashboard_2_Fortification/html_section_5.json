@@ -1,0 +1,603 @@
+{
+  "url": "https://fortificationdata.org/data-contributors/",
+  "structural_elements": {
+    "headers": [
+      {
+        "level": 1,
+        "text": "DATACONTRIBUTORS"
+      },
+      {
+        "level": 3,
+        "text": "Subscribe to the GFDx"
+      },
+      {
+        "level": 3,
+        "text": "Suscribirse al GFDx"
+      }
+    ],
+    "paragraphs": [
+      {
+        "text": "The following organizations/agencies have contributed data to the GFDx and are compiled by country name."
+      },
+      {
+        "text": "Afghanistan"
+      },
+      {
+        "text": "Angola"
+      },
+      {
+        "text": "Argentina"
+      },
+      {
+        "text": "Australia"
+      },
+      {
+        "text": "Bahrain"
+      },
+      {
+        "text": "Bangladesh"
+      },
+      {
+        "text": "Belarus"
+      },
+      {
+        "text": "Bosnia and Herzegovina"
+      },
+      {
+        "text": "Bulgaria"
+      },
+      {
+        "text": "Cambodia"
+      },
+      {
+        "text": "Cameroon"
+      },
+      {
+        "text": "Canada"
+      },
+      {
+        "text": "Central African Republic"
+      },
+      {
+        "text": "Chile"
+      },
+      {
+        "text": "China"
+      },
+      {
+        "text": "Colombia"
+      },
+      {
+        "text": "eSwatini"
+      },
+      {
+        "text": "Ethiopia"
+      },
+      {
+        "text": "Fiji"
+      },
+      {
+        "text": "Gambia"
+      },
+      {
+        "text": "Georgia"
+      },
+      {
+        "text": "Germany"
+      },
+      {
+        "text": "Haiti"
+      },
+      {
+        "text": "Hungary"
+      },
+      {
+        "text": "Indonesia"
+      },
+      {
+        "text": "Kenya"
+      },
+      {
+        "text": "Kosovo"
+      },
+      {
+        "text": "Laos"
+      },
+      {
+        "text": "Lebanon"
+      },
+      {
+        "text": "Liberia"
+      },
+      {
+        "text": "Malawi"
+      },
+      {
+        "text": "Maldives"
+      },
+      {
+        "text": "Mali"
+      },
+      {
+        "text": "Mexico"
+      },
+      {
+        "text": "Micronesia"
+      },
+      {
+        "text": "Moldova"
+      },
+      {
+        "text": "Myanmar"
+      },
+      {
+        "text": "Namibia"
+      },
+      {
+        "text": "Nepal"
+      },
+      {
+        "text": "Netherlands"
+      },
+      {
+        "text": "New Zealand"
+      },
+      {
+        "text": "Niger"
+      },
+      {
+        "text": "Nigeria"
+      },
+      {
+        "text": "Norway"
+      },
+      {
+        "text": "Pakistan"
+      },
+      {
+        "text": "Papua New Guinea"
+      },
+      {
+        "text": "Philippines"
+      },
+      {
+        "text": "Romania"
+      },
+      {
+        "text": "South Africa"
+      },
+      {
+        "text": "Sudan"
+      },
+      {
+        "text": "Sweden"
+      },
+      {
+        "text": "Swtizerland"
+      },
+      {
+        "text": "Tajikistan"
+      },
+      {
+        "text": "Tanzania"
+      },
+      {
+        "text": "Thailand"
+      },
+      {
+        "text": "Turkey"
+      },
+      {
+        "text": "Tonga"
+      },
+      {
+        "text": "Tunisia"
+      },
+      {
+        "text": "Uganda"
+      },
+      {
+        "text": "United Kingdom"
+      },
+      {
+        "text": "Uzbekistan"
+      },
+      {
+        "text": "Vanuatu"
+      },
+      {
+        "text": "Venezuela"
+      },
+      {
+        "text": "Zambia"
+      },
+      {
+        "text": "Zimbabwe"
+      }
+    ]
+  },
+  "div_hierarchy": [
+    {
+      "text": "EnglishEspañol"
+    },
+    {
+      "text": "MenuMenu"
+    },
+    {
+      "text": "About UsIntroductionAbout FortificationAbout the GFDxWho we areShare your dataContact formCountriesDataCountry dashboardsVisualizationsFull datasetsMethods and SourcesMethodologyData contributorsMedia CenterResourcesFortification ResourcesHow to use the GFDxFAQsSubscribe to our newsletters!MenuMenu"
+    },
+    {
+      "text": "The following organizations/agencies have contributed data to the GFDx and are compiled by country name."
+    },
+    {
+      "text": "Ministry of Public Health"
+    },
+    {
+      "text": "European Foundation For Angolan Promotion & Development (EFFA)"
+    },
+    {
+      "text": "Center for Studies on Child Nutrition (CESNI)"
+    },
+    {
+      "text": "Iodine Global Network RepresentativeFood Standards Australia New Zealand"
+    },
+    {
+      "text": "Ministry of Industry, Commerce, and Tourism/Standards and Metrology Directorate"
+    },
+    {
+      "text": "Global Alliance for Improved NutritionNutrition InternationalUnited Nations World Food Programme (WFP)"
+    },
+    {
+      "text": "Iodine Global Network Representative"
+    },
+    {
+      "text": "Institute of Public Health of Federation of Bosnia and HerzegovinaMinistry of Civil Affairs – Department of Health"
+    },
+    {
+      "text": "Iodine Global Network Representative"
+    },
+    {
+      "text": "UNICEFMinistry of Industry and HandicraftHelen Keller International"
+    },
+    {
+      "text": "Helen Keller International"
+    },
+    {
+      "text": "Canadian National Millers AssociationQuican Inc.Food Fortification Initiative (FFI)"
+    },
+    {
+      "text": "UNICEF"
+    },
+    {
+      "text": "Granotec"
+    },
+    {
+      "text": "China CDC/Center for Endemic Disease ControlHenan University of Technology"
+    },
+    {
+      "text": "Ministry of Health"
+    },
+    {
+      "text": "Swaziland National Nutrition CouncilMinistry of AgricultureEswatini PremierSWASA – Eswatini Standards AuthoritySwaziland Oil Milling IndustryMinistry of Health"
+    },
+    {
+      "text": "Global Alliance for Improved Nutrition"
+    },
+    {
+      "text": "Secretariat for the Pacific CommunityMinistry of Health and Medical Services"
+    },
+    {
+      "text": "Iodine Global Network Representative"
+    },
+    {
+      "text": "National Center for Disease Control and Public HealthIodine Global Network RepresentativeParliament of Georgia"
+    },
+    {
+      "text": "Iodine Global Network Representative"
+    },
+    {
+      "text": "Iodine Global Network Representative"
+    },
+    {
+      "text": "Iodine Global Network Representative"
+    },
+    {
+      "text": "Indonesia Nutrition Foundation for Food Fortification (KFI)PT Indofood Sukses Makmur TbkBogasari Flour MillsNutrition InternationalSecretariat Project of Rice Fortification for the PoorDepartment of Nutrition, Bogor Agriculture University (IPB)"
+    },
+    {
+      "text": "Global Alliance for Improved Nutrition"
+    },
+    {
+      "text": "Iodine Global Network RepresentativeUNICEF Kosovo"
+    },
+    {
+      "text": "UNICEF"
+    },
+    {
+      "text": "American University of Beirut/Faculty of Agricultural and Food Sciences"
+    },
+    {
+      "text": "Liberia’s National Standards LabMinistry of Commerce and IndustryThe National Food Fortification Alliance (NFA)"
+    },
+    {
+      "text": "UNICEF MalawiMinistry of Health/Community Health Sciences UnitMalawi Bureau of StandardsUniversity of Malawi College of Medicine Department of SurgeryFood Fortification Technology"
+    },
+    {
+      "text": "Iodine Global Network RepresentativeMaldives National University"
+    },
+    {
+      "text": "SUN Government Focal Point"
+    },
+    {
+      "text": "Asociación Mexicana de la Industria Salinera A.C."
+    },
+    {
+      "text": "Federated States of Micronesia (FSM) Department of Health and Social AffairsFederated States of Micronesia (FSM) Customs Operation"
+    },
+    {
+      "text": "Iodine Global Network Representative"
+    },
+    {
+      "text": "UNICEFPATH"
+    },
+    {
+      "text": "Namibian Standards InstitutionNamib Mills"
+    },
+    {
+      "text": "Nutrition InternationalUNICEFSalt Trading Corporation LimitedDepartment of Food Technology and Quality Control (DFTQC)"
+    },
+    {
+      "text": "Akzo Nobel Chemicals B.V.Ministry of Health"
+    },
+    {
+      "text": "Ministry of Primary IndustryMinistry for Primary IndustriesNew Zealand Food Safety"
+    },
+    {
+      "text": "Ministry of Public Health"
+    },
+    {
+      "text": "United Nations System Standing Committee on Nutrition (UNSCN)Boniface Haiti Foundation of NigeriaStandards Organisation of NigeriaNational Agency for Food and Drug Administration and Control (NAFDAC)Standards of Nutrition Micronutrients Laboratory"
+    },
+    {
+      "text": "Centre for International Health, University of Bergen"
+    },
+    {
+      "text": "Global Alliance for Improved NutritionNational Nutrition and Fortification Alliance"
+    },
+    {
+      "text": "Iodine Global Network Representative"
+    },
+    {
+      "text": "Department of Health/Family Health ProgramsNational Nutrition CouncilChamber of Philippine Flour MillersPolytechnic University of the PhilippinesFood and Drug Administration"
+    },
+    {
+      "text": "Iodine Global Network Representative"
+    },
+    {
+      "text": "DSM Nutritional ProductsMinistry of HealthP Cubed CC"
+    },
+    {
+      "text": "Ministry of Health"
+    },
+    {
+      "text": "Salinity"
+    },
+    {
+      "text": "Swiss Folic Acid FoundationBuhler"
+    },
+    {
+      "text": "Global Alliance for Improved Nutrition"
+    },
+    {
+      "text": "Ministry of Health and Social WelfareTanzania Food and Nutrition CentreTanzania Bureau of Standards"
+    },
+    {
+      "text": "Bureau of NutritionRiceland International Limited"
+    },
+    {
+      "text": "Spina Bifida Association of TurkeySoke Mill"
+    },
+    {
+      "text": "Ministry of Agriculture and Food, Forest, and Fisheries"
+    },
+    {
+      "text": "Groupe AffesSociete Tunisienne de Production Alimentaire (S.T.P.A.)"
+    },
+    {
+      "text": "Uganda National Bureau of Standards"
+    },
+    {
+      "text": "Iodine Global NetworkJS CommoditiesNational Association of British and Irish Millers (NABIM)"
+    },
+    {
+      "text": "Iodine Global Network Representative"
+    },
+    {
+      "text": "Vanuatu Stats OfficeMinistry of Health"
+    },
+    {
+      "text": "Simón Bolívar UniversityMember of Sociedad Latinoamericana de Nutrición"
+    },
+    {
+      "text": "Zambia Bureau of StandardsIodine Global Network RepresentativeNational Food and Nutrition CommissionNational Institute for Scientific and Industrial Research"
+    },
+    {
+      "text": "Ministry of Health and Child CareUNICEF"
+    },
+    {
+      "text": "© Copyright - Global Fortification Data Exchange"
+    },
+    {
+      "text": "*indicates required"
+    },
+    {
+      "text": "Email Address:*"
+    },
+    {
+      "text": "First Name:"
+    },
+    {
+      "text": "Last Name:"
+    },
+    {
+      "text": "Organization:"
+    },
+    {
+      "text": "Country:"
+    },
+    {
+      "text": "*indica requerido"
+    },
+    {
+      "text": "Dirección de Correo electrónico:*"
+    },
+    {
+      "text": "Nombre de Pila:"
+    },
+    {
+      "text": "Nombre de Familia:"
+    },
+    {
+      "text": "Organización:"
+    },
+    {
+      "text": "País:"
+    }
+  ],
+  "links": [
+    {
+      "text": "English",
+      "href": "https://fortificationdata.org/data-contributors/"
+    },
+    {
+      "text": "Español",
+      "href": "https://fortificaciondatos.org/"
+    },
+    {
+      "text": "",
+      "href": "https://fortificationdata.org/"
+    },
+    {
+      "text": "MenuMenu",
+      "href": "#"
+    },
+    {
+      "text": "Youtube",
+      "href": "https://www.youtube.com/channel/UCujCdiDCqAyC4-MIfaeMS4w"
+    },
+    {
+      "text": "Twitter",
+      "href": "https://twitter.com/GFDxSecretariat"
+    },
+    {
+      "text": "Mail",
+      "href": "https://fortificationdata.org/#contact"
+    },
+    {
+      "text": "Youtube",
+      "href": "https://www.youtube.com/channel/UCujCdiDCqAyC4-MIfaeMS4w"
+    },
+    {
+      "text": "Twitter",
+      "href": "https://twitter.com/GFDxSecretariat"
+    },
+    {
+      "text": "Mail",
+      "href": "https://fortificationdata.org/#contact"
+    },
+    {
+      "text": "About Us",
+      "href": ""
+    },
+    {
+      "text": "Introduction",
+      "href": "https://fortificationdata.org/#intro"
+    },
+    {
+      "text": "About Fortification",
+      "href": "https://fortificationdata.org/#aboutfoodfortification"
+    },
+    {
+      "text": "About the GFDx",
+      "href": "https://fortificationdata.org/#about"
+    },
+    {
+      "text": "Who we are",
+      "href": "https://fortificationdata.org/#whoweare"
+    },
+    {
+      "text": "Share your data",
+      "href": "https://fortificationdata.org/#sharedata"
+    },
+    {
+      "text": "Contact form",
+      "href": "https://fortificationdata.org/#contact"
+    },
+    {
+      "text": "Countries",
+      "href": "https://fortificationdata.org/list-of-countries-for-the-food-fortification-dashboard/"
+    },
+    {
+      "text": "Data",
+      "href": ""
+    },
+    {
+      "text": "Country dashboards",
+      "href": "https://fortificationdata.org/country-fortification-dashboard/"
+    },
+    {
+      "text": "Visualizations",
+      "href": "https://fortificationdata.org/visualizations"
+    },
+    {
+      "text": "Full datasets",
+      "href": "https://fortificationdata.org/full-gfdx-datasets/"
+    },
+    {
+      "text": "Methods and Sources",
+      "href": ""
+    },
+    {
+      "text": "Methodology",
+      "href": "https://fortificationdata.org/methodology/"
+    },
+    {
+      "text": "Data contributors",
+      "href": "https://fortificationdata.org/data-contributors/#top"
+    },
+    {
+      "text": "Media Center",
+      "href": "https://fortificationdata.org/media-center/"
+    },
+    {
+      "text": "Resources",
+      "href": ""
+    },
+    {
+      "text": "Fortification Resources",
+      "href": "https://fortificationdata.org/resources/"
+    },
+    {
+      "text": "How to use the GFDx",
+      "href": "https://fortificationdata.org/how-to-use-the-gfdx/"
+    },
+    {
+      "text": "FAQs",
+      "href": "https://fortificationdata.org/frequently-asked-questions/"
+    },
+    {
+      "text": "Subscribe to our newsletters!",
+      "href": ""
+    },
+    {
+      "text": "MenuMenu",
+      "href": "#"
+    },
+    {
+      "text": "Scroll to top",
+      "href": "#top"
+    }
+  ],
+  "map": [],
+  "other infornation": ""
+}

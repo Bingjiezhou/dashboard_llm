@@ -1,0 +1,725 @@
+{
+  "url": "https://fortificationdata.org/map-number-of-food-vehicles/",
+  "structural_elements": {
+    "headers": [
+      {
+        "level": 2,
+        "text": "Questions?"
+      },
+      {
+        "level": 3,
+        "text": "Explore"
+      },
+      {
+        "level": 3,
+        "text": "Subscribe to the GFDx"
+      },
+      {
+        "level": 3,
+        "text": "Suscribirse al GFDx"
+      },
+      {
+        "level": 3,
+        "text": "Welcome to the GFDx, an analysis and visualization tool for data on food fortification!"
+      },
+      {
+        "level": 3,
+        "text": "Country Dashboards & Interactive Maps, Charts, Tables and Plots"
+      },
+      {
+        "level": 3,
+        "text": "How to view country Dashboards"
+      },
+      {
+        "level": 3,
+        "text": "How to customize maps and charts"
+      },
+      {
+        "level": 3,
+        "text": "How to interpret visualizations, share and download"
+      },
+      {
+        "level": 5,
+        "text": "See more…"
+      }
+    ],
+    "paragraphs": [
+      {
+        "text": "Chart: Total Food Availability"
+      },
+      {
+        "text": "Chart showing total annual food supply available for human\n                                                            consumption by country (Use this chart to identify total\n                                                            annual food availability of maize flour, oil, salt, rice, or\n                                                            wheat flour in a country)"
+      },
+      {
+        "text": "Chart: Quantity and Proportion of Industrially Processed\n                                                            Food Vehicles"
+      },
+      {
+        "text": "Chart showing the total quantity and proportion of each food\n                                                            vehicle that is industrially processed by country"
+      },
+      {
+        "text": "Chart: Context for Fortified Food Vehicle Coverage in the\n                                                            Population"
+      },
+      {
+        "text": "Chart of the proportion of a country’s population reported to\n                                                            consume a fortified food vehicle, compared to the population\n                                                            consuming that food (fortified or not), compared to the\n                                                            entire population"
+      },
+      {
+        "text": "Chart: Quantity and Proportion\n                                                            ofIndustrially Processed Foods by\n                                                            Year"
+      },
+      {
+        "text": "Chartdisplaying the total quantity and proportion\n                                                            of each industrially processed food vehicle in a country by\n                                                            year"
+      },
+      {
+        "text": "Map: Presence of external and import monitoring protocols"
+      },
+      {
+        "text": "Whether countries with mandatory fortification legislation have the applicable protocols to monitor the domestic\n                                                            production (external monitoring) or importation (import monitoring) of fortified foods. The presence of a\n                                                            monitoring protocol indicates that a country has identified procedures to carry out external and/or import\n                                                            monitoring of food fortification. If a country lacks an external and/or import monitoring protocol, it would\n                                                            suggest that a basic foundational document for the implementation of food fortification programs is\n                                                            missing."
+      },
+      {
+        "text": "Map: Quantity and Proportion of Food Vehicle that is\n                                                            Fortified"
+      },
+      {
+        "text": "Map of the total quantity and proportion of a food vehicle\n                                                            that is fortified"
+      },
+      {
+        "text": "Map: Food Intake and Availability"
+      },
+      {
+        "text": "Map counting the number of nutrients required in food\n                                                            vehicles by country (Use this map to identify by country how\n                                                            many nutrients are required in mandatory or voluntary\n                                                            standards for maize flour, oil, salt, rice, and/or wheat\n                                                            flour)"
+      },
+      {
+        "text": "Map: Population Coverage of Fortified Food Vehicle in\n                                                            Countries with Mandatory or Voluntary Fortification"
+      },
+      {
+        "text": "Map of the proportion of a country’s population with access\n                                                            to the fortified food vehicle"
+      },
+      {
+        "text": "Chart: Year When Food Fortification Mandated"
+      },
+      {
+        "text": "Chart of the number of countries with mandatory food\n                                                            fortification over time (Use this chart to identify when a\n                                                            country first passed mandatory fortification of maize flour,\n                                                            oil, salt, rice, and/or wheat flour)"
+      },
+      {
+        "text": "Plot: Fortification Legislation Scope in Countries with\n                                                            Mandatory Fortification"
+      },
+      {
+        "text": "Plot displaying the scope of fortification legislation, which\n                                                            includes information on whether all food vehicle types or a\n                                                            subset are required to be fortified and whether mandatory\n                                                            legislation requires food vehicles of different\n                                                            origins/destinations and intended uses to be fortified"
+      },
+      {
+        "text": "Map: Fortification Legislation"
+      },
+      {
+        "text": "Map of legal status of food fortification by country (Use\n                                                            this map to identify which countries have mandatory and\n                                                            voluntary legislation for the fortification of maize flour,\n                                                            oil, rice, salt, and/or wheat flour)"
+      },
+      {
+        "text": "Map: Number of Food Vehicles with Standards"
+      },
+      {
+        "text": "Map counting the number of food vehicles with fortification\n                                                            standards by country (Use this map to identify by country\n                                                            how many of the following foods have mandatory or voluntary\n                                                            standards: maize flour, oil, salt, rice, and/or wheat\n                                                            flour)"
+      },
+      {
+        "text": "Map: Count of Nutrients in Standards"
+      },
+      {
+        "text": "Map counting the number of nutrients required in food\n                                                            vehicles by country (Use this map to identify by country how\n                                                            many nutrients are required in mandatory or voluntary\n                                                            standards for maize flour, oil, salt, rice, and/or wheat\n                                                            flour)"
+      },
+      {
+        "text": "Map: Nutrient Levels in Fortification Standards\n                                                            [mid-range or average]"
+      },
+      {
+        "text": "Map displaying the amount of each nutrient required in food\n                                                            vehicles by country (Use this map to identify by country\n                                                            nutrient levels required in mandatory or voluntary standards\n                                                            for maize flour, oil, salt, rice, or wheat flour)"
+      },
+      {
+        "text": "Map: Availability of Data on Health Status Before and\n                                                            After Mandatory Fortification"
+      },
+      {
+        "text": "The purpose of mandatory food fortification is to improve health outcomes in a population. Health improvements\n                                                            can be measured in changes in blood biomarkers and/or changes in functional outcomes that are caused by a\n                                                            deficiency in a nutrient. This visualization presents the number of countries that have data or studies\n                                                            comparing health status before and after mandatory fortification."
+      },
+      {
+        "text": "GFDx Analysis: Alignment of national fortification standards with WHO guidelines (nutrient\n                                                            compounds)"
+      },
+      {
+        "text": "Nutrients can be added in fortification as different chemical forms (compounds). This visualization compares the\n                                                            nutrient compounds specified in national fortification standards to those recommended in WHO guidelines."
+      },
+      {
+        "text": "GFDx Analysis: Comparison of national fortification standards with WHO guidelines (nutrient levels)"
+      },
+      {
+        "text": "Nutrient amounts (or levels) added in fortification should contribute meaningfully to dietary intake. This\n                                                            visualization compares nutrient levels specified in national fortification standards to those recommended in WHO\n                                                            guidelines. Results from this analysis should be used as a starting point for policymakers to discuss whether\n                                                            national fortification requirements are as safe and effective as possible."
+      },
+      {
+        "text": "GFDx Analysis: Potential nutrient intake under ideal (unadjusted) and real-life (adjusted for program\n                                                            implementation data, where available) scenarios"
+      },
+      {
+        "text": "This visualization calculates the potential intake of nutrients included in fortification standards based on food\n                                                            intake/availability information. Data is presented under the ideal scenario that all foodcanandhasbeen\n                                                            fortified, as well as real-life scenario that adjusts data for the proportion of food that can be fortified\n                                                            (i.e., is industrially milled) and the proportion of food thathasbeen fortified (i.e., compliance,\n                                                            quality, or\n                                                            expert opinion data), if this data is available."
+      },
+      {
+        "text": "Food fortification adds essential vitamins and minerals, called micronutrients, to commonly consumed foods to prevent nutritional deficiencies. We call these commonly consumed foods that can be fortifiedfood vehiclesbecause they “deliver” nutrients."
+      },
+      {
+        "text": "Food fortification is one of the most scalable, sustainable and cost-effective interventions to combat micronutrient malnutrition."
+      },
+      {
+        "text": "Vitamin and mineral deficiencies affect people globally – impacting their health and limiting their ability to contribute to the economic well-being of their communities and countries."
+      },
+      {
+        "text": "Designed for, and by the fortification community, the GFDx provides all the data necessary to track global progress on food fortification, and to enable decision makers to use data to improve the quality of national fortification programs."
+      },
+      {
+        "text": "The GFDxaggregates and visualizes data on five commonly fortified foods: maize flour, oil, rice, salt, and wheat flour."
+      },
+      {
+        "text": "The GFDx includes indicators on food fortification legislation from 1940 to present, fortification standards, and food availability and intake, legislation scope, proportion of foods industrially processed, availability of regulatory monitoring protocols, fortification quality, and population coverage for 196 countries."
+      },
+      {
+        "text": "Within the GFDx site,you are able to view Country Dashboards, use and share interactive maps, charts, tables, plots, and customize visualizations or download data for offline analysis."
+      },
+      {
+        "text": "UnderDataon the homepage, you will find our “Country Fortification Dashboards”. Once you are on a country dashboard, you cansearch for other countries in the map using the search bar:"
+      },
+      {
+        "text": "You can download as a PDF, or share with others. You can also return to the home page and click on “Countries” for afull list of country dashboard links, organized by global region:"
+      },
+      {
+        "text": "Also underDataon the homepage, you will find our interactive maps, charts and plots."
+      },
+      {
+        "text": "Use the filter options on the right-hand sideof the map, chart or plot of charts to customize based on your data needs.Explore other indicatorsby navigating theEXPLORE sectionon theleft hand side."
+      },
+      {
+        "text": "In the tabs below each visualization, you can view a table of thedata, understandhow to interpretthe visualization. You can alsodownload data as a CSV, download a PNG image, or shareyour customized visualization"
+      },
+      {
+        "text": "You can also download all data by returning to the home screen and under “Data“, clicking “Full Datasets”"
+      },
+      {
+        "text": "If you have any questions or would like more details, please contact the GFDx team atinfo@fortificationdata.org"
+      }
+    ]
+  },
+  "div_hierarchy": [
+    {
+      "text": "EnglishEspañol"
+    },
+    {
+      "text": "MenuMenu"
+    },
+    {
+      "text": "About UsIntroductionAbout FortificationAbout the GFDxWho we areShare your dataContact formCountriesDataCountry dashboardsVisualizationsFull datasetsMethods and SourcesMethodologyData contributorsMedia CenterResourcesFortification ResourcesHow to use the GFDxFAQsSubscribe to our newsletters!MenuMenu"
+    },
+    {
+      "text": "Country DashboardsFortification OverviewReview of Foundational DocumentsFortification OpportunityFood Intake/AvailabilityPer Capita: Food Intake and AvailabilityBy Country: Total Food AvailabilityProportion of Food Industrially ProcessedBy Country: Quantity and Proportion of Industrially Processed Food VehiclesBy Year: Quantity and Proportion of Industrially Processed Food VehiclesProportion of Population Consuming FoodContext for Food Vehicle Coverage in the PopulationFoundational DocumentsLegislation StatusFortification LegislationYear When Food Fortification MandatedFortification Legislation Scope in Countries with Mandatory FortificationFortification StandardsNumber of Food Vehicles with StandardsNutrient Levels in Fortification Standards [mid-range or average]Count of Nutrients in StandardsAlignment of National Fortification Standards with WHO recommendations (nutrient compounds)Comparison of National Fortification Standards with WHO recommendations (nutrient levels)Regulatory Monitoring ProtocolsPresence of Regulatory Monitoring Protocols for External and Import MonitoringProgram PerformanceFortification Compliance/QualityQuantity and Proportion of Food Vehicle that is FortifiedProportion of Population Consuming Fortified FoodPopulation Coverage of Fortified Food Vehicle in Countries with Mandatory or Voluntary FortificationPotential Nutrient Contribution From FortificationPotential Nutrient Intake From FortificationHealth Status Before and After FortificationAvailability of Data on Health Status Before and After Mandatory FortificationHow To Use"
+    },
+    {
+      "text": "Chart: Total Food AvailabilityChart showing total annual food supply available for human\n                                                            consumption by country (Use this chart to identify total\n                                                            annual food availability of maize flour, oil, salt, rice, or\n                                                            wheat flour in a country)"
+    },
+    {
+      "text": "Chart: Quantity and Proportion of Industrially Processed\n                                                            Food VehiclesChart showing the total quantity and proportion of each food\n                                                            vehicle that is industrially processed by country"
+    },
+    {
+      "text": "Chart: Context for Fortified Food Vehicle Coverage in the\n                                                            PopulationChart of the proportion of a country’s population reported to\n                                                            consume a fortified food vehicle, compared to the population\n                                                            consuming that food (fortified or not), compared to the\n                                                            entire population"
+    },
+    {
+      "text": "Chart: Quantity and Proportion\n                                                            ofIndustrially Processed Foods by\n                                                            YearChartdisplaying the total quantity and proportion\n                                                            of each industrially processed food vehicle in a country by\n                                                            year"
+    },
+    {
+      "text": "Map: Presence of external and import monitoring protocolsWhether countries with mandatory fortification legislation have the applicable protocols to monitor the domestic\n                                                            production (external monitoring) or importation (import monitoring) of fortified foods. The presence of a\n                                                            monitoring protocol indicates that a country has identified procedures to carry out external and/or import\n                                                            monitoring of food fortification. If a country lacks an external and/or import monitoring protocol, it would\n                                                            suggest that a basic foundational document for the implementation of food fortification programs is\n                                                            missing."
+    },
+    {
+      "text": "Map: Quantity and Proportion of Food Vehicle that is\n                                                            FortifiedMap of the total quantity and proportion of a food vehicle\n                                                            that is fortified"
+    },
+    {
+      "text": "Map: Food Intake and AvailabilityMap counting the number of nutrients required in food\n                                                            vehicles by country (Use this map to identify by country how\n                                                            many nutrients are required in mandatory or voluntary\n                                                            standards for maize flour, oil, salt, rice, and/or wheat\n                                                            flour)"
+    },
+    {
+      "text": "Map: Population Coverage of Fortified Food Vehicle in\n                                                            Countries with Mandatory or Voluntary FortificationMap of the proportion of a country’s population with access\n                                                            to the fortified food vehicle"
+    },
+    {
+      "text": "Chart: Year When Food Fortification MandatedChart of the number of countries with mandatory food\n                                                            fortification over time (Use this chart to identify when a\n                                                            country first passed mandatory fortification of maize flour,\n                                                            oil, salt, rice, and/or wheat flour)"
+    },
+    {
+      "text": "Plot: Fortification Legislation Scope in Countries with\n                                                            Mandatory FortificationPlot displaying the scope of fortification legislation, which\n                                                            includes information on whether all food vehicle types or a\n                                                            subset are required to be fortified and whether mandatory\n                                                            legislation requires food vehicles of different\n                                                            origins/destinations and intended uses to be fortified"
+    },
+    {
+      "text": "Map: Fortification LegislationMap of legal status of food fortification by country (Use\n                                                            this map to identify which countries have mandatory and\n                                                            voluntary legislation for the fortification of maize flour,\n                                                            oil, rice, salt, and/or wheat flour)"
+    },
+    {
+      "text": "Map: Number of Food Vehicles with StandardsMap counting the number of food vehicles with fortification\n                                                            standards by country (Use this map to identify by country\n                                                            how many of the following foods have mandatory or voluntary\n                                                            standards: maize flour, oil, salt, rice, and/or wheat\n                                                            flour)"
+    },
+    {
+      "text": "Map: Count of Nutrients in StandardsMap counting the number of nutrients required in food\n                                                            vehicles by country (Use this map to identify by country how\n                                                            many nutrients are required in mandatory or voluntary\n                                                            standards for maize flour, oil, salt, rice, and/or wheat\n                                                            flour)"
+    },
+    {
+      "text": "Map: Nutrient Levels in Fortification Standards\n                                                            [mid-range or average]Map displaying the amount of each nutrient required in food\n                                                            vehicles by country (Use this map to identify by country\n                                                            nutrient levels required in mandatory or voluntary standards\n                                                            for maize flour, oil, salt, rice, or wheat flour)"
+    },
+    {
+      "text": "Map: Availability of Data on Health Status Before and\n                                                            After Mandatory FortificationThe purpose of mandatory food fortification is to improve health outcomes in a population. Health improvements\n                                                            can be measured in changes in blood biomarkers and/or changes in functional outcomes that are caused by a\n                                                            deficiency in a nutrient. This visualization presents the number of countries that have data or studies\n                                                            comparing health status before and after mandatory fortification."
+    },
+    {
+      "text": "GFDx Analysis: Alignment of national fortification standards with WHO guidelines (nutrient\n                                                            compounds)Nutrients can be added in fortification as different chemical forms (compounds). This visualization compares the\n                                                            nutrient compounds specified in national fortification standards to those recommended in WHO guidelines."
+    },
+    {
+      "text": "GFDx Analysis: Comparison of national fortification standards with WHO guidelines (nutrient levels)Nutrient amounts (or levels) added in fortification should contribute meaningfully to dietary intake. This\n                                                            visualization compares nutrient levels specified in national fortification standards to those recommended in WHO\n                                                            guidelines. Results from this analysis should be used as a starting point for policymakers to discuss whether\n                                                            national fortification requirements are as safe and effective as possible."
+    },
+    {
+      "text": "GFDx Analysis: Potential nutrient intake under ideal (unadjusted) and real-life (adjusted for program\n                                                            implementation data, where available) scenariosThis visualization calculates the potential intake of nutrients included in fortification standards based on food\n                                                            intake/availability information. Data is presented under the ideal scenario that all foodcanandhasbeen\n                                                            fortified, as well as real-life scenario that adjusts data for the proportion of food that can be fortified\n                                                            (i.e., is industrially milled) and the proportion of food thathasbeen fortified (i.e., compliance,\n                                                            quality, or\n                                                            expert opinion data), if this data is available."
+    },
+    {
+      "text": "PreviousNext"
+    },
+    {
+      "text": "© Copyright - Global Fortification Data Exchange"
+    },
+    {
+      "text": "*indicates required"
+    },
+    {
+      "text": "Email Address:*"
+    },
+    {
+      "text": "First Name:"
+    },
+    {
+      "text": "Last Name:"
+    },
+    {
+      "text": "Organization:"
+    },
+    {
+      "text": "Country:"
+    },
+    {
+      "text": "*indica requerido"
+    },
+    {
+      "text": "Dirección de Correo electrónico:*"
+    },
+    {
+      "text": "Nombre de Pila:"
+    },
+    {
+      "text": "Nombre de Familia:"
+    },
+    {
+      "text": "Organización:"
+    },
+    {
+      "text": "País:"
+    },
+    {
+      "text": "Welcome to the GFDx, an analysis and visualization tool for data on food fortification!Food fortification adds essential vitamins and minerals, called micronutrients, to commonly consumed foods to prevent nutritional deficiencies. We call these commonly consumed foods that can be fortifiedfood vehiclesbecause they “deliver” nutrients.Food fortification is one of the most scalable, sustainable and cost-effective interventions to combat micronutrient malnutrition.Vitamin and mineral deficiencies affect people globally – impacting their health and limiting their ability to contribute to the economic well-being of their communities and countries.Designed for, and by the fortification community, the GFDx provides all the data necessary to track global progress on food fortification, and to enable decision makers to use data to improve the quality of national fortification programs."
+    },
+    {
+      "text": "Country Dashboards & Interactive Maps, Charts, Tables and PlotsThe GFDxaggregates and visualizes data on five commonly fortified foods: maize flour, oil, rice, salt, and wheat flour.The GFDx includes indicators on food fortification legislation from 1940 to present, fortification standards, and food availability and intake, legislation scope, proportion of foods industrially processed, availability of regulatory monitoring protocols, fortification quality, and population coverage for 196 countries.Within the GFDx site,you are able to view Country Dashboards, use and share interactive maps, charts, tables, plots, and customize visualizations or download data for offline analysis."
+    },
+    {
+      "text": "How to view country DashboardsUnderDataon the homepage, you will find our “Country Fortification Dashboards”. Once you are on a country dashboard, you cansearch for other countries in the map using the search bar:You can download as a PDF, or share with others. You can also return to the home page and click on “Countries” for afull list of country dashboard links, organized by global region:"
+    },
+    {
+      "text": "How to customize maps and chartsAlso underDataon the homepage, you will find our interactive maps, charts and plots.Use the filter options on the right-hand sideof the map, chart or plot of charts to customize based on your data needs.Explore other indicatorsby navigating theEXPLORE sectionon theleft hand side."
+    },
+    {
+      "text": "How to interpret visualizations, share and downloadIn the tabs below each visualization, you can view a table of thedata, understandhow to interpretthe visualization. You can alsodownload data as a CSV, download a PNG image, or shareyour customized visualizationYou can also download all data by returning to the home screen and under “Data“, clicking “Full Datasets”"
+    },
+    {
+      "text": "Questions?If you have any questions or would like more details, please contact the GFDx team atinfo@fortificationdata.org"
+    },
+    {
+      "text": "❮ PREV"
+    },
+    {
+      "text": "NEXT ❯"
+    }
+  ],
+  "links": [
+    {
+      "text": "English",
+      "href": "https://fortificationdata.org/map-number-of-food-vehicles/"
+    },
+    {
+      "text": "Español",
+      "href": "https://fortificaciondatos.org/mapa-numero-de-vehiculos-alimenticios-con-estandares/"
+    },
+    {
+      "text": "",
+      "href": "https://fortificationdata.org/"
+    },
+    {
+      "text": "MenuMenu",
+      "href": "#"
+    },
+    {
+      "text": "Youtube",
+      "href": "https://www.youtube.com/channel/UCujCdiDCqAyC4-MIfaeMS4w"
+    },
+    {
+      "text": "Twitter",
+      "href": "https://twitter.com/GFDxSecretariat"
+    },
+    {
+      "text": "Mail",
+      "href": "https://fortificationdata.org/#contact"
+    },
+    {
+      "text": "Youtube",
+      "href": "https://www.youtube.com/channel/UCujCdiDCqAyC4-MIfaeMS4w"
+    },
+    {
+      "text": "Twitter",
+      "href": "https://twitter.com/GFDxSecretariat"
+    },
+    {
+      "text": "Mail",
+      "href": "https://fortificationdata.org/#contact"
+    },
+    {
+      "text": "About Us",
+      "href": ""
+    },
+    {
+      "text": "Introduction",
+      "href": "https://fortificationdata.org/#intro"
+    },
+    {
+      "text": "About Fortification",
+      "href": "https://fortificationdata.org/#aboutfoodfortification"
+    },
+    {
+      "text": "About the GFDx",
+      "href": "https://fortificationdata.org/#about"
+    },
+    {
+      "text": "Who we are",
+      "href": "https://fortificationdata.org/#whoweare"
+    },
+    {
+      "text": "Share your data",
+      "href": "https://fortificationdata.org/#sharedata"
+    },
+    {
+      "text": "Contact form",
+      "href": "https://fortificationdata.org/#contact"
+    },
+    {
+      "text": "Countries",
+      "href": "https://fortificationdata.org/list-of-countries-for-the-food-fortification-dashboard/"
+    },
+    {
+      "text": "Data",
+      "href": ""
+    },
+    {
+      "text": "Country dashboards",
+      "href": "https://fortificationdata.org/country-fortification-dashboard/"
+    },
+    {
+      "text": "Visualizations",
+      "href": "https://fortificationdata.org/visualizations"
+    },
+    {
+      "text": "Full datasets",
+      "href": "https://fortificationdata.org/full-gfdx-datasets/"
+    },
+    {
+      "text": "Methods and Sources",
+      "href": ""
+    },
+    {
+      "text": "Methodology",
+      "href": "https://fortificationdata.org/methodology/"
+    },
+    {
+      "text": "Data contributors",
+      "href": "https://fortificationdata.org/data-contributors/"
+    },
+    {
+      "text": "Media Center",
+      "href": "https://fortificationdata.org/media-center/"
+    },
+    {
+      "text": "Resources",
+      "href": ""
+    },
+    {
+      "text": "Fortification Resources",
+      "href": "https://fortificationdata.org/resources/"
+    },
+    {
+      "text": "How to use the GFDx",
+      "href": "https://fortificationdata.org/how-to-use-the-gfdx/"
+    },
+    {
+      "text": "FAQs",
+      "href": "https://fortificationdata.org/frequently-asked-questions/"
+    },
+    {
+      "text": "Subscribe to our newsletters!",
+      "href": ""
+    },
+    {
+      "text": "MenuMenu",
+      "href": "#"
+    },
+    {
+      "text": "",
+      "href": "javascript:void(0)"
+    },
+    {
+      "text": "",
+      "href": "javascript:void(0)"
+    },
+    {
+      "text": "Country Dashboards",
+      "href": ""
+    },
+    {
+      "text": "Fortification Overview",
+      "href": "https://fortificationdata.org/country-fortification-dashboard/"
+    },
+    {
+      "text": "Review of Foundational Documents",
+      "href": "https://fortificationdata.org/country-fortification-dashboard/?dashboardPage=review"
+    },
+    {
+      "text": "Fortification Opportunity",
+      "href": ""
+    },
+    {
+      "text": "Food Intake/Availability",
+      "href": ""
+    },
+    {
+      "text": "Per Capita: Food Intake and Availability",
+      "href": "https://fortificationdata.org/map-availability/"
+    },
+    {
+      "text": "By Country: Total Food Availability",
+      "href": "https://fortificationdata.org/chart-availability/"
+    },
+    {
+      "text": "Proportion of Food Industrially Processed",
+      "href": ""
+    },
+    {
+      "text": "By Country: Quantity and Proportion of Industrially Processed Food Vehicles",
+      "href": "https://fortificationdata.org/chart-quantity-and-proportion-of-industrially-processed-food-vehicles/"
+    },
+    {
+      "text": "By Year: Quantity and Proportion of Industrially Processed Food Vehicles",
+      "href": "https://fortificationdata.org/chart-amount-and-proportion-industrially-processed-foods-by-year/"
+    },
+    {
+      "text": "Proportion of Population Consuming Food",
+      "href": ""
+    },
+    {
+      "text": "Context for Food Vehicle Coverage in the Population",
+      "href": "https://fortificationdata.org/chart-context-for-fortified-food-vehicle-coverage-in-the-population/"
+    },
+    {
+      "text": "Foundational Documents",
+      "href": ""
+    },
+    {
+      "text": "Legislation Status",
+      "href": ""
+    },
+    {
+      "text": "Fortification Legislation",
+      "href": "https://fortificationdata.org/interactive-map-fortification-legislation/"
+    },
+    {
+      "text": "Year When Food Fortification Mandated",
+      "href": "https://fortificationdata.org/chart-year-when-food-fortification-mandated/"
+    },
+    {
+      "text": "Fortification Legislation Scope in Countries with Mandatory Fortification",
+      "href": "https://fortificationdata.org/plot-fortification-legislation-scope-in-countries-with-mandatory-fortification/"
+    },
+    {
+      "text": "Fortification Standards",
+      "href": ""
+    },
+    {
+      "text": "Number of Food Vehicles with Standards",
+      "href": "https://fortificationdata.org/map-number-of-food-vehicles/"
+    },
+    {
+      "text": "Nutrient Levels in Fortification Standards [mid-range or average]",
+      "href": "https://fortificationdata.org/map-nutrient-levels-in-fortification-standards/"
+    },
+    {
+      "text": "Count of Nutrients in Standards",
+      "href": "https://fortificationdata.org/map-number-of-nutrients/"
+    },
+    {
+      "text": "Alignment of National Fortification Standards with WHO recommendations (nutrient compounds)",
+      "href": "https://fortificationdata.org/alignment-of-national-fortification-standards-with-who-recommendations-nutrient-compounds/"
+    },
+    {
+      "text": "Comparison of National Fortification Standards with WHO recommendations (nutrient levels)",
+      "href": "https://fortificationdata.org/gfdx-analysis-alignment-of-national-fortification-standards-with-who-recommendations-nutrient-levels/"
+    },
+    {
+      "text": "Regulatory Monitoring Protocols",
+      "href": ""
+    },
+    {
+      "text": "Presence of Regulatory Monitoring Protocols for External and Import Monitoring",
+      "href": "https://fortificationdata.org/map-presence-of-regulatory-monitoring-protocols-for-external-and-import-monitoring/"
+    },
+    {
+      "text": "Program Performance",
+      "href": ""
+    },
+    {
+      "text": "Fortification Compliance/Quality",
+      "href": ""
+    },
+    {
+      "text": "Quantity and Proportion of Food Vehicle that is Fortified",
+      "href": "https://fortificationdata.org/map-proportion-of-food-vehicle-that-is-fortified/"
+    },
+    {
+      "text": "Proportion of Population Consuming Fortified Food",
+      "href": ""
+    },
+    {
+      "text": "Population Coverage of Fortified Food Vehicle in Countries with Mandatory or Voluntary Fortification",
+      "href": "https://fortificationdata.org/map-population-coverage-of-fortified-food-vehicle/"
+    },
+    {
+      "text": "Potential Nutrient Contribution From Fortification",
+      "href": ""
+    },
+    {
+      "text": "Potential Nutrient Intake From Fortification",
+      "href": "https://fortificationdata.org/nutrient-intake-for-all-food-by-country/"
+    },
+    {
+      "text": "Health Status Before and After Fortification",
+      "href": ""
+    },
+    {
+      "text": "Availability of Data on Health Status Before and After Mandatory Fortification",
+      "href": "https://fortificationdata.org/availability-of-data-on-health-status-before-and-after-mandatory-fortification/"
+    },
+    {
+      "text": "How To Use",
+      "href": "#"
+    },
+    {
+      "text": "",
+      "href": "https://fortificationdata.org/chart-availability/"
+    },
+    {
+      "text": "",
+      "href": "https://fortificationdata.org/chart-quantity-and-proportion-of-industrially-processed-food-vehicles/"
+    },
+    {
+      "text": "",
+      "href": "https://fortificationdata.org/chart-context-for-fortified-food-vehicle-coverage-in-the-population/"
+    },
+    {
+      "text": "",
+      "href": "https://fortificationdata.org/chart-amount-and-proportion-industrially-processed-foods-by-year/"
+    },
+    {
+      "text": "",
+      "href": "https://fortificationdata.org/map-presence-of-regulatory-monitoring-protocols-for-external-and-import-monitoring/"
+    },
+    {
+      "text": "",
+      "href": "https://fortificationdata.org/map-proportion-of-food-vehicle-that-is-fortified/"
+    },
+    {
+      "text": "",
+      "href": "https://fortificationdata.org/map-availability/"
+    },
+    {
+      "text": "",
+      "href": "https://fortificationdata.org/map-population-coverage-of-fortified-food-vehicle/"
+    },
+    {
+      "text": "",
+      "href": "https://fortificationdata.org/chart-year-when-food-fortification-mandated/"
+    },
+    {
+      "text": "",
+      "href": "https://fortificationdata.org/plot-fortification-legislation-scope-in-countries-with-mandatory-fortification/"
+    },
+    {
+      "text": "",
+      "href": "https://fortificationdata.org/interactive-map-fortification-legislation/"
+    },
+    {
+      "text": "",
+      "href": "https://fortificationdata.org/map-number-of-food-vehicles/"
+    },
+    {
+      "text": "",
+      "href": "https://fortificationdata.org/map-number-of-nutrients/"
+    },
+    {
+      "text": "",
+      "href": "https://fortificationdata.org/map-nutrient-levels-in-fortification-standards/"
+    },
+    {
+      "text": "",
+      "href": "https://fortificationdata.org/availability-of-data-on-health-status-before-and-after-mandatory-fortification/"
+    },
+    {
+      "text": "",
+      "href": "https://fortificationdata.org/alignment-of-national-fortification-standards-with-who-recommendations-nutrient-compounds/"
+    },
+    {
+      "text": "",
+      "href": "https://fortificationdata.org/gfdx-analysis-alignment-of-national-fortification-standards-with-who-recommendations-nutrient-levels/"
+    },
+    {
+      "text": "",
+      "href": "https://fortificationdata.org/nutrient-intake-for-all-food-by-country/"
+    },
+    {
+      "text": "Previous",
+      "href": "#prev"
+    },
+    {
+      "text": "Next",
+      "href": "#next"
+    },
+    {
+      "text": "info@fortificationdata.org",
+      "href": "mailto:info@fortificationdata.org"
+    },
+    {
+      "text": "1",
+      "href": "#1"
+    },
+    {
+      "text": "2",
+      "href": "#2"
+    },
+    {
+      "text": "3",
+      "href": "#3"
+    },
+    {
+      "text": "4",
+      "href": "#4"
+    },
+    {
+      "text": "5",
+      "href": "#5"
+    },
+    {
+      "text": "6",
+      "href": "#6"
+    },
+    {
+      "text": "Scroll to top",
+      "href": "#top"
+    }
+  ],
+  "map": [],
+  "other infornation": "See more…\nChart: Total Food Availability\nChart showing total annual food supply available for human\n                                                            consumption by country (Use this chart to identify total\n                                                            annual food availability of maize flour, oil, salt, rice, or\n                                                            wheat flour in a country)\nChart: Quantity and Proportion of Industrially Processed\n                                                            Food Vehicles\nChart showing the total quantity and proportion of each food\n                                                            vehicle that is industrially processed by country\nChart: Context for Fortified Food Vehicle Coverage in the\n                                                            Population\nChart of the proportion of a country’s population reported to\n                                                            consume a fortified food vehicle, compared to the population\n                                                            consuming that food (fortified or not), compared to the\n                                                            entire population\nChart: Quantity and Proportion\n                                                            of\nIndustrially Processed Foods by\n                                                            Year\nChart\ndisplaying the total quantity and proportion\n                                                            of each industrially processed food vehicle in a country by\n                                                            year\nMap: Presence of external and import monitoring protocols\nWhether countries with mandatory fortification legislation have the applicable protocols to monitor the domestic\n                                                            production (external monitoring) or importation (import monitoring) of fortified foods. The presence of a\n                                                            monitoring protocol indicates that a country has identified procedures to carry out external and/or import\n                                                            monitoring of food fortification. If a country lacks an external and/or import monitoring protocol, it would\n                                                            suggest that a basic foundational document for the implementation of food fortification programs is\n                                                            missing.\nMap: Quantity and Proportion of Food Vehicle that is\n                                                            Fortified\nMap of the total quantity and proportion of a food vehicle\n                                                            that is fortified\nMap: Food Intake and Availability\nMap counting the number of nutrients required in food\n                                                            vehicles by country (Use this map to identify by country how\n                                                            many nutrients are required in mandatory or voluntary\n                                                            standards for maize flour, oil, salt, rice, and/or wheat\n                                                            flour)\nMap: Population Coverage of Fortified Food Vehicle in\n                                                            Countries with Mandatory or Voluntary Fortification\nMap of the proportion of a country’s population with access\n                                                            to the fortified food vehicle\nChart: Year When Food Fortification Mandated\nChart of the number of countries with mandatory food\n                                                            fortification over time (Use this chart to identify when a\n                                                            country first passed mandatory fortification of maize flour,\n                                                            oil, salt, rice, and/or wheat flour)\nPlot: Fortification Legislation Scope in Countries with\n                                                            Mandatory Fortification\nPlot displaying the scope of fortification legislation, which\n                                                            includes information on whether all food vehicle types or a\n                                                            subset are required to be fortified and whether mandatory\n                                                            legislation requires food vehicles of different\n                                                            origins/destinations and intended uses to be fortified\nMap: Fortification Legislation\nMap of legal status of food fortification by country (Use\n                                                            this map to identify which countries have mandatory and\n                                                            voluntary legislation for the fortification of maize flour,\n                                                            oil, rice, salt, and/or wheat flour\n)\nMap: Number of Food Vehicles with Standards\nMap counting the number of food vehicles with fortification\n                                                            standards by country (Use this map to identify by country\n                                                            how many of the following foods have mandatory or voluntary\n                                                            standards: maize flour, oil, salt, rice, and/or wheat\n                                                            flour)\nMap: Count of Nutrients in Standards\nMap counting the number of nutrients required in food\n                                                            vehicles by country (Use this map to identify by country how\n                                                            many nutrients are required in mandatory or voluntary\n                                                            standards for maize flour, oil, salt, rice, and/or wheat\n                                                            flour)\nMap: Nutrient Levels in Fortification Standards\n                                                            [mid-range or average]\nMap displaying the amount of each nutrient required in food\n                                                            vehicles by country (Use this map to identify by country\n                                                            nutrient levels required in mandatory or voluntary standards\n                                                            for maize flour, oil, salt, rice, or wheat flour)\nMap: Availability of Data on Health Status Before and\n                                                            After Mandatory Fortification\nThe purpose of mandatory food fortification is to improve health outcomes in a population. Health improvements\n                                                            can be measured in changes in blood biomarkers and/or changes in functional outcomes that are caused by a\n                                                            deficiency in a nutrient. This visualization presents the number of countries that have data or studies\n                                                            comparing health status before and after mandatory fortification.\nGFDx Analysis: Alignment of national fortification standards with WHO guidelines (nutrient\n                                                            compounds)\nNutrients can be added in fortification as different chemical forms (compounds). This visualization compares the\n                                                            nutrient compounds specified in national fortification standards to those recommended in WHO guidelines.\nGFDx Analysis: Comparison of national fortification standards with WHO guidelines (nutrient levels)\nNutrient amounts (or levels) added in fortification should contribute meaningfully to dietary intake. This\n                                                            visualization compares nutrient levels specified in national fortification standards to those recommended in WHO\n                                                            guidelines. Results from this analysis should be used as a starting point for policymakers to discuss whether\n                                                            national fortification requirements are as safe and effective as possible.\nGFDx Analysis: Potential nutrient intake under ideal (unadjusted) and real-life (adjusted for program\n                                                            implementation data, where available) scenarios\nThis visualization calculates the potential intake of nutrients included in fortification standards based on food\n                                                            intake/availability information. Data is presented under the ideal scenario that all food\ncan\nand\nhas\nbeen\n                                                            fortified, as well as real-life scenario that adjusts data for the proportion of food that can be fortified\n                                                            (i.e., is industrially milled) and the proportion of food that\nhas\nbeen fortified (i.e., compliance,\n                                                            quality, or\n                                                            expert opinion data), if this data is available.\nPrevious\nNext"
+}

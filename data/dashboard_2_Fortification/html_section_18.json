@@ -1,0 +1,1206 @@
+{
+  "url": "https://fortificationdata.org/country-fortification-dashboard/?dashboardPage=review",
+  "structural_elements": {
+    "headers": [
+      {
+        "level": 3,
+        "text": "Dashboard: Country Fortification"
+      },
+      {
+        "level": 3,
+        "text": "Subscribe to the GFDx"
+      },
+      {
+        "level": 3,
+        "text": "Suscribirse al GFDx"
+      },
+      {
+        "level": 5,
+        "text": "See more…"
+      }
+    ],
+    "paragraphs": [
+      {
+        "text": "Chart ID: 1220"
+      },
+      {
+        "text": "You need to enable JavaScript to run this app."
+      },
+      {
+        "text": "Suggested Citation: Global Fortification Data Exchange. Dashboard: Country Fortification. Accessed dd/month/yyyy. [http://www.fortificationdata.org.]"
+      },
+      {
+        "text": "Chart: Total Food Availability"
+      },
+      {
+        "text": "Chart showing total annual food supply available for human\n                                                            consumption by country (Use this chart to identify total\n                                                            annual food availability of maize flour, oil, salt, rice, or\n                                                            wheat flour in a country)"
+      },
+      {
+        "text": "Chart: Quantity and Proportion of Industrially Processed\n                                                            Food Vehicles"
+      },
+      {
+        "text": "Chart showing the total quantity and proportion of each food\n                                                            vehicle that is industrially processed by country"
+      },
+      {
+        "text": "Chart: Context for Fortified Food Vehicle Coverage in the\n                                                            Population"
+      },
+      {
+        "text": "Chart of the proportion of a country’s population reported to\n                                                            consume a fortified food vehicle, compared to the population\n                                                            consuming that food (fortified or not), compared to the\n                                                            entire population"
+      },
+      {
+        "text": "Chart: Quantity and Proportion\n                                                            ofIndustrially Processed Foods by\n                                                            Year"
+      },
+      {
+        "text": "Chartdisplaying the total quantity and proportion\n                                                            of each industrially processed food vehicle in a country by\n                                                            year"
+      },
+      {
+        "text": "Map: Presence of external and import monitoring protocols"
+      },
+      {
+        "text": "Whether countries with mandatory fortification legislation have the applicable protocols to monitor the domestic\n                                                            production (external monitoring) or importation (import monitoring) of fortified foods. The presence of a\n                                                            monitoring protocol indicates that a country has identified procedures to carry out external and/or import\n                                                            monitoring of food fortification. If a country lacks an external and/or import monitoring protocol, it would\n                                                            suggest that a basic foundational document for the implementation of food fortification programs is\n                                                            missing."
+      },
+      {
+        "text": "Map: Quantity and Proportion of Food Vehicle that is\n                                                            Fortified"
+      },
+      {
+        "text": "Map of the total quantity and proportion of a food vehicle\n                                                            that is fortified"
+      },
+      {
+        "text": "Map: Food Intake and Availability"
+      },
+      {
+        "text": "Map counting the number of nutrients required in food\n                                                            vehicles by country (Use this map to identify by country how\n                                                            many nutrients are required in mandatory or voluntary\n                                                            standards for maize flour, oil, salt, rice, and/or wheat\n                                                            flour)"
+      },
+      {
+        "text": "Map: Population Coverage of Fortified Food Vehicle in\n                                                            Countries with Mandatory or Voluntary Fortification"
+      },
+      {
+        "text": "Map of the proportion of a country’s population with access\n                                                            to the fortified food vehicle"
+      },
+      {
+        "text": "Chart: Year When Food Fortification Mandated"
+      },
+      {
+        "text": "Chart of the number of countries with mandatory food\n                                                            fortification over time (Use this chart to identify when a\n                                                            country first passed mandatory fortification of maize flour,\n                                                            oil, salt, rice, and/or wheat flour)"
+      },
+      {
+        "text": "Plot: Fortification Legislation Scope in Countries with\n                                                            Mandatory Fortification"
+      },
+      {
+        "text": "Plot displaying the scope of fortification legislation, which\n                                                            includes information on whether all food vehicle types or a\n                                                            subset are required to be fortified and whether mandatory\n                                                            legislation requires food vehicles of different\n                                                            origins/destinations and intended uses to be fortified"
+      },
+      {
+        "text": "Map: Fortification Legislation"
+      },
+      {
+        "text": "Map of legal status of food fortification by country (Use\n                                                            this map to identify which countries have mandatory and\n                                                            voluntary legislation for the fortification of maize flour,\n                                                            oil, rice, salt, and/or wheat flour)"
+      },
+      {
+        "text": "Map: Number of Food Vehicles with Standards"
+      },
+      {
+        "text": "Map counting the number of food vehicles with fortification\n                                                            standards by country (Use this map to identify by country\n                                                            how many of the following foods have mandatory or voluntary\n                                                            standards: maize flour, oil, salt, rice, and/or wheat\n                                                            flour)"
+      },
+      {
+        "text": "Map: Count of Nutrients in Standards"
+      },
+      {
+        "text": "Map counting the number of nutrients required in food\n                                                            vehicles by country (Use this map to identify by country how\n                                                            many nutrients are required in mandatory or voluntary\n                                                            standards for maize flour, oil, salt, rice, and/or wheat\n                                                            flour)"
+      },
+      {
+        "text": "Map: Nutrient Levels in Fortification Standards\n                                                            [mid-range or average]"
+      },
+      {
+        "text": "Map displaying the amount of each nutrient required in food\n                                                            vehicles by country (Use this map to identify by country\n                                                            nutrient levels required in mandatory or voluntary standards\n                                                            for maize flour, oil, salt, rice, or wheat flour)"
+      },
+      {
+        "text": "Map: Availability of Data on Health Status Before and\n                                                            After Mandatory Fortification"
+      },
+      {
+        "text": "The purpose of mandatory food fortification is to improve health outcomes in a population. Health improvements\n                                                            can be measured in changes in blood biomarkers and/or changes in functional outcomes that are caused by a\n                                                            deficiency in a nutrient. This visualization presents the number of countries that have data or studies\n                                                            comparing health status before and after mandatory fortification."
+      },
+      {
+        "text": "GFDx Analysis: Alignment of national fortification standards with WHO guidelines (nutrient\n                                                            compounds)"
+      },
+      {
+        "text": "Nutrients can be added in fortification as different chemical forms (compounds). This visualization compares the\n                                                            nutrient compounds specified in national fortification standards to those recommended in WHO guidelines."
+      },
+      {
+        "text": "GFDx Analysis: Comparison of national fortification standards with WHO guidelines (nutrient levels)"
+      },
+      {
+        "text": "Nutrient amounts (or levels) added in fortification should contribute meaningfully to dietary intake. This\n                                                            visualization compares nutrient levels specified in national fortification standards to those recommended in WHO\n                                                            guidelines. Results from this analysis should be used as a starting point for policymakers to discuss whether\n                                                            national fortification requirements are as safe and effective as possible."
+      },
+      {
+        "text": "GFDx Analysis: Potential nutrient intake under ideal (unadjusted) and real-life (adjusted for program\n                                                            implementation data, where available) scenarios"
+      },
+      {
+        "text": "This visualization calculates the potential intake of nutrients included in fortification standards based on food\n                                                            intake/availability information. Data is presented under the ideal scenario that all foodcanandhasbeen\n                                                            fortified, as well as real-life scenario that adjusts data for the proportion of food that can be fortified\n                                                            (i.e., is industrially milled) and the proportion of food thathasbeen fortified (i.e., compliance,\n                                                            quality, or\n                                                            expert opinion data), if this data is available."
+      },
+      {
+        "text": "This dashboard presents a summary of fortification data for each country in which we’ve collected micronutrient metrics and food standards. The charts and statistics below help compose a user-friendly visualization for anyone interested in visualizing key metrics such as fortification monitoring protocols, quality, compliance, coverage, and fortification standards. Our data is easily filtered by the micronutrient data map or drop-down filter function in the top-right section of the dashboard."
+      },
+      {
+        "text": "Nutrients in maize flour fortification standards are described in the first section. Here you will also find maize flour fortification coverage, fortification opportunity, and food availability based on the population coverage of maize flour for each country."
+      },
+      {
+        "text": "Oil fortification standards are in the next section, where fortification quality and compliance help us understand how much oil is fortified. Nutrients found in oil include Vitamin D and Vitamin A, while the fortification opportunity of industrial processing indicates the feasibility to fortify such food. The population coverage directly affects the expected benefits from fortification."
+      },
+      {
+        "text": "Rice fortification standards can also be visualized on this dashboard. The fortification legislation status may not be available for all countries, but many will list what nutrients can be found in rice standards. If rice fortification coverage is available, one can conceptualize the fortification opportunity based on its proportion of industrially processed rice and availability."
+      },
+      {
+        "text": "Another important food is salt. The legislation scope for salt includes many types of salt that must be fortified. The presence of monitoring protocols helps external & import production observations become clear. Nutrients in salt fortification may include iodine in milligrams per kilogram of salt."
+      },
+      {
+        "text": "Finally, we have wheat flour as a final category of food fortification on our data visualization dashboard. Voluntary fortification shows a variety of nutrients in wheat flour with some quality and compliance statistics available. The opportunity for wheat flour in these countries may be determinant on the proportion of wheat flour industrially processed."
+      },
+      {
+        "text": "Please feel free to explore the data and interact with the Global Food Fortification Exchange dashboard. We aim to provide global micronutrient data in an easy-to-understand format for all."
+      },
+      {
+        "text": "This dashboard includes data for the countries listed below:AlgeriaAngolaBeninBotswanaBurkina FasoBurundiCabo VerdeCameroonCentral African RepublicChadComorosCongoCote d’IvoireDemocratic Republic of the CongoDjiboutiEgyptEquatorial GuineaEritreaEthiopiaGabonGhanaGuineaGuinea-BissauKenyaLesothoLiberiaLibyaMadagascarMalawiMaliMauritaniaMauritiusMoroccoMozambiqueNamibiaNigerNigeriaRwandaSao Tome and PrincipeSenegalSeychellesSierra LeoneSomaliaSouth AfricaSouth SudanSudanTogoTunisiaUgandaTanzaniaZambiaZimbabweGambiaEswatiniAntigua and BarbudaArgentinaBahamasBarbadosBelizeBoliviaBrazilCanadaChileColombiaCosta RicaCubaDominicaDominican RepublicEcuadorEl SalvadorGrenadaGuatemalaGuyanaHaitiHondurasJamaicaMexicoNicaraguaPanamaParaguayPeruSaint Kitts and NevisSaint LuciaSaint Vincent and the GrenadinesSurinameTrinidad and TobagoUnited States of AmericaUruguayVenezuelaAfghanistanArmeniaAzerbaijanBahrainBangladeshBhutanBrunei DarussalamCambodiaCyprusGeorgiaIndiaIndonesiaIraqIsraelJapanJordanKazakhstanKuwaitKyrgyzstanLao PDRLebanonMalaysiaMaldivesMongoliaMyanmarNepalOmanPakistanPhilippinesQatarSaudi ArabiaSingaporeSri LankaSyriaTajikistanThailandTimor-LesteTurkeyTurkmenistanUnited Arab EmiratesUzbekistanViet NamYemenIranNorth KoreaSouth KoreaPalestineChinaAlbaniaAndorraAustriaBelarusBelgiumBosnia and HerzegovinaBulgariaCroatiaCzech RepublicDenmarkEstoniaFinlandFranceGermanyGreeceHungaryIcelandIrelandItalyLatviaLiechtensteinLithuaniaLuxembourgMaltaMonacoMontenegroNetherlandsNorwayPolandPortugalMoldovaRomaniaRussiaSan MarinoSerbiaSlovakiaSloveniaSpainSwedenSwitzerlandUkraineVatican CityMacedoniaUnited KingdomKosovoAustraliaFijiKiribatiMarshall IslandsMicronesiaNauruNew ZealandPalauPapua New GuineaSamoaSolomon IslandsTongaTuvaluVanuatu"
+      }
+    ]
+  },
+  "div_hierarchy": [
+    {
+      "text": "EnglishEspañol"
+    },
+    {
+      "text": "MenuMenu"
+    },
+    {
+      "text": "About UsIntroductionAbout FortificationAbout the GFDxWho we areShare your dataContact formCountriesDataCountry dashboardsVisualizationsFull datasetsMethods and SourcesMethodologyData contributorsMedia CenterResourcesFortification ResourcesHow to use the GFDxFAQsSubscribe to our newsletters!MenuMenu"
+    },
+    {
+      "text": "Exit Fullscreen"
+    },
+    {
+      "text": "Chart ID: 1220"
+    },
+    {
+      "text": "View Fullscreen"
+    },
+    {
+      "text": "Afghanistan"
+    },
+    {
+      "text": "Overview"
+    },
+    {
+      "text": "Review of foundational documents"
+    },
+    {
+      "text": "Download the PDF"
+    },
+    {
+      "text": "Search for country"
+    },
+    {
+      "text": "Afghanistan"
+    },
+    {
+      "text": "Last updated: 30-Jan-2025"
+    },
+    {
+      "text": "Maize flour"
+    },
+    {
+      "text": "Oil"
+    },
+    {
+      "text": "Rice"
+    },
+    {
+      "text": "Salt"
+    },
+    {
+      "text": "Wheat flour"
+    },
+    {
+      "text": "This document provides the legal justification for mandatory fortification, and for implementing and monitoring fortification of the specified foods."
+    },
+    {
+      "text": "Does the legislation or standard document indicate there is mandatory fortification of at least one food vehicle fit for human consumption?"
+    },
+    {
+      "text": "In some cases, fortification may not apply to all types of the food or food uses. The document should be clear about defining what types of food fortification applies to so that industry is clear what should be fortified.\nFoods may be produced locally, imported, and/or exported. Exported foods typically must follow the regulations of the importing country, so countries producing food for export may choose to exempt exported foods from fortification. The legislation should be clear where fortification does or does not apply."
+    },
+    {
+      "text": "Does the document clearly specify how the fortification legislation should be applied to foods, depending on whether all or a subset of foods must be fortified?"
+    },
+    {
+      "text": "Wheat flour\"(12) The Factory shall fortify all the flour products with vitamin and minerals (in accordance with the ANSA Standards and the instructions of Ministry of Public Health), without any exception.\"[1]Oil(1)\tAll the producers of fortified edible oil are obliged to produce fortified edible oil in accordance with the set rules and national standards by the ANSA (Afghanistan National Standards Agency) and all guidance of the Ministry of Public Health.[1]Salt1- Salt iodization: It is the addition of specified quantities of  iodine to the salt for human and animal use[2]"
+    },
+    {
+      "text": "All types (no exceptions)"
+    },
+    {
+      "text": "All types (no exceptions)"
+    },
+    {
+      "text": "All types (no exceptions)"
+    },
+    {
+      "text": "All types (no exceptions)"
+    },
+    {
+      "text": "All types (no exceptions)"
+    },
+    {
+      "text": "In some cases, fortification may not apply to all types of the food or food uses. The document should be clear about defining what types of food fortification applies to so that industry is clear what should be fortified.\nFoods may be produced locally, imported, and/or exported. Exported foods typically must follow the regulations of the importing country, so countries producing food for export may choose to exempt exported foods from fortification. The legislation should be clear where fortification does or does not apply."
+    },
+    {
+      "text": "Does the document clearly specify how the fortification legislation should be applied to foods, depending on whether foods that are domestically produced, imported, or exported must be fortified?"
+    },
+    {
+      "text": "Wheat flour\"(12) The Factory shall fortify all the flour products with vitamin and minerals (in accordance with the ANSA Standards and the instructions of Ministry of Public Health), without any exception.\"[1]Oil(1)\tAll the producers of fortified edible oil are obliged to produce fortified edible oil in accordance with the set rules and national standards by the ANSA (Afghanistan National Standards Agency) and all guidance of the Ministry of Public Health.  2.\tThe imported Edible oil must be fortified with vitamin A& D according to the national standard.[1]SaltArticle 7: Persons, have the duty to obtain a license for the purpose of production and distribution of iodized salt[2]"
+    },
+    {
+      "text": "Domestically producedImportedExports"
+    },
+    {
+      "text": "Domestically producedImportedExports"
+    },
+    {
+      "text": "Domestically producedImportedExports"
+    },
+    {
+      "text": "Domestically producedImportedExports"
+    },
+    {
+      "text": "Domestically producedImportedExports"
+    },
+    {
+      "text": "In some cases, fortification may not apply to all types of the food or food uses. The document should be clear about defining what types of food fortification applies to so that industry is clear what should be fortified.\nFoods may be produced locally, imported, and/or exported. Exported foods typically must follow the regulations of the importing country, so countries producing food for export may choose to exempt exported foods from fortification. The legislation should be clear where fortification does or does not apply."
+    },
+    {
+      "text": "Does the document clearly specify how the fortification legislation should be applied to foods, depending on whether food designated for household use, processed food, animal feed, or donated food must be fortified?"
+    },
+    {
+      "text": "Wheat flour\"(12) The Factory shall fortify all the flour products with vitamin and minerals (in accordance with the ANSA Standards and the instructions of Ministry of Public Health), without any exception.\"[1]Oil(1)\tAll the producers of fortified edible oil are obliged to produce fortified edible oil in accordance with the set rules and national standards by the ANSA (Afghanistan National Standards Agency) and all guidance of the Ministry of Public Health.  2.\tThe imported Edible oil must be fortified with vitamin A& D according to the national standard.[1]Salt1- Salt iodization: It is the addition of specified quantities of  iodine to the salt for human and animal use[2]"
+    },
+    {
+      "text": "If a significant proportion of the national supply of salt is used in animal feed, consider expanding the legislation scope to include a requirement for animal feed to use fortified salt. the fortified salt is important for the health and productivity of the animals themselves and can also help increase nutrient intake in humans through consumption of animal products."
+    },
+    {
+      "text": "If the country is projected to be a main recipient of donated oil (e.g. via external emergency food assistance programs) or utilizes oil in institutional feeding programs (e.g. school feeding and social safety net programs), consider expanding the legislation scope to include a requirement for donated oil or oil used in institutional feeding programs to be fortified."
+    },
+    {
+      "text": "If a significant proportion of the national supply of salt is used in animal feed, consider expanding the legislation scope to include a requirement for animal feed to use fortified salt. the fortified salt is important for the health and productivity of the animals themselves and can also help increase nutrient intake in humans through consumption of animal products."
+    },
+    {
+      "text": "If the country is projected to be a main recipient of donated oil (e.g. via external emergency food assistance programs) or utilizes oil in institutional feeding programs (e.g. school feeding and social safety net programs), consider expanding the legislation scope to include a requirement for donated oil or oil used in institutional feeding programs to be fortified."
+    },
+    {
+      "text": "If a significant proportion of the national supply of salt is used in animal feed, consider expanding the legislation scope to include a requirement for animal feed to use fortified salt. the fortified salt is important for the health and productivity of the animals themselves and can also help increase nutrient intake in humans through consumption of animal products."
+    },
+    {
+      "text": "If the country is projected to be a main recipient of donated oil (e.g. via external emergency food assistance programs) or utilizes oil in institutional feeding programs (e.g. school feeding and social safety net programs), consider expanding the legislation scope to include a requirement for donated oil or oil used in institutional feeding programs to be fortified."
+    },
+    {
+      "text": "If a significant proportion of the national supply of salt is used in animal feed, consider expanding the legislation scope to include a requirement for animal feed to use fortified salt. the fortified salt is important for the health and productivity of the animals themselves and can also help increase nutrient intake in humans through consumption of animal products."
+    },
+    {
+      "text": "If the country is projected to be a main recipient of donated oil (e.g. via external emergency food assistance programs) or utilizes oil in institutional feeding programs (e.g. school feeding and social safety net programs), consider expanding the legislation scope to include a requirement for donated oil or oil used in institutional feeding programs to be fortified."
+    },
+    {
+      "text": "If a significant proportion of the national supply of salt is used in animal feed, consider expanding the legislation scope to include a requirement for animal feed to use fortified salt. the fortified salt is important for the health and productivity of the animals themselves and can also help increase nutrient intake in humans through consumption of animal products."
+    },
+    {
+      "text": "If the country is projected to be a main recipient of donated oil (e.g. via external emergency food assistance programs) or utilizes oil in institutional feeding programs (e.g. school feeding and social safety net programs), consider expanding the legislation scope to include a requirement for donated oil or oil used in institutional feeding programs to be fortified."
+    },
+    {
+      "text": "Policy cohesion - ensuring that that policies or laws in a country do not contradict each other - is important to avoid confusion amongst regulatory actors and industry. Any older policy/law that is replaced by a newer policy/law should include language that repeals the older policy/law."
+    },
+    {
+      "text": "If there is at least one prior legislation or standard document requiring fortification, does the current legislation or standard document provide repeals or amendments?"
+    },
+    {
+      "text": "Does not specify prior document requiring fortification"
+    },
+    {
+      "text": "Does not specify prior document requiring fortification"
+    },
+    {
+      "text": "Wheat flour\"Upon creation (establishment) of fortified food Independent National Board the    National Board of salt iodization which has been publicized in article (5) of Iodine Salt Regulation in formal magazine No (1048) date (06-01-1390) is deemed invalid.\" (Article 35)[1]"
+    },
+    {
+      "text": "Fortification activities often involve multiple government agencies or ministries. For example, coordination, establishing legislation and standards, and implementing regulatory monitoring control activities may all conducted by separate government agencies. It is important that these different fortification roles are clearly understood by all stakeholders to ensure that the program is implemented efficiently and without gaps."
+    },
+    {
+      "text": "Is there a document that describes the role in fortification for at least one government agency? What does it state?"
+    },
+    {
+      "text": "Wheat flour\"The National Fortified Food Board under the structure this regulation and the iodized salt regulation will undertakes the following duties and responsibilities: 1. The Food Board is the Supreme and highest decision-making body (Authorized Entity) in connection with the issue related to the Fortified foods (including fortified wheat flour and edible oil, and also iodized salt). 2. Coordinating the programs and fortified food practices and activities (including fortified wheat flour and edible oil, and also iodized salt). 3. Preparing of Food Board Annual Report presented to the Ministers Council yearly. 4. Proposals for the revision of the Standards of fortified Foods (in consideration with all country requirements and conditions). 5. Monitor the implementation of this Regulation and the Regulation of iodized salt. 6. Giving necessary and useful advices for the Craftsman(Wheat Flour, Liquid Edible Oils ,Fats and Iodine Salts etc.)\" (Article 5)[1]Salt\"The national iodization board has the following responsibilities and authorities: 1. Making salt iodization policy and strategy 2. The coordination of salt iodization programs and activities 3. The effective analysis of the universal salt iodization activities 4. Submission of annual report of national salt iodization board to the council of Ministers 5. Reviewing of the standard contained in table (1) as an attachment to this regulation 6. Monitoring of the implementation of these regulations: (Article 6)[3]"
+    },
+    {
+      "text": "Without a clear start date, it will be unclear when fortification and monitoring activities may begin."
+    },
+    {
+      "text": "Does the legislation or standard document provide effective date or gives grace period for when fortification is to begin (e.g., effective 6 months from signing)?"
+    },
+    {
+      "text": "Wheat flour\"1. The importer shall gain the fortified wheat flour import permit and license from the Ministry of Commerce and Industry. And any importer will not have the right to import non-fortified wheat flour with six month after enactment of this regulation.\" (Article 8)[1]Salt\"These  regulations are in force after being published in the official gazette.\" (Article 30)[3]"
+    },
+    {
+      "text": "Without a standard defining the nutrients and amounts required under fortification, there is no basis to monitor any parameters related to fortification."
+    },
+    {
+      "text": "Is there a document for the food that states at least one nutrient and nutrient level required in fortification to be present/added to the food at import or production?"
+    },
+    {
+      "text": "There are no WHO recommendations."
+    },
+    {
+      "text": "Vitamin A"
+    },
+    {
+      "text": "Retinyl palmitate"
+    },
+    {
+      "text": "9 mg/kg"
+    },
+    {
+      "text": "Vitamin D"
+    },
+    {
+      "text": "D3 (cholecalciferol)"
+    },
+    {
+      "text": "0.075 mg/kg"
+    },
+    {
+      "text": "Nutrient levels and compounds inSaltfortification standard in Afghanistan"
+    },
+    {
+      "text": "Iodine"
+    },
+    {
+      "text": "All compounds are WHO recommended"
+    },
+    {
+      "text": "182% of the maximum WHO recommended level"
+    },
+    {
+      "text": "Nutrient levels and compounds inWheat flourfortification standard in Afghanistan"
+    },
+    {
+      "text": "Vitamin B12"
+    },
+    {
+      "text": "All compounds are WHO recommended"
+    },
+    {
+      "text": "100% of the maximum WHO recommended level"
+    },
+    {
+      "text": "Folate (B9)"
+    },
+    {
+      "text": "All compounds are WHO recommended"
+    },
+    {
+      "text": "100% of the maximum WHO recommended level"
+    },
+    {
+      "text": "Iron"
+    },
+    {
+      "text": "All compounds are WHO recommended"
+    },
+    {
+      "text": "100% of the maximum WHO recommended level"
+    },
+    {
+      "text": "Zinc"
+    },
+    {
+      "text": "All compounds are WHO recommended"
+    },
+    {
+      "text": "167% of the maximum WHO recommended level"
+    },
+    {
+      "text": "For certain nutrients (e.g. iron, zinc), multiple nutrient compounds can be used, and some are preferable for their bioavailability or organoleptic properties, depending on how much of the fortified food is consumed. Specifying the compound is important to ensure that premix providers have all the information they need to procure the correct vitamins and minerals and adhere to the standard."
+    },
+    {
+      "text": "Is there a document for the food that states at least one fortificant (chemical compound) that may be used (including fortificants that are allowable as options)?"
+    },
+    {
+      "text": "There are no WHO recommendations."
+    },
+    {
+      "text": "Vitamin A"
+    },
+    {
+      "text": "Retinyl palmitate"
+    },
+    {
+      "text": "9 mg/kg"
+    },
+    {
+      "text": "Vitamin D"
+    },
+    {
+      "text": "D3 (cholecalciferol)"
+    },
+    {
+      "text": "0.075 mg/kg"
+    },
+    {
+      "text": "Nutrient levels and compounds inSaltfortification standard in Afghanistan"
+    },
+    {
+      "text": "Iodine"
+    },
+    {
+      "text": "All compounds are WHO recommended"
+    },
+    {
+      "text": "182% of the maximum WHO recommended level"
+    },
+    {
+      "text": "Nutrient levels and compounds inWheat flourfortification standard in Afghanistan"
+    },
+    {
+      "text": "Vitamin B12"
+    },
+    {
+      "text": "All compounds are WHO recommended"
+    },
+    {
+      "text": "100% of the maximum WHO recommended level"
+    },
+    {
+      "text": "Folate (B9)"
+    },
+    {
+      "text": "All compounds are WHO recommended"
+    },
+    {
+      "text": "100% of the maximum WHO recommended level"
+    },
+    {
+      "text": "Iron"
+    },
+    {
+      "text": "All compounds are WHO recommended"
+    },
+    {
+      "text": "100% of the maximum WHO recommended level"
+    },
+    {
+      "text": "Zinc"
+    },
+    {
+      "text": "All compounds are WHO recommended"
+    },
+    {
+      "text": "167% of the maximum WHO recommended level"
+    },
+    {
+      "text": "Labeling of nutrients and levels included in a fortified product is important as an initial visual cue to food inspectors and consumers that the product should be fortified. Labelling of manufacturing details, including manufacturer and a batch identifier is important to ensure traceability and ensure action can be taken if product issues should arise."
+    },
+    {
+      "text": "Is there a document that specifies labeling requirement or provides guidance to indicate a product is fortified? If so, what does it state?"
+    },
+    {
+      "text": "Wheat flour\"7. Any Sack (Package) of fortified wheat flour  must include the label (stuck on it)indicating type and the amount of Micronutrients, Manufacturing Company, name of original country, and any other necessary trade specifications, it is good if the text \"according to Afghanistan national standard\" in local language be written in the label.\" (Article 8)[1]Salt\"The producer must write the following on the packet or the bag of iodized salt: 1. Name of the salt (iodized salt) in readable and clear letters. 2. Name and address of the factory 3. License NO. 4. Net weight in metric units. 5. The iodine compound used 6. Level  of iodine in the salt 7. The chemical matter added (anti hardening and emulsifiers) 8. The date of manufacture  and expiry 9. The packing identification code (batch number)(the repackers must make use of the packing identification code) 10. Directions for storage (this storage must take place in cold dry place away from direct sunlight) 11. The Ministry of Public Health (MoPH) logo 12.  Information about the benefits of the iodized salt.\" (Article 17)[3]"
+    },
+    {
+      "text": "Fortification monitoring is usually only one responsibility within an inspector’s duties. For sustainability, fortification monitoring should be integrated into an existing regulatory monitoring system."
+    },
+    {
+      "text": "Is the external monitoring protocol specific to fortification only or does it appear to include fortification as one of the monitoring items in a broader inspection protocol?"
+    },
+    {
+      "text": "There is no external monitoring protocol"
+    },
+    {
+      "text": "There is no external monitoring protocol"
+    },
+    {
+      "text": "Protocols are procedural instructions. If it is not clear which government agency is carrying out the protocol, then there may be no ownership of external monitoring of fortification."
+    },
+    {
+      "text": "Is there a document that states which government agency is responsible for conducting external monitoring at the production site to ensure compliance with standards and regulations?"
+    },
+    {
+      "text": "Wheat flour\"2. Having License from the Environment Protection Agency (EPA).\" (Article 7)[1]Salt\"1. The department of the quality control of drugs and food material of the Ministry of Public Health must control the implementation standards contained in the table of annex one and also the quality of iodized salt and the duration of its use 2. The Health Laws Enforcement Agency (Directorate) must monitor the implementation of the provisions of these  regulations or other health guidelines of salt iodization 3. The Public Health Nutrition Department of the Ministry of Public Health must monitor technically the production of iodized salt 4. the Environmental Health Department of the Ministry of Public Health from the point of view of sanitation  monitor the salt iodization factory.\" (Article 24)[3]"
+    },
+    {
+      "text": "If there are several government agencies responsible for external monitoring (or their roles overlap for certain foods), it is essential that each agency’s roles are clearly defined so that there is no confusion and inefficient use of resources."
+    },
+    {
+      "text": "If two or more government agencies are involved in external monitoring, does the document clarify the roles and responsibilities between different government agencies in external monitoring?"
+    },
+    {
+      "text": "Protocol does not refer to two or more governmental agencies"
+    },
+    {
+      "text": "Protocol does not refer to two or more governmental agencies"
+    },
+    {
+      "text": "These are essential elements of a protocol that should guide a regulatory monitoring inspector in fortification monitoring activities. Some of these activities (e.g. reporting procedures, procedures for noncompliance) may not be specific for fortification, but general regulatory monitoring procedures for any food."
+    },
+    {
+      "text": "Frequency of inspections"
+    },
+    {
+      "text": "There is no external monitoring protocol"
+    },
+    {
+      "text": "There is no external monitoring protocol"
+    },
+    {
+      "text": "These are essential elements of a protocol that should guide a regulatory monitoring inspector in fortification monitoring activities. Some of these activities (e.g. reporting procedures, procedures for noncompliance) may not be specific for fortification, but general regulatory monitoring procedures for any food."
+    },
+    {
+      "text": "Auditing checklist"
+    },
+    {
+      "text": "There is no external monitoring protocol"
+    },
+    {
+      "text": "There is no external monitoring protocol"
+    },
+    {
+      "text": "These are essential elements of a protocol that should guide a regulatory monitoring inspector in fortification monitoring activities. Some of these activities (e.g. reporting procedures, procedures for noncompliance) may not be specific for fortification, but general regulatory monitoring procedures for any food."
+    },
+    {
+      "text": "Sample collection protocol, including when to take samples"
+    },
+    {
+      "text": "There is no external monitoring protocol"
+    },
+    {
+      "text": "Wheat flour\"The method of drawing representative samples from a warehouse shall be in accordance with Codex Sampling Plans For Prepackaged Foods AQL 6.5 (XOT13), (or Afghanistan Standard equivalent)\" (Section 8.1)[5]"
+    },
+    {
+      "text": "These are essential elements of a protocol that should guide a regulatory monitoring inspector in fortification monitoring activities. Some of these activities (e.g. reporting procedures, procedures for noncompliance) may not be specific for fortification, but general regulatory monitoring procedures for any food."
+    },
+    {
+      "text": "Sample analysis procedures"
+    },
+    {
+      "text": "There is no external monitoring protocol"
+    },
+    {
+      "text": "Wheat flour\"Quantitative spectrophotometric method for determination of total iron in wheat flour\" (Appendix 1)[5]"
+    },
+    {
+      "text": "These are essential elements of a protocol that should guide a regulatory monitoring inspector in fortification monitoring activities. Some of these activities (e.g. reporting procedures, procedures for noncompliance) may not be specific for fortification, but general regulatory monitoring procedures for any food."
+    },
+    {
+      "text": "Procedures for non-compliance"
+    },
+    {
+      "text": "There is no external monitoring protocol"
+    },
+    {
+      "text": "There is no external monitoring protocol"
+    },
+    {
+      "text": "Fortification monitoring is usually only one responsibility within an inspector’s duties. For sustainability, fortification monitoring should be integrated into an existing regulatory monitoring system."
+    },
+    {
+      "text": "Is the import monitoring protocol specific to fortification only or does it appear to include fortification as one of the monitoring items in a broader inspection protocol?"
+    },
+    {
+      "text": "There is no import monitoring protocol"
+    },
+    {
+      "text": "There is no import monitoring protocol"
+    },
+    {
+      "text": "Protocols are procedural instructions. If it is not clear which government agency is carrying out the protocol, then there may be no ownership of import monitoring of fortification."
+    },
+    {
+      "text": "Is there a document that states which government agency is responsible for conducting import monitoring at the importation/border site to ensure compliance with standards and regulations?"
+    },
+    {
+      "text": "There is no import monitoring protocol"
+    },
+    {
+      "text": "Wheat flour\"1. The importer shall gain the fortified wheat flour import permit and license from the Ministry of Commerce and Industry. And any importer will not have the right to import non-fortified wheat flour with six month after enactment of this regulation.\" (Article 8)[1]"
+    },
+    {
+      "text": "If there are several government agencies responsible for import monitoring (e.g. if there are multiple border control agencies), it is essential that each agency’s roles are clearly defined so that there is no confusion and inefficient use of resources."
+    },
+    {
+      "text": "If two or more government agencies are involved in import monitoring, does the document clarify the roles and responsibilities between different government agencies in import monitoring?"
+    },
+    {
+      "text": "Protocol does not refer to two or more governmental agencies"
+    },
+    {
+      "text": "There is no import monitoring protocol"
+    },
+    {
+      "text": "Wheat flour\"1. The importer shall gain the fortified wheat flour import permit and license from the Ministry of Commerce and Industry. And any importer will not have the right to import non-fortified wheat flour with six month after enactment of this regulation.\" (Article 8)[1]"
+    },
+    {
+      "text": "These are essential elements of a protocol that should guide a regulatory monitoring inspector in fortification monitoring activities. Some of these activities (e.g. reporting procedures, procedures for noncompliance) may not be specific for fortification, but general regulatory monitoring procedures for any food."
+    },
+    {
+      "text": "Frequency of inspections or how shipments are selected for inspection (based on a risk assessment?)"
+    },
+    {
+      "text": "There is no import monitoring protocol"
+    },
+    {
+      "text": "There is no import monitoring protocol"
+    },
+    {
+      "text": "These are essential elements of a protocol that should guide a regulatory monitoring inspector in fortification monitoring activities. Some of these activities (e.g. reporting procedures, procedures for noncompliance) may not be specific for fortification, but general regulatory monitoring procedures for any food."
+    },
+    {
+      "text": "Auditing checklist"
+    },
+    {
+      "text": "There is no import monitoring protocol"
+    },
+    {
+      "text": "There is no import monitoring protocol"
+    },
+    {
+      "text": "These are essential elements of a protocol that should guide a regulatory monitoring inspector in fortification monitoring activities. Some of these activities (e.g. reporting procedures, procedures for noncompliance) may not be specific for fortification, but general regulatory monitoring procedures for any food."
+    },
+    {
+      "text": "Sample collection protocol, including when to take samples"
+    },
+    {
+      "text": "There is no import monitoring protocol"
+    },
+    {
+      "text": "There is no import monitoring protocol"
+    },
+    {
+      "text": "These are essential elements of a protocol that should guide a regulatory monitoring inspector in fortification monitoring activities. Some of these activities (e.g. reporting procedures, procedures for noncompliance) may not be specific for fortification, but general regulatory monitoring procedures for any food."
+    },
+    {
+      "text": "Sample analysis procedures"
+    },
+    {
+      "text": "There is no import monitoring protocol"
+    },
+    {
+      "text": "There is no import monitoring protocol"
+    },
+    {
+      "text": "These are essential elements of a protocol that should guide a regulatory monitoring inspector in fortification monitoring activities. Some of these activities (e.g. reporting procedures, procedures for noncompliance) may not be specific for fortification, but general regulatory monitoring procedures for any food."
+    },
+    {
+      "text": "Reporting procedures"
+    },
+    {
+      "text": "There is no import monitoring protocol"
+    },
+    {
+      "text": "There is no import monitoring protocol"
+    },
+    {
+      "text": "These are essential elements of a protocol that should guide a regulatory monitoring inspector in fortification monitoring activities. Some of these activities (e.g. reporting procedures, procedures for noncompliance) may not be specific for fortification, but general regulatory monitoring procedures for any food."
+    },
+    {
+      "text": "Procedures for non-compliance"
+    },
+    {
+      "text": "There is no import monitoring protocol"
+    },
+    {
+      "text": "There is no import monitoring protocol"
+    },
+    {
+      "text": "Industry should be treated with both incentives and penalties to encourage fortification and discourage future non-compliance. Incentives and penalties can take different or several forms (e.g. positive or negative media attention, fines or tax incentives, increased or decreased regulatory scrutiny, etc.) and should be commensurate with the level of risk and the impact of actions (positive or negative) on the intended purpose of fortification."
+    },
+    {
+      "text": "Is there a document that states incentives to continue fortification, including ensuring compliance?"
+    },
+    {
+      "text": "Non-compliance with regulations should be met with penalties that discourage future non-compliance. These penalties can take different (or several) forms, e.g. fines, increased regulatory monitoring inspections and audits."
+    },
+    {
+      "text": "Is there a document that outlines penalties for non- compliance?"
+    },
+    {
+      "text": "Wheat flour\"First Phase: cash fine (10000AF) Ten thousand Afghani & seizing of the product. Second Phase: cash fine (30000AF) Thirty thousand Afghani. Third Phase: cash fine (100000AF) one hundred thousand Afghani. Fourth phase: suspension of license for one year  Fifth Phase: cancellation license and Introducing the repeated violators to judicial and justice departments\" (Article 28)[1]Salt\" (1) The producer and distributor of iodized salt if act against these provisions of these regulations will be penalized as follows: 1. For the first time,  receive verbal  warning 2. For the second time,  receive written warning  3. For the third time,  fine of 50000Afs 4. For the fourth time, a fine of 100000Afs5. For the fifth time, the suspension of license for one year. The amounts mentioned in part  (3 & 4) of paragraph (1) of this article are obtained  by the MoPH and deposited in the bank as the receivables of the state.\" (Article 23)[3]"
+    },
+    {
+      "text": "Inspections and audits can be complemented with laboratory testing of nutrient levels if capacity and resources allow. However, because various analytical assays for measuring nutrient content can provide different values, for consistency it is important to state which assay should be used for a nutrient for consistent results."
+    },
+    {
+      "text": "Are these specified: analytical assays and the methodologies that are approved to assess the nutrient(s) included in fortification? (e.g., liquid chromatography-mass spectrometry for folic acid, atomic absorption for iron and zinc)?"
+    },
+    {
+      "text": "Salt\"The finished product should be tested quantitatively every one or two hours in factory laboratory by titration method or its other quantitative tests to ensure that production of iodized salt is in accordance with standard (30-50ppm) and iodine pump grade should be adjusted to that.\" (Section 5, Stages of the Process)[4]Wheat flour\"Quantitative spectrophotometric method for determination of total iron in wheat flour\" (Appendix 1)[5]"
+    },
+    {
+      "text": "Footnotes:1.Islamic Republic of Afghanistan Ministry of Public Health.  Regulation of wheat flour and edible oil fortified with minerals and vitamins.  Afghanistan.  6/December/2018.2.The Ministry of Justice. Afghanistan Regulations on Iodizing Salt Official Gazette Serial No 1048 (6.1.1390) 26.3.2011. Islamic Republic of Afghanistan. 26/March/2011.3.The Ministry of Justice. Official Gazette: Regulations on Iodizing Salt, Issue No: (1048). The Islamic Republic of Afghanistan. 26/March/2011.4.Afghanistan National Standards Authority. Afghanistan National Standard AS 477: 2014 Iodized Edible Salt Specification (Annex 1: Fortification (Iodization), Sampling and Testing. Islamic Republic of Afghanistan. No date. [http://bit.ly/2vhM8Wv]5.Afghanistan National Standards Authority. Afghanistan National Standard, Fortified wheat flour specification AS 476:2014. Afghanistan. 2014Legends:Yes, detail was found in a key document.No, detail was not found in a key program document.Hover over the icon for more details (for example, the program documents do not specify)."
+    },
+    {
+      "text": "Resources:Icon made fromIcon Fontsis licensed by CC BY 3.0.Icons made by Freepik (maize), Good ware (wheat, salt), Eucalyp (oil) fromwww.flaticon.com."
+    },
+    {
+      "text": "Chart: Total Food AvailabilityChart showing total annual food supply available for human\n                                                            consumption by country (Use this chart to identify total\n                                                            annual food availability of maize flour, oil, salt, rice, or\n                                                            wheat flour in a country)"
+    },
+    {
+      "text": "Chart: Quantity and Proportion of Industrially Processed\n                                                            Food VehiclesChart showing the total quantity and proportion of each food\n                                                            vehicle that is industrially processed by country"
+    },
+    {
+      "text": "Chart: Context for Fortified Food Vehicle Coverage in the\n                                                            PopulationChart of the proportion of a country’s population reported to\n                                                            consume a fortified food vehicle, compared to the population\n                                                            consuming that food (fortified or not), compared to the\n                                                            entire population"
+    },
+    {
+      "text": "Chart: Quantity and Proportion\n                                                            ofIndustrially Processed Foods by\n                                                            YearChartdisplaying the total quantity and proportion\n                                                            of each industrially processed food vehicle in a country by\n                                                            year"
+    },
+    {
+      "text": "Map: Presence of external and import monitoring protocolsWhether countries with mandatory fortification legislation have the applicable protocols to monitor the domestic\n                                                            production (external monitoring) or importation (import monitoring) of fortified foods. The presence of a\n                                                            monitoring protocol indicates that a country has identified procedures to carry out external and/or import\n                                                            monitoring of food fortification. If a country lacks an external and/or import monitoring protocol, it would\n                                                            suggest that a basic foundational document for the implementation of food fortification programs is\n                                                            missing."
+    },
+    {
+      "text": "Map: Quantity and Proportion of Food Vehicle that is\n                                                            FortifiedMap of the total quantity and proportion of a food vehicle\n                                                            that is fortified"
+    },
+    {
+      "text": "Map: Food Intake and AvailabilityMap counting the number of nutrients required in food\n                                                            vehicles by country (Use this map to identify by country how\n                                                            many nutrients are required in mandatory or voluntary\n                                                            standards for maize flour, oil, salt, rice, and/or wheat\n                                                            flour)"
+    },
+    {
+      "text": "Map: Population Coverage of Fortified Food Vehicle in\n                                                            Countries with Mandatory or Voluntary FortificationMap of the proportion of a country’s population with access\n                                                            to the fortified food vehicle"
+    },
+    {
+      "text": "Chart: Year When Food Fortification MandatedChart of the number of countries with mandatory food\n                                                            fortification over time (Use this chart to identify when a\n                                                            country first passed mandatory fortification of maize flour,\n                                                            oil, salt, rice, and/or wheat flour)"
+    },
+    {
+      "text": "Plot: Fortification Legislation Scope in Countries with\n                                                            Mandatory FortificationPlot displaying the scope of fortification legislation, which\n                                                            includes information on whether all food vehicle types or a\n                                                            subset are required to be fortified and whether mandatory\n                                                            legislation requires food vehicles of different\n                                                            origins/destinations and intended uses to be fortified"
+    },
+    {
+      "text": "Map: Fortification LegislationMap of legal status of food fortification by country (Use\n                                                            this map to identify which countries have mandatory and\n                                                            voluntary legislation for the fortification of maize flour,\n                                                            oil, rice, salt, and/or wheat flour)"
+    },
+    {
+      "text": "Map: Number of Food Vehicles with StandardsMap counting the number of food vehicles with fortification\n                                                            standards by country (Use this map to identify by country\n                                                            how many of the following foods have mandatory or voluntary\n                                                            standards: maize flour, oil, salt, rice, and/or wheat\n                                                            flour)"
+    },
+    {
+      "text": "Map: Count of Nutrients in StandardsMap counting the number of nutrients required in food\n                                                            vehicles by country (Use this map to identify by country how\n                                                            many nutrients are required in mandatory or voluntary\n                                                            standards for maize flour, oil, salt, rice, and/or wheat\n                                                            flour)"
+    },
+    {
+      "text": "Map: Nutrient Levels in Fortification Standards\n                                                            [mid-range or average]Map displaying the amount of each nutrient required in food\n                                                            vehicles by country (Use this map to identify by country\n                                                            nutrient levels required in mandatory or voluntary standards\n                                                            for maize flour, oil, salt, rice, or wheat flour)"
+    },
+    {
+      "text": "Map: Availability of Data on Health Status Before and\n                                                            After Mandatory FortificationThe purpose of mandatory food fortification is to improve health outcomes in a population. Health improvements\n                                                            can be measured in changes in blood biomarkers and/or changes in functional outcomes that are caused by a\n                                                            deficiency in a nutrient. This visualization presents the number of countries that have data or studies\n                                                            comparing health status before and after mandatory fortification."
+    },
+    {
+      "text": "GFDx Analysis: Alignment of national fortification standards with WHO guidelines (nutrient\n                                                            compounds)Nutrients can be added in fortification as different chemical forms (compounds). This visualization compares the\n                                                            nutrient compounds specified in national fortification standards to those recommended in WHO guidelines."
+    },
+    {
+      "text": "GFDx Analysis: Comparison of national fortification standards with WHO guidelines (nutrient levels)Nutrient amounts (or levels) added in fortification should contribute meaningfully to dietary intake. This\n                                                            visualization compares nutrient levels specified in national fortification standards to those recommended in WHO\n                                                            guidelines. Results from this analysis should be used as a starting point for policymakers to discuss whether\n                                                            national fortification requirements are as safe and effective as possible."
+    },
+    {
+      "text": "GFDx Analysis: Potential nutrient intake under ideal (unadjusted) and real-life (adjusted for program\n                                                            implementation data, where available) scenariosThis visualization calculates the potential intake of nutrients included in fortification standards based on food\n                                                            intake/availability information. Data is presented under the ideal scenario that all foodcanandhasbeen\n                                                            fortified, as well as real-life scenario that adjusts data for the proportion of food that can be fortified\n                                                            (i.e., is industrially milled) and the proportion of food thathasbeen fortified (i.e., compliance,\n                                                            quality, or\n                                                            expert opinion data), if this data is available."
+    },
+    {
+      "text": "PreviousNext"
+    },
+    {
+      "text": "This dashboard presents a summary of fortification data for each country in which we’ve collected micronutrient metrics and food standards. The charts and statistics below help compose a user-friendly visualization for anyone interested in visualizing key metrics such as fortification monitoring protocols, quality, compliance, coverage, and fortification standards. Our data is easily filtered by the micronutrient data map or drop-down filter function in the top-right section of the dashboard.Nutrients in maize flour fortification standards are described in the first section. Here you will also find maize flour fortification coverage, fortification opportunity, and food availability based on the population coverage of maize flour for each country.Oil fortification standards are in the next section, where fortification quality and compliance help us understand how much oil is fortified. Nutrients found in oil include Vitamin D and Vitamin A, while the fortification opportunity of industrial processing indicates the feasibility to fortify such food. The population coverage directly affects the expected benefits from fortification.Rice fortification standards can also be visualized on this dashboard. The fortification legislation status may not be available for all countries, but many will list what nutrients can be found in rice standards. If rice fortification coverage is available, one can conceptualize the fortification opportunity based on its proportion of industrially processed rice and availability.Another important food is salt. The legislation scope for salt includes many types of salt that must be fortified. The presence of monitoring protocols helps external & import production observations become clear. Nutrients in salt fortification may include iodine in milligrams per kilogram of salt.Finally, we have wheat flour as a final category of food fortification on our data visualization dashboard. Voluntary fortification shows a variety of nutrients in wheat flour with some quality and compliance statistics available. The opportunity for wheat flour in these countries may be determinant on the proportion of wheat flour industrially processed.Please feel free to explore the data and interact with the Global Food Fortification Exchange dashboard. We aim to provide global micronutrient data in an easy-to-understand format for all.This dashboard includes data for the countries listed below:AlgeriaAngolaBeninBotswanaBurkina FasoBurundiCabo VerdeCameroonCentral African RepublicChadComorosCongoCote d’IvoireDemocratic Republic of the CongoDjiboutiEgyptEquatorial GuineaEritreaEthiopiaGabonGhanaGuineaGuinea-BissauKenyaLesothoLiberiaLibyaMadagascarMalawiMaliMauritaniaMauritiusMoroccoMozambiqueNamibiaNigerNigeriaRwandaSao Tome and PrincipeSenegalSeychellesSierra LeoneSomaliaSouth AfricaSouth SudanSudanTogoTunisiaUgandaTanzaniaZambiaZimbabweGambiaEswatiniAntigua and BarbudaArgentinaBahamasBarbadosBelizeBoliviaBrazilCanadaChileColombiaCosta RicaCubaDominicaDominican RepublicEcuadorEl SalvadorGrenadaGuatemalaGuyanaHaitiHondurasJamaicaMexicoNicaraguaPanamaParaguayPeruSaint Kitts and NevisSaint LuciaSaint Vincent and the GrenadinesSurinameTrinidad and TobagoUnited States of AmericaUruguayVenezuelaAfghanistanArmeniaAzerbaijanBahrainBangladeshBhutanBrunei DarussalamCambodiaCyprusGeorgiaIndiaIndonesiaIraqIsraelJapanJordanKazakhstanKuwaitKyrgyzstanLao PDRLebanonMalaysiaMaldivesMongoliaMyanmarNepalOmanPakistanPhilippinesQatarSaudi ArabiaSingaporeSri LankaSyriaTajikistanThailandTimor-LesteTurkeyTurkmenistanUnited Arab EmiratesUzbekistanViet NamYemenIranNorth KoreaSouth KoreaPalestineChinaAlbaniaAndorraAustriaBelarusBelgiumBosnia and HerzegovinaBulgariaCroatiaCzech RepublicDenmarkEstoniaFinlandFranceGermanyGreeceHungaryIcelandIrelandItalyLatviaLiechtensteinLithuaniaLuxembourgMaltaMonacoMontenegroNetherlandsNorwayPolandPortugalMoldovaRomaniaRussiaSan MarinoSerbiaSlovakiaSloveniaSpainSwedenSwitzerlandUkraineVatican CityMacedoniaUnited KingdomKosovoAustraliaFijiKiribatiMarshall IslandsMicronesiaNauruNew ZealandPalauPapua New GuineaSamoaSolomon IslandsTongaTuvaluVanuatu"
+    },
+    {
+      "text": "© Copyright - Global Fortification Data Exchange"
+    },
+    {
+      "text": "*indicates required"
+    },
+    {
+      "text": "Email Address:*"
+    },
+    {
+      "text": "First Name:"
+    },
+    {
+      "text": "Last Name:"
+    },
+    {
+      "text": "Organization:"
+    },
+    {
+      "text": "Country:"
+    },
+    {
+      "text": "*indica requerido"
+    },
+    {
+      "text": "Dirección de Correo electrónico:*"
+    },
+    {
+      "text": "Nombre de Pila:"
+    },
+    {
+      "text": "Nombre de Familia:"
+    },
+    {
+      "text": "Organización:"
+    },
+    {
+      "text": "País:"
+    }
+  ],
+  "links": [
+    {
+      "text": "English",
+      "href": "https://fortificationdata.org/country-fortification-dashboard/"
+    },
+    {
+      "text": "Español",
+      "href": "https://fortificaciondatos.org/panel-de-control-fortificacion-por-paises/"
+    },
+    {
+      "text": "",
+      "href": "https://fortificationdata.org/"
+    },
+    {
+      "text": "MenuMenu",
+      "href": "#"
+    },
+    {
+      "text": "Youtube",
+      "href": "https://www.youtube.com/channel/UCujCdiDCqAyC4-MIfaeMS4w"
+    },
+    {
+      "text": "Twitter",
+      "href": "https://twitter.com/GFDxSecretariat"
+    },
+    {
+      "text": "Mail",
+      "href": "https://fortificationdata.org/#contact"
+    },
+    {
+      "text": "Youtube",
+      "href": "https://www.youtube.com/channel/UCujCdiDCqAyC4-MIfaeMS4w"
+    },
+    {
+      "text": "Twitter",
+      "href": "https://twitter.com/GFDxSecretariat"
+    },
+    {
+      "text": "Mail",
+      "href": "https://fortificationdata.org/#contact"
+    },
+    {
+      "text": "About Us",
+      "href": ""
+    },
+    {
+      "text": "Introduction",
+      "href": "https://fortificationdata.org/#intro"
+    },
+    {
+      "text": "About Fortification",
+      "href": "https://fortificationdata.org/#aboutfoodfortification"
+    },
+    {
+      "text": "About the GFDx",
+      "href": "https://fortificationdata.org/#about"
+    },
+    {
+      "text": "Who we are",
+      "href": "https://fortificationdata.org/#whoweare"
+    },
+    {
+      "text": "Share your data",
+      "href": "https://fortificationdata.org/#sharedata"
+    },
+    {
+      "text": "Contact form",
+      "href": "https://fortificationdata.org/#contact"
+    },
+    {
+      "text": "Countries",
+      "href": "https://fortificationdata.org/list-of-countries-for-the-food-fortification-dashboard/"
+    },
+    {
+      "text": "Data",
+      "href": ""
+    },
+    {
+      "text": "Country dashboards",
+      "href": "https://fortificationdata.org/country-fortification-dashboard/"
+    },
+    {
+      "text": "Visualizations",
+      "href": "https://fortificationdata.org/visualizations"
+    },
+    {
+      "text": "Full datasets",
+      "href": "https://fortificationdata.org/full-gfdx-datasets/"
+    },
+    {
+      "text": "Methods and Sources",
+      "href": ""
+    },
+    {
+      "text": "Methodology",
+      "href": "https://fortificationdata.org/methodology/"
+    },
+    {
+      "text": "Data contributors",
+      "href": "https://fortificationdata.org/data-contributors/"
+    },
+    {
+      "text": "Media Center",
+      "href": "https://fortificationdata.org/media-center/"
+    },
+    {
+      "text": "Resources",
+      "href": ""
+    },
+    {
+      "text": "Fortification Resources",
+      "href": "https://fortificationdata.org/resources/"
+    },
+    {
+      "text": "How to use the GFDx",
+      "href": "https://fortificationdata.org/how-to-use-the-gfdx/"
+    },
+    {
+      "text": "FAQs",
+      "href": "https://fortificationdata.org/frequently-asked-questions/"
+    },
+    {
+      "text": "Subscribe to our newsletters!",
+      "href": ""
+    },
+    {
+      "text": "MenuMenu",
+      "href": "#"
+    },
+    {
+      "text": "Exit Fullscreen",
+      "href": "#"
+    },
+    {
+      "text": "View Fullscreen",
+      "href": "#"
+    },
+    {
+      "text": "1",
+      "href": ""
+    },
+    {
+      "text": "1",
+      "href": ""
+    },
+    {
+      "text": "2",
+      "href": ""
+    },
+    {
+      "text": "1",
+      "href": ""
+    },
+    {
+      "text": "1",
+      "href": ""
+    },
+    {
+      "text": "2",
+      "href": ""
+    },
+    {
+      "text": "1",
+      "href": ""
+    },
+    {
+      "text": "1",
+      "href": ""
+    },
+    {
+      "text": "2",
+      "href": ""
+    },
+    {
+      "text": "1",
+      "href": ""
+    },
+    {
+      "text": "1",
+      "href": ""
+    },
+    {
+      "text": "3",
+      "href": ""
+    },
+    {
+      "text": "1",
+      "href": ""
+    },
+    {
+      "text": "3",
+      "href": ""
+    },
+    {
+      "text": "Nutrient levels and compounds inOilfortification standard in AfghanistanThere are no WHO recommendations.",
+      "href": "https://fortificationdata.org/map-nutrient-levels-in-fortification-standards?alpha3_code=AFG&lang=en&vehicle_name=Oil"
+    },
+    {
+      "text": "Nutrient levels and compounds inSaltfortification standard in Afghanistan",
+      "href": "https://fortificationdata.org/map-nutrient-levels-in-fortification-standards?alpha3_code=AFG&lang=en&vehicle_name=Salt"
+    },
+    {
+      "text": "Nutrient levels and compounds inWheat flourfortification standard in Afghanistan",
+      "href": "https://fortificationdata.org/map-nutrient-levels-in-fortification-standards?alpha3_code=AFG&lang=en&vehicle_name=Wheat%20flour"
+    },
+    {
+      "text": "Nutrient levels and compounds inOilfortification standard in AfghanistanThere are no WHO recommendations.",
+      "href": "https://fortificationdata.org/map-nutrient-levels-in-fortification-standards?alpha3_code=AFG&lang=en&vehicle_name=Oil"
+    },
+    {
+      "text": "Nutrient levels and compounds inSaltfortification standard in Afghanistan",
+      "href": "https://fortificationdata.org/map-nutrient-levels-in-fortification-standards?alpha3_code=AFG&lang=en&vehicle_name=Salt"
+    },
+    {
+      "text": "Nutrient levels and compounds inWheat flourfortification standard in Afghanistan",
+      "href": "https://fortificationdata.org/map-nutrient-levels-in-fortification-standards?alpha3_code=AFG&lang=en&vehicle_name=Wheat%20flour"
+    },
+    {
+      "text": "1",
+      "href": ""
+    },
+    {
+      "text": "3",
+      "href": ""
+    },
+    {
+      "text": "1",
+      "href": ""
+    },
+    {
+      "text": "3",
+      "href": ""
+    },
+    {
+      "text": "5",
+      "href": ""
+    },
+    {
+      "text": "5",
+      "href": ""
+    },
+    {
+      "text": "1",
+      "href": ""
+    },
+    {
+      "text": "1",
+      "href": ""
+    },
+    {
+      "text": "1",
+      "href": ""
+    },
+    {
+      "text": "3",
+      "href": ""
+    },
+    {
+      "text": "4",
+      "href": ""
+    },
+    {
+      "text": "5",
+      "href": ""
+    },
+    {
+      "text": "Icon Fonts",
+      "href": "http://www.onlinewebfonts.com/icon"
+    },
+    {
+      "text": "www.flaticon.com",
+      "href": "https://www.flaticon.com/"
+    },
+    {
+      "text": "",
+      "href": "https://fortificationdata.org/chart-availability/"
+    },
+    {
+      "text": "",
+      "href": "https://fortificationdata.org/chart-quantity-and-proportion-of-industrially-processed-food-vehicles/"
+    },
+    {
+      "text": "",
+      "href": "https://fortificationdata.org/chart-context-for-fortified-food-vehicle-coverage-in-the-population/"
+    },
+    {
+      "text": "",
+      "href": "https://fortificationdata.org/chart-amount-and-proportion-industrially-processed-foods-by-year/"
+    },
+    {
+      "text": "",
+      "href": "https://fortificationdata.org/map-presence-of-regulatory-monitoring-protocols-for-external-and-import-monitoring/"
+    },
+    {
+      "text": "",
+      "href": "https://fortificationdata.org/map-proportion-of-food-vehicle-that-is-fortified/"
+    },
+    {
+      "text": "",
+      "href": "https://fortificationdata.org/map-availability/"
+    },
+    {
+      "text": "",
+      "href": "https://fortificationdata.org/map-population-coverage-of-fortified-food-vehicle/"
+    },
+    {
+      "text": "",
+      "href": "https://fortificationdata.org/chart-year-when-food-fortification-mandated/"
+    },
+    {
+      "text": "",
+      "href": "https://fortificationdata.org/plot-fortification-legislation-scope-in-countries-with-mandatory-fortification/"
+    },
+    {
+      "text": "",
+      "href": "https://fortificationdata.org/interactive-map-fortification-legislation/"
+    },
+    {
+      "text": "",
+      "href": "https://fortificationdata.org/map-number-of-food-vehicles/"
+    },
+    {
+      "text": "",
+      "href": "https://fortificationdata.org/map-number-of-nutrients/"
+    },
+    {
+      "text": "",
+      "href": "https://fortificationdata.org/map-nutrient-levels-in-fortification-standards/"
+    },
+    {
+      "text": "",
+      "href": "https://fortificationdata.org/availability-of-data-on-health-status-before-and-after-mandatory-fortification/"
+    },
+    {
+      "text": "",
+      "href": "https://fortificationdata.org/alignment-of-national-fortification-standards-with-who-recommendations-nutrient-compounds/"
+    },
+    {
+      "text": "",
+      "href": "https://fortificationdata.org/gfdx-analysis-alignment-of-national-fortification-standards-with-who-recommendations-nutrient-levels/"
+    },
+    {
+      "text": "",
+      "href": "https://fortificationdata.org/nutrient-intake-for-all-food-by-country/"
+    },
+    {
+      "text": "Previous",
+      "href": "#prev"
+    },
+    {
+      "text": "Next",
+      "href": "#next"
+    },
+    {
+      "text": "Scroll to top",
+      "href": "#top"
+    }
+  ],
+  "map": [],
+  "other infornation": "See more…\nChart: Total Food Availability\nChart showing total annual food supply available for human\n                                                            consumption by country (Use this chart to identify total\n                                                            annual food availability of maize flour, oil, salt, rice, or\n                                                            wheat flour in a country)\nChart: Quantity and Proportion of Industrially Processed\n                                                            Food Vehicles\nChart showing the total quantity and proportion of each food\n                                                            vehicle that is industrially processed by country\nChart: Context for Fortified Food Vehicle Coverage in the\n                                                            Population\nChart of the proportion of a country’s population reported to\n                                                            consume a fortified food vehicle, compared to the population\n                                                            consuming that food (fortified or not), compared to the\n                                                            entire population\nChart: Quantity and Proportion\n                                                            of\nIndustrially Processed Foods by\n                                                            Year\nChart\ndisplaying the total quantity and proportion\n                                                            of each industrially processed food vehicle in a country by\n                                                            year\nMap: Presence of external and import monitoring protocols\nWhether countries with mandatory fortification legislation have the applicable protocols to monitor the domestic\n                                                            production (external monitoring) or importation (import monitoring) of fortified foods. The presence of a\n                                                            monitoring protocol indicates that a country has identified procedures to carry out external and/or import\n                                                            monitoring of food fortification. If a country lacks an external and/or import monitoring protocol, it would\n                                                            suggest that a basic foundational document for the implementation of food fortification programs is\n                                                            missing.\nMap: Quantity and Proportion of Food Vehicle that is\n                                                            Fortified\nMap of the total quantity and proportion of a food vehicle\n                                                            that is fortified\nMap: Food Intake and Availability\nMap counting the number of nutrients required in food\n                                                            vehicles by country (Use this map to identify by country how\n                                                            many nutrients are required in mandatory or voluntary\n                                                            standards for maize flour, oil, salt, rice, and/or wheat\n                                                            flour)\nMap: Population Coverage of Fortified Food Vehicle in\n                                                            Countries with Mandatory or Voluntary Fortification\nMap of the proportion of a country’s population with access\n                                                            to the fortified food vehicle\nChart: Year When Food Fortification Mandated\nChart of the number of countries with mandatory food\n                                                            fortification over time (Use this chart to identify when a\n                                                            country first passed mandatory fortification of maize flour,\n                                                            oil, salt, rice, and/or wheat flour)\nPlot: Fortification Legislation Scope in Countries with\n                                                            Mandatory Fortification\nPlot displaying the scope of fortification legislation, which\n                                                            includes information on whether all food vehicle types or a\n                                                            subset are required to be fortified and whether mandatory\n                                                            legislation requires food vehicles of different\n                                                            origins/destinations and intended uses to be fortified\nMap: Fortification Legislation\nMap of legal status of food fortification by country (Use\n                                                            this map to identify which countries have mandatory and\n                                                            voluntary legislation for the fortification of maize flour,\n                                                            oil, rice, salt, and/or wheat flour\n)\nMap: Number of Food Vehicles with Standards\nMap counting the number of food vehicles with fortification\n                                                            standards by country (Use this map to identify by country\n                                                            how many of the following foods have mandatory or voluntary\n                                                            standards: maize flour, oil, salt, rice, and/or wheat\n                                                            flour)\nMap: Count of Nutrients in Standards\nMap counting the number of nutrients required in food\n                                                            vehicles by country (Use this map to identify by country how\n                                                            many nutrients are required in mandatory or voluntary\n                                                            standards for maize flour, oil, salt, rice, and/or wheat\n                                                            flour)\nMap: Nutrient Levels in Fortification Standards\n                                                            [mid-range or average]\nMap displaying the amount of each nutrient required in food\n                                                            vehicles by country (Use this map to identify by country\n                                                            nutrient levels required in mandatory or voluntary standards\n                                                            for maize flour, oil, salt, rice, or wheat flour)\nMap: Availability of Data on Health Status Before and\n                                                            After Mandatory Fortification\nThe purpose of mandatory food fortification is to improve health outcomes in a population. Health improvements\n                                                            can be measured in changes in blood biomarkers and/or changes in functional outcomes that are caused by a\n                                                            deficiency in a nutrient. This visualization presents the number of countries that have data or studies\n                                                            comparing health status before and after mandatory fortification.\nGFDx Analysis: Alignment of national fortification standards with WHO guidelines (nutrient\n                                                            compounds)\nNutrients can be added in fortification as different chemical forms (compounds). This visualization compares the\n                                                            nutrient compounds specified in national fortification standards to those recommended in WHO guidelines.\nGFDx Analysis: Comparison of national fortification standards with WHO guidelines (nutrient levels)\nNutrient amounts (or levels) added in fortification should contribute meaningfully to dietary intake. This\n                                                            visualization compares nutrient levels specified in national fortification standards to those recommended in WHO\n                                                            guidelines. Results from this analysis should be used as a starting point for policymakers to discuss whether\n                                                            national fortification requirements are as safe and effective as possible.\nGFDx Analysis: Potential nutrient intake under ideal (unadjusted) and real-life (adjusted for program\n                                                            implementation data, where available) scenarios\nThis visualization calculates the potential intake of nutrients included in fortification standards based on food\n                                                            intake/availability information. Data is presented under the ideal scenario that all food\ncan\nand\nhas\nbeen\n                                                            fortified, as well as real-life scenario that adjusts data for the proportion of food that can be fortified\n                                                            (i.e., is industrially milled) and the proportion of food that\nhas\nbeen fortified (i.e., compliance,\n                                                            quality, or\n                                                            expert opinion data), if this data is available.\nPrevious\nNext\nThis dashboard presents a summary of fortification data for each country in which we’ve collected micronutrient metrics and food standards. The charts and statistics below help compose a user-friendly visualization for anyone interested in visualizing key metrics such as fortification monitoring protocols, quality, compliance, coverage, and fortification standards. Our data is easily filtered by the micronutrient data map or drop-down filter function in the top-right section of the dashboard.\nNutrients in maize flour fortification standards are described in the first section. Here you will also find maize flour fortification coverage, fortification opportunity, and food availability based on the population coverage of maize flour for each country.\nOil fortification standards are in the next section, where fortification quality and compliance help us understand how much oil is fortified. Nutrients found in oil include Vitamin D and Vitamin A, while the fortification opportunity of industrial processing indicates the feasibility to fortify such food. The population coverage directly affects the expected benefits from fortification.\nRice fortification standards can also be visualized on this dashboard. The fortification legislation status may not be available for all countries, but many will list what nutrients can be found in rice standards. If rice fortification coverage is available, one can conceptualize the fortification opportunity based on its proportion of industrially processed rice and availability.\nAnother important food is salt. The legislation scope for salt includes many types of salt that must be fortified. The presence of monitoring protocols helps external & import production observations become clear. Nutrients in salt fortification may include iodine in milligrams per kilogram of salt.\nFinally, we have wheat flour as a final category of food fortification on our data visualization dashboard. Voluntary fortification shows a variety of nutrients in wheat flour with some quality and compliance statistics available. The opportunity for wheat flour in these countries may be determinant on the proportion of wheat flour industrially processed.\nPlease feel free to explore the data and interact with the Global Food Fortification Exchange dashboard. We aim to provide global micronutrient data in an easy-to-understand format for all.\nThis dashboard includes data for the countries listed below:\nAlgeria\nAngola\nBenin\nBotswana\nBurkina Faso\nBurundi\nCabo Verde\nCameroon\nCentral African Republic\nChad\nComoros\nCongo\nCote d’Ivoire\nDemocratic Republic of the Congo\nDjibouti\nEgypt\nEquatorial Guinea\nEritrea\nEthiopia\nGabon\nGhana\nGuinea\nGuinea-Bissau\nKenya\nLesotho\nLiberia\nLibya\nMadagascar\nMalawi\nMali\nMauritania\nMauritius\nMorocco\nMozambique\nNamibia\nNiger\nNigeria\nRwanda\nSao Tome and Principe\nSenegal\nSeychelles\nSierra Leone\nSomalia\nSouth Africa\nSouth Sudan\nSudan\nTogo\nTunisia\nUganda\nTanzania\nZambia\nZimbabwe\nGambia\nEswatini\nAntigua and Barbuda\nArgentina\nBahamas\nBarbados\nBelize\nBolivia\nBrazil\nCanada\nChile\nColombia\nCosta Rica\nCuba\nDominica\nDominican Republic\nEcuador\nEl Salvador\nGrenada\nGuatemala\nGuyana\nHaiti\nHonduras\nJamaica\nMexico\nNicaragua\nPanama\nParaguay\nPeru\nSaint Kitts and Nevis\nSaint Lucia\nSaint Vincent and the Grenadines\nSuriname\nTrinidad and Tobago\nUnited States of America\nUruguay\nVenezuela\nAfghanistan\nArmenia\nAzerbaijan\nBahrain\nBangladesh\nBhutan\nBrunei Darussalam\nCambodia\nCyprus\nGeorgia\nIndia\nIndonesia\nIraq\nIsrael\nJapan\nJordan\nKazakhstan\nKuwait\nKyrgyzstan\nLao PDR\nLebanon\nMalaysia\nMaldives\nMongolia\nMyanmar\nNepal\nOman\nPakistan\nPhilippines\nQatar\nSaudi Arabia\nSingapore\nSri Lanka\nSyria\nTajikistan\nThailand\nTimor-Leste\nTurkey\nTurkmenistan\nUnited Arab Emirates\nUzbekistan\nViet Nam\nYemen\nIran\nNorth Korea\nSouth Korea\nPalestine\nChina\nAlbania\nAndorra\nAustria\nBelarus\nBelgium\nBosnia and Herzegovina\nBulgaria\nCroatia\nCzech Republic\nDenmark\nEstonia\nFinland\nFrance\nGermany\nGreece\nHungary\nIceland\nIreland\nItaly\nLatvia\nLiechtenstein\nLithuania\nLuxembourg\nMalta\nMonaco\nMontenegro\nNetherlands\nNorway\nPoland\nPortugal\nMoldova\nRomania\nRussia\nSan Marino\nSerbia\nSlovakia\nSlovenia\nSpain\nSweden\nSwitzerland\nUkraine\nVatican City\nMacedonia\nUnited Kingdom\nKosovo\nAustralia\nFiji\nKiribati\nMarshall Islands\nMicronesia\nNauru\nNew Zealand\nPalau\nPapua New Guinea\nSamoa\nSolomon Islands\nTonga\nTuvalu\nVanuatu"
+}

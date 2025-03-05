@@ -1,0 +1,404 @@
+{
+  "url": "https://fortificationdata.org/methodology/",
+  "structural_elements": {
+    "headers": [
+      {
+        "level": 1,
+        "text": "METHODOLOGY"
+      },
+      {
+        "level": 3,
+        "text": "Subscribe to the GFDx"
+      },
+      {
+        "level": 3,
+        "text": "Suscribirse al GFDx"
+      }
+    ],
+    "paragraphs": [
+      {
+        "text": "Do you have other questions about GFDx methodology and how we source our information? Please get in touch atinfo@fortificationdata.org."
+      },
+      {
+        "text": "How should I cite the GFDx website?"
+      },
+      {
+        "text": "We suggest using the following citation for the general website: Global Fortification Data Exchange. Accessed dd/mm/yyyy. [https://www.fortificationdata.org.]"
+      },
+      {
+        "text": "To cite a specific map or visualization within the GFDx, we suggest using the following citation: Global Fortification Data Exchange. “Name of visualization.” Accessed dd/mm/yyyy. [https://www.fortificationdata.org.]"
+      },
+      {
+        "text": "How does GFDx classify countries and territories?"
+      },
+      {
+        "text": "As of September 2018, the GFDx includes 196 states in its database, criteria being:full membersof the United Nations (UN) (193),permanent UN observer states(2, Vatican City and State of Palestine), and states recognized by at least 50% of other UN full member states (1, Republic of Kosovo). We do not include territories (non-self-governing states) in the GFDx as they are unlikely to have separate legislation and given complications with disaggregating data from their administrative countries. We take country names and their spellings from the UN member states listings."
+      },
+      {
+        "text": "How are countries classified into geographic regions?"
+      },
+      {
+        "text": "We used theUnited Nations classificationin September 2018 for geographical regions (Africa, Americas, Asia, Europe, and Oceania) to classify countries by geographical region."
+      },
+      {
+        "text": "How are countries classified by income status?"
+      },
+      {
+        "text": "We use theWorld Bankincome classification (low income, lower middle income, upper middle income, high income) to classify countries by income status. This classification can change and is updated in the GFDx annually."
+      },
+      {
+        "text": "How does the GFDx collect the data presented on the website?"
+      },
+      {
+        "text": "We use a combination of primary and secondary data to populate our database. All GFDx data points are verified and fully referenced and we maintain copies of all references. With a few exceptions, secondary data sources, e.g. an article mentioning a country legislation or survey result, are not used. We make every attempt to ensure all data included meet our inclusion criteria and have a source, however we recognize that occasionally there may be erroneous data presented in the GFDx. We encourage GFDx users to provide updates or corrections to country data. If you have data to contribute, or corrections to suggest, please gohere."
+      },
+      {
+        "text": "GFDx survey to all countries included in the GFDx:"
+      },
+      {
+        "text": "Starting in 2018, the GFDx’s main tool to collect and verify data is a survey on all foods and all indicators, which is collectively sent out by the GFDx data stewards, Food Fortification Initiative, Global Alliance for Improved Nutrition, and Iodine Global Network, to all countries included in the GFDx. It is sent to a variety of contacts in each country including relevant government departments, industry representatives, and advocacy and program support partners. The data are reviewed and vetted by GFDx data stewards, including seeking clarification from country respondents as needed."
+      },
+      {
+        "text": "If you would like to respond to the survey for your country, please contact us at info@fortificationdata.org."
+      },
+      {
+        "text": "Desk review and partner databases:"
+      },
+      {
+        "text": "To complement information collected through the GFDx survey, we also conduct online desk reviews and include information derived from partner databases."
+      },
+      {
+        "text": "Availability of maize flour, oil, rice, and wheat flour GFDx is aggregated from theSupply Utilization Accounts: Food Supply – Crops Primary Equivalentdatabase ofFood and Agriculture Organizationthe (FAO) of the United Nations. Salt intake data are converted from sodium intake data in Table 2 ofPowles 2013. To calculate salt intake, sodium intake is multiplied by 2.542, according toLand 2014. Population coverage data for fortified salt are taken from UNICEF’s global database onHousehold Consumption of Iodized Salt."
+      },
+      {
+        "text": "When available for a country, GFDx also extracts nationally representative food coverage data from FAO/WHO’sGlobal Individual Food consumption data Tool(GIFT)."
+      },
+      {
+        "text": "At this time, the online desk review is limited to maize flour, rice, and wheat flour. We search several online databases for legislation and standards documents, external and import monitoring protocols, and fortification quality and coverage documents and surveys. For the list of keywords and online databases searched, please downloadhere."
+      },
+      {
+        "text": "Additionally, we may also receive information directly from national and partner contacts outside of our regular survey. This may occur during country visits by the GFDx Secretariat or other development partners, or as personal email communications. If relevant to the GFDx indicators and criteria, information received informally in this manner is also eligible for inclusion in the GFDx."
+      },
+      {
+        "text": "A data dictionary, with a full listing of GFDx indicator definitions and data inclusion criteria, is available for referencehere. An overview of the indicators included on the GFDx and their definitions is presented below."
+      },
+      {
+        "text": "A proxy indicator is an indirect measure of the direct indicator. We use proxy indicators in recognition that the direct measures may not always be available. In all cases, we strive to include information on the direct indicators whenever possible."
+      },
+      {
+        "text": "Legislation Status"
+      },
+      {
+        "text": "Fortification Standards"
+      },
+      {
+        "text": "Food Intake & Availability"
+      },
+      {
+        "text": "Industrially Processed Food"
+      },
+      {
+        "text": "Regulatory Monitoring Protocols"
+      },
+      {
+        "text": "Fortification compliance and quality"
+      },
+      {
+        "text": "Population Coverage"
+      },
+      {
+        "text": "GFDx Analysis: Alignment of national fortification standards with WHO guidelines (nutrient compounds)"
+      },
+      {
+        "text": "GFDx Analysis: Comparison of national fortification standards with WHO guidelines (nutrient levels)"
+      },
+      {
+        "text": "GFDx Analysis: Potential Nutrient Intake"
+      },
+      {
+        "text": "Health Impact:"
+      }
+    ]
+  },
+  "div_hierarchy": [
+    {
+      "text": "EnglishEspañol"
+    },
+    {
+      "text": "MenuMenu"
+    },
+    {
+      "text": "About UsIntroductionAbout FortificationAbout the GFDxWho we areShare your dataContact formCountriesDataCountry dashboardsVisualizationsFull datasetsMethods and SourcesMethodologyData contributorsMedia CenterResourcesFortification ResourcesHow to use the GFDxFAQsSubscribe to our newsletters!MenuMenu"
+    },
+    {
+      "text": "Do you have other questions about GFDx methodology and how we source our information? Please get in touch atinfo@fortificationdata.org."
+    },
+    {
+      "text": "Citing the GFDx website"
+    },
+    {
+      "text": "Classification of countries and territories in the GFDx"
+    },
+    {
+      "text": "GFDx data collection"
+    },
+    {
+      "text": "Definition of GFDx indicators"
+    },
+    {
+      "text": "Citing the GFDx website"
+    },
+    {
+      "text": "How should I cite the GFDx website?We suggest using the following citation for the general website: Global Fortification Data Exchange. Accessed dd/mm/yyyy. [https://www.fortificationdata.org.]To cite a specific map or visualization within the GFDx, we suggest using the following citation: Global Fortification Data Exchange. “Name of visualization.” Accessed dd/mm/yyyy. [https://www.fortificationdata.org.]"
+    },
+    {
+      "text": "Classification of countries and territories in the GFDx"
+    },
+    {
+      "text": "How does GFDx classify countries and territories?As of September 2018, the GFDx includes 196 states in its database, criteria being:full membersof the United Nations (UN) (193),permanent UN observer states(2, Vatican City and State of Palestine), and states recognized by at least 50% of other UN full member states (1, Republic of Kosovo). We do not include territories (non-self-governing states) in the GFDx as they are unlikely to have separate legislation and given complications with disaggregating data from their administrative countries. We take country names and their spellings from the UN member states listings.How are countries classified into geographic regions?We used theUnited Nations classificationin September 2018 for geographical regions (Africa, Americas, Asia, Europe, and Oceania) to classify countries by geographical region.How are countries classified by income status?We use theWorld Bankincome classification (low income, lower middle income, upper middle income, high income) to classify countries by income status. This classification can change and is updated in the GFDx annually."
+    },
+    {
+      "text": "GFDx data collection"
+    },
+    {
+      "text": "How does the GFDx collect the data presented on the website?We use a combination of primary and secondary data to populate our database. All GFDx data points are verified and fully referenced and we maintain copies of all references. With a few exceptions, secondary data sources, e.g. an article mentioning a country legislation or survey result, are not used. We make every attempt to ensure all data included meet our inclusion criteria and have a source, however we recognize that occasionally there may be erroneous data presented in the GFDx. We encourage GFDx users to provide updates or corrections to country data. If you have data to contribute, or corrections to suggest, please gohere.GFDx survey to all countries included in the GFDx:Starting in 2018, the GFDx’s main tool to collect and verify data is a survey on all foods and all indicators, which is collectively sent out by the GFDx data stewards, Food Fortification Initiative, Global Alliance for Improved Nutrition, and Iodine Global Network, to all countries included in the GFDx. It is sent to a variety of contacts in each country including relevant government departments, industry representatives, and advocacy and program support partners. The data are reviewed and vetted by GFDx data stewards, including seeking clarification from country respondents as needed.If you would like to respond to the survey for your country, please contact us at info@fortificationdata.org.Desk review and partner databases:To complement information collected through the GFDx survey, we also conduct online desk reviews and include information derived from partner databases.Availability of maize flour, oil, rice, and wheat flour GFDx is aggregated from theSupply Utilization Accounts: Food Supply – Crops Primary Equivalentdatabase ofFood and Agriculture Organizationthe (FAO) of the United Nations. Salt intake data are converted from sodium intake data in Table 2 ofPowles 2013. To calculate salt intake, sodium intake is multiplied by 2.542, according toLand 2014. Population coverage data for fortified salt are taken from UNICEF’s global database onHousehold Consumption of Iodized Salt.When available for a country, GFDx also extracts nationally representative food coverage data from FAO/WHO’sGlobal Individual Food consumption data Tool(GIFT).At this time, the online desk review is limited to maize flour, rice, and wheat flour. We search several online databases for legislation and standards documents, external and import monitoring protocols, and fortification quality and coverage documents and surveys. For the list of keywords and online databases searched, please downloadhere.Additionally, we may also receive information directly from national and partner contacts outside of our regular survey. This may occur during country visits by the GFDx Secretariat or other development partners, or as personal email communications. If relevant to the GFDx indicators and criteria, information received informally in this manner is also eligible for inclusion in the GFDx."
+    },
+    {
+      "text": "Definition of GFDx indicators"
+    },
+    {
+      "text": "A data dictionary, with a full listing of GFDx indicator definitions and data inclusion criteria, is available for referencehere. An overview of the indicators included on the GFDx and their definitions is presented below.A proxy indicator is an indirect measure of the direct indicator. We use proxy indicators in recognition that the direct measures may not always be available. In all cases, we strive to include information on the direct indicators whenever possible.Legislation StatusMandatory Fortification– The country has legal documentation that has the effect of currently mandating fortification of the food vehicle in question with one or more vitamins or minerals i.e. the documentation indicates that fortification of all or some of the food is compulsory or required.Mandatory Fortification Year– The year in which fortification of the food vehicle wasfirstmandated in the country.Voluntary Fortification– The country has official documentation and/or a food standard that provides guidance or conditions for fortification with the intent of contributing additional nutrient intake to the diet (i.e., specifies at least minimum nutrient levels for addition), but does not have the effect of mandating or requiring fortification. If a country has mandatory fortification for that food vehicle, it will be categorized by GFDx as not having voluntary fortification, even if some types of the food vehicle or some nutrients may be fortified on a voluntary basis.Legislation Scope– The specific types of the food vehicle in question that are expressly required by legislation.Fortification StandardsFortification Standard– The country has legal documentation indicating standardized fortification levels of the food vehicle in question with one or more nutrients.Standard Year– The year in which thecurrentstandard or parent document (e.g. food regulations) was issued, whichever is more recent.Nutrient Levels– The level of each nutrient expressed in milligrams per kilogram (mg/kg) that is listed in thecurrentstandard at the point of production/ import for the food vehicle in question.Nutrient Compounds– The allowable compounds which can be used to fortify each nutrient that are listed in thecurrentstandard at the point of production / import for the food vehicle in question.Food Intake & AvailabilityDaily Food Intake– The average amount of the food vehicle in question that is eaten in grams, per capita, per day.Proxy: Daily Food Availability– The average amount of the food vehicle in question that is available for consumption in grams, per capita, per day. If daily food intake is not available.Total Food Available– The total annual food supply available in metric tons of the food vehicle in question for human consumption.Industrially Processed FoodAmount and Proportion of Industrially Processed Food –Quantity of food that could be fortified through industrial food processing (if there is no mandatory fortification in a country) and/or expected to be fortified under existing legislation (if there is mandatory fortification in place).Proxy: Estimated Amount and Proportion of Industrially Processed Food– The estimated total amount (in metric tons) and estimated percentage of the total food available that is processed by an industrial processor AND is required to be fortified according to relevant legislation (if mandatory legislation exists). If accurate published industry landscape data are not available, but an educated guess can be made based on context, knowledge held by a local technical expert, or other quality assured information.Regulatory Monitoring ProtocolsExternal Monitoring Protocol– The country has an official government document (e.g. manual, rules, operating procedures, regulations, framework, guidelines etc.) that identifies roles, responsibilities, and activities for authorized government department(s) to monitor a domestic food production facility for food safety and food quality, with specific reference to fortification.Import Monitoring Protocol– The country has an official government document (e.g. manual, rules, operating procedures, regulations, framework, guidelines, etc.) that identifies roles, responsibilities, and activities for authorized government department(s) to monitor a food imports for food safety and food quality, with specific reference to fortification.Fortification compliance and qualityCompliance:Adherence to an order, regulation, or law. In the case of food fortification, foods that are fortified and included within any order, regulation, or law on food fortification (mandatory or voluntary) must adhere to the micronutrient specifications detailed in the nationally adopted standards and/or other food quality, safety, packaging, and labeling requirements. To be deemed “compliant,” food producers or importers must “pass” a pre-determined and objectively defined set of requirements during a site audit/inspection by the government entity responsible for food control. E.g. these requirements can include a certain score or range of scores based on an audit checklist, a premix reconciliation calculation, qualitative tests, and quantitative tests, or a combination of these. As such, data accepted into the GFDx will be considered as compliance only if assessed by an authorized government authority, is assessed at production or import level, and can be used for enforcement of fortification and other food quality requirements.Quality:The degree to which a product meets stated requirements. Unlike compliance, which must be measured at the point of production or import by authorized government entities, data on quality may be generated by public, private (non-government) or civil society stakeholders. Additionally, it may be collected from places of production, import or markets and may rely on qualitative or quantitative tests, or educated expert estimates. Quality data cannot be used for enforcement of national standards.Amount and Proportion of Food that is Fortified (Compliance by Product Volumes)– The total amount (in metric tons) and percentage of industrially processed food that is required by legislation to be fortified that is fortified atlevels that meet relevant standards.Proxy: Amount and Proportion of Food that is Fortified (Compliance by Market Share)– The total amount (in metric tons) and percentage of industrially processed food that is required under legislation to be fortified that is fortified atlevels that meet relevant standards.If production/import quantity of compliant producers and importers is not known but estimates of industrial market share are available.Proxy: Amount and Proportion of Food that is Fortified (Quality)– The total amount (in metric tons) and percentage industrially processed food that is required by legislation to be fortified that is confirmed to be fortified at any level or to a specified level. If regulatory monitoring data is not available from points of production or imports by an authorized government, but auditsquantitative, or qualitativetests have been performed on food products 1.) by another interested party at any level or 2.) by any authority at market level.Proxy: Estimated Amount and Proportion of Food that is Fortified (Estimated Quality)– The total amount (in metric tons) and percentage of industrially processed food that is required by legislation to be fortified and is fortifiedat any level(quality). If no regulatory monitoring data or product sample data are available, but an educated guess can be made based on context and local knowledge by a local technical expert, or other data with cited methods.Proxy:Estimated Amount and Proportion of Food that is Fortified (Compliance by Facilities/Samples Monitored)– The percentage of industrially processed food that is required by legislation to be fortified that is fortified at levels that meet relevant standards (compliance). If regulatory monitoring data of neither production/import quantity nor industrial market share is available but producers and/or importers have been monitored by an authorized government authority and proportion of compliant facilities or samples is known.Population CoveragePopulation Coverage of Food Vehicle– The proportion of the population (typically measured via household surveys) that report consuming the food vehicle, foods made with that food vehicle, preparing foods with the food vehicle at home, or have the food vehicle in the household on the day of the survey, regardless of whether the food vehicle is fortified or industrially processed.Proxy: Estimated Population Coverage of Food Vehicle– The proportion of the population that is estimated to consume an industrially processed food vehicle (or foods made with that food vehicle), regardless of whether it is actually fortified or industrially processed, rather than a household survey. If a national survey or other published and quality-assured data are unavailable on reported usage of a food vehicle.Population Coverage of Industrially Processed Food Vehicle– The proportion of the population (typically measured via household survey) that report consuming, preparing foods at home, or have in the household on the day of the survey an industrially processed food vehicle (or foods made with that food vehicle), regardless of whether it is fortified.Proxy: Estimated Population Coverage of Industrially Processed Food Vehicle– The proportion of the population that is estimated to consume an industrially processed food vehicle, regardless of whether it is fortified. If a national survey or other published and quality-assured data are unavailable on reported usage of an industrially processed food vehicle.Population Coverage of Fortified Food Vehicle (Any Level) –The proportion of the population (typically measured via household survey) that report consuming, preparing foods at home, or have in the household on the day of the survey a food vehicle (or foods made with that food vehicle) that is confirmed to be fortifiedat any level (quality).Proxy: Estimated Population Coverage of Fortified Food Vehicle (Any Level)– The proportion of the population that is estimated to consume a fortified and industrially processed food vehicle. If a national survey or other published and quality-assured data are unavailable on reported usage of a fortified and industrially processed food vehicle.Population Coverage of Fortified Food Vehicle (Meeting Standards)– The proportion of the population (typically measured via household survey) that report consuming, preparing foods at home, or have in the household on the day of the survey a food vehicle (or foods made with that food vehicle) that is confirmed to be fortifiedat levels meeting relevant standards.Proxy: Estimated Population Coverage of Fortified Food Vehicle (Meeting Standards)– The proportion of the population that is estimated to consume a fortified and industrially processed food vehicle, rather than a household survey. If a national survey or other published and quality-assured data are unavailable on reported usage of a fortified and industrially processed food vehicle.Population Coverage of Fortified Food Vehicle (Any Level) Across Populations with that Food– Among populations that use the food vehicle, the proportion of the population (typically measured via household survey) that report consuming, preparing foods at home, or have in the household on the day of the survey a food vehicle that is confirmed to be fortifiedat any level (quality).Population Coverage of Fortified Food Vehicle (Meeting Standards) Across Populations with that Food –Among populations that use the food vehicle, the proportion of the population (typically measured via household survey) that report consuming, preparing foods at home, or have in the household on the day of the survey a food vehicle that is confirmed to be fortifiedat levels meeting relevant standards.GFDx Analysis: Alignment of national fortification standards with WHO guidelines (nutrient compounds)Allof the nutrient compounds (in the country’s standard) are recommended by WHO –The standard specifies effective compound(s) to fortify maize flour, salt, or wheat flour.There are both WHO recommended and non-WHO recommended compounds –The standard specifies both WHO-recommended and non WHO-recommended compounds for use in fortification.Noneof the nutrient compounds (in the country’s standard) are recommended by WHO –The standard does not specify any WHO-recommended compounds.Unspecified –The country’s standard does not specify which compounds can be used in fortification.GFDx Analysis: Comparison of national fortification standards with WHO guidelines (nutrient levels)A nutrient level is 100% of the WHO-recommended level –The nutrient level is the same as the WHO-recommended level or within the WHO-recommended range.A nutrient level is >100% of the WHO-recommended level –The nutrient level isgreaterthan the WHO-recommended level.A nutrient level is <100% of the WHO-recommended level –The nutrient level islowerthan the WHO-recommended level.Cannot be determined –WHO guidelines specify effective nutrient addition levels for different amounts of food intake/availability. If there is no food intake/availability information for a country, the GFDx was not able to identify the recommended nutrient addition level for that country. WHO guidelines also take into consideration the nutrient compounds. Thus, if nutrient compounds are not specified in the fortification requirements, the GFDx was not able to identify the recommended nutrient level for that nutrient.GFDx Analysis: Potential Nutrient IntakeBefore Adjustment –Anunadjustedcontribution represents the maximum potential that could be achieved in an ideal fortification setting and takes into account a country’s most recent data on the amount of food available for consumption and nutrient levels specified in fortification standards (where 100% of the food vehicle is industrially processed and 100% is fortified).After adjustment –Anadjustedvalue represents a more realistic picture of potential contribution estimates, additionally taking into account the percent of food industrially processed and the percent of food actually being fortified according to standards.Health Impact:Availability of data on health statusbeforeandaftermandatory fortification –The number of countries that have data or studies comparing health status related to the selected nutrient before and after mandatory fortification."
+    },
+    {
+      "text": "© Copyright - Global Fortification Data Exchange"
+    },
+    {
+      "text": "*indicates required"
+    },
+    {
+      "text": "Email Address:*"
+    },
+    {
+      "text": "First Name:"
+    },
+    {
+      "text": "Last Name:"
+    },
+    {
+      "text": "Organization:"
+    },
+    {
+      "text": "Country:"
+    },
+    {
+      "text": "*indica requerido"
+    },
+    {
+      "text": "Dirección de Correo electrónico:*"
+    },
+    {
+      "text": "Nombre de Pila:"
+    },
+    {
+      "text": "Nombre de Familia:"
+    },
+    {
+      "text": "Organización:"
+    },
+    {
+      "text": "País:"
+    }
+  ],
+  "links": [
+    {
+      "text": "English",
+      "href": "https://fortificationdata.org/methodology/"
+    },
+    {
+      "text": "Español",
+      "href": "https://fortificaciondatos.org/metodologia/"
+    },
+    {
+      "text": "",
+      "href": "https://fortificationdata.org/"
+    },
+    {
+      "text": "MenuMenu",
+      "href": "#"
+    },
+    {
+      "text": "Youtube",
+      "href": "https://www.youtube.com/channel/UCujCdiDCqAyC4-MIfaeMS4w"
+    },
+    {
+      "text": "Twitter",
+      "href": "https://twitter.com/GFDxSecretariat"
+    },
+    {
+      "text": "Mail",
+      "href": "https://fortificationdata.org/#contact"
+    },
+    {
+      "text": "Youtube",
+      "href": "https://www.youtube.com/channel/UCujCdiDCqAyC4-MIfaeMS4w"
+    },
+    {
+      "text": "Twitter",
+      "href": "https://twitter.com/GFDxSecretariat"
+    },
+    {
+      "text": "Mail",
+      "href": "https://fortificationdata.org/#contact"
+    },
+    {
+      "text": "About Us",
+      "href": ""
+    },
+    {
+      "text": "Introduction",
+      "href": "https://fortificationdata.org/#intro"
+    },
+    {
+      "text": "About Fortification",
+      "href": "https://fortificationdata.org/#aboutfoodfortification"
+    },
+    {
+      "text": "About the GFDx",
+      "href": "https://fortificationdata.org/#about"
+    },
+    {
+      "text": "Who we are",
+      "href": "https://fortificationdata.org/#whoweare"
+    },
+    {
+      "text": "Share your data",
+      "href": "https://fortificationdata.org/#sharedata"
+    },
+    {
+      "text": "Contact form",
+      "href": "https://fortificationdata.org/#contact"
+    },
+    {
+      "text": "Countries",
+      "href": "https://fortificationdata.org/list-of-countries-for-the-food-fortification-dashboard/"
+    },
+    {
+      "text": "Data",
+      "href": ""
+    },
+    {
+      "text": "Country dashboards",
+      "href": "https://fortificationdata.org/country-fortification-dashboard/"
+    },
+    {
+      "text": "Visualizations",
+      "href": "https://fortificationdata.org/visualizations"
+    },
+    {
+      "text": "Full datasets",
+      "href": "https://fortificationdata.org/full-gfdx-datasets/"
+    },
+    {
+      "text": "Methods and Sources",
+      "href": ""
+    },
+    {
+      "text": "Methodology",
+      "href": "https://fortificationdata.org/methodology/#top"
+    },
+    {
+      "text": "Data contributors",
+      "href": "https://fortificationdata.org/data-contributors/"
+    },
+    {
+      "text": "Media Center",
+      "href": "https://fortificationdata.org/media-center/"
+    },
+    {
+      "text": "Resources",
+      "href": ""
+    },
+    {
+      "text": "Fortification Resources",
+      "href": "https://fortificationdata.org/resources/"
+    },
+    {
+      "text": "How to use the GFDx",
+      "href": "https://fortificationdata.org/how-to-use-the-gfdx/"
+    },
+    {
+      "text": "FAQs",
+      "href": "https://fortificationdata.org/frequently-asked-questions/"
+    },
+    {
+      "text": "Subscribe to our newsletters!",
+      "href": ""
+    },
+    {
+      "text": "MenuMenu",
+      "href": "#"
+    },
+    {
+      "text": "info@fortificationdata.org",
+      "href": "mailto:info@fortificationdata.org"
+    },
+    {
+      "text": "full members",
+      "href": "http://www.un.org/en/member-states/"
+    },
+    {
+      "text": "permanent UN observer states",
+      "href": "http://www.un.org/en/sections/member-states/non-member-states/index.html"
+    },
+    {
+      "text": "United Nations classification",
+      "href": "https://unstats.un.org/unsd/methodology/m49/"
+    },
+    {
+      "text": "World Bank",
+      "href": "https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups"
+    },
+    {
+      "text": "here",
+      "href": "https://fortificationdata.org/#contact"
+    },
+    {
+      "text": "Supply Utilization Accounts: Food Supply – Crops Primary Equivalent",
+      "href": "https://www.fao.org/faostat/en/#data/SCL"
+    },
+    {
+      "text": "Food and Agriculture Organization",
+      "href": "http://www.fao.org/home/en"
+    },
+    {
+      "text": "Powles 2013",
+      "href": "https://bmjopen.bmj.com/content/3/12/e003733"
+    },
+    {
+      "text": "Land 2014",
+      "href": "https://bmjopen.bmj.com/content/bmjopen/4/1/e003720.full.pdf"
+    },
+    {
+      "text": "Household Consumption of Iodized Salt",
+      "href": "https://data.unicef.org/resources/dataset/iodized-salt-consumption/"
+    },
+    {
+      "text": "Global Individual Food consumption data Tool",
+      "href": "https://www.fao.org/gift-individual-food-consumption/en/"
+    },
+    {
+      "text": "here",
+      "href": "https://dl.dropboxusercontent.com/s/b13apgooyfufj4s/GFDx%20desk%20review%20grains%20methodology.pdf?dl=0"
+    },
+    {
+      "text": "here",
+      "href": "https://fortificationdata.org/full-gfdx-datasets/"
+    },
+    {
+      "text": "Scroll to top",
+      "href": "#top"
+    }
+  ],
+  "map": [],
+  "other infornation": ""
+}

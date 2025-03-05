@@ -1,0 +1,554 @@
+{
+  "url": "https://fortificationdata.org/",
+  "structural_elements": {
+    "headers": [
+      {
+        "level": 1,
+        "text": "INTRODUCTION"
+      },
+      {
+        "level": 1,
+        "text": "MAPS&CHARTS"
+      },
+      {
+        "level": 1,
+        "text": "ABOUT FOODFORTIFICATION"
+      },
+      {
+        "level": 1,
+        "text": "ABOUT THEGFDx"
+      },
+      {
+        "level": 1,
+        "text": "WHO WEARE"
+      },
+      {
+        "level": 1,
+        "text": "SHARE YOURDATA"
+      },
+      {
+        "level": 1,
+        "text": "CONTACTUS"
+      },
+      {
+        "level": 2,
+        "text": "Providing actionable food fortification data"
+      },
+      {
+        "level": 2,
+        "text": "Questions?"
+      },
+      {
+        "level": 3,
+        "text": "THE PROBLEM"
+      },
+      {
+        "level": 3,
+        "text": "AN INTEGRAL PART OF A NUTRITION STRATEGY: FOOD FORTIFICATION"
+      },
+      {
+        "level": 3,
+        "text": "CALL TO ACTION TO SHARE YOUR FOOD FORTIFICATION DATA"
+      },
+      {
+        "level": 3,
+        "text": "Subscribe to the GFDx"
+      },
+      {
+        "level": 3,
+        "text": "Suscribirse al GFDx"
+      },
+      {
+        "level": 3,
+        "text": "Welcome to the GFDx, an analysis and visualization tool for data on food fortification!"
+      },
+      {
+        "level": 3,
+        "text": "Country Dashboards & Interactive Maps, Charts, Tables and Plots"
+      },
+      {
+        "level": 3,
+        "text": "How to view country Dashboards"
+      },
+      {
+        "level": 3,
+        "text": "How to customize maps and charts"
+      },
+      {
+        "level": 3,
+        "text": "How to interpret visualizations, share and download"
+      }
+    ],
+    "paragraphs": [
+      {
+        "text": "Welcome to the GFDx, an analysis and visualization tool for data on food fortification. Food fortification adds essential vitamins and minerals, called micronutrients, to commonly consumed foods to prevent nutritional deficiencies. We call these commonly consumed foods that can be fortifiedfood vehiclesbecause they “deliver” nutrients."
+      },
+      {
+        "text": "Food fortification is one of the most scalable, sustainable and cost-effective interventions to combat micronutrient malnutrition."
+      },
+      {
+        "text": "Vitamin and mineral deficiencies affect people globally – impacting their health and limiting their ability to contribute to the economic well-being of their communities and countries."
+      },
+      {
+        "text": "Designed for, and by the fortification community, the GFDx provides all the data necessary to track global progress on food fortification, and to enable decision makers to use data to improve the quality of national fortification programs."
+      },
+      {
+        "text": "The GFDx aggregates and visualizes data on five commonly fortified foods: maize flour, oil, rice, salt, and wheat flour. The GFDx includes indicators on food fortification legislation from 1940 to present, fortification standards, and food availability and intake, legislation scope, proportion of foods industrially processed, availability of regulatory monitoring protocols, fortification quality, and population coverage for 196 countries. Within the GFDx site, you are able to generate custom maps, charts, tables, and plots or download data for offline analysis. The GFDx will be continuously updated as new data and information become available."
+      },
+      {
+        "text": "Get in touchto share your experience with the GFDx, contribute your data, or learn how to get involved.Sign upto updates as new data and features are added."
+      },
+      {
+        "text": "Suggested Citation: Global Fortification Data Exchange. Accessed dd/mm/yyyy. [http://www.fortificationdata.org.]"
+      },
+      {
+        "text": "Vitamins and minerals are an essential part of the human diet, but people worldwide do not get enough of the essential vitamins and minerals they need for healthy growth and development."
+      },
+      {
+        "text": "Diets low in vitamins and minerals can lead to poor health outcomes, serious birth defects of the brain and spine, and poor cognitive development. These irreversible damages adversely affect communities and the economies of entire nations. Children do not develop fully, adults cannot work productively, and excessive resources are spent to treat a variety of nutrition-related health problems."
+      },
+      {
+        "text": "Food fortification is one of the most cost-effective, proven interventions that is readily available to address vitamin and mineral deficiencies. Food fortification adds essential vitamins and minerals to commonly consumed foods such as maize flour, edible oil, rice, salt, and wheat flour. Food fortification is a complementary intervention to preventing and treating vitamin and mineral deficiencies and should be considered as part of a broader nutrition strategy that includes other nutrition-specific and nutrition-sensitive interventions."
+      },
+      {
+        "text": "Food fortification, as an intervention is unique, in that it spreads the burden of intervention and cost between the public and private sector and the consumer. While it is the private sector that fortifes the food, government can create a more enabling environment for industry, by passing and enforcing legislation making it a mandatory requirement (which creates an even playing field for industry) and by setting standards to ensure adequate and safe levels of nutrients are added. Moreover, when fortification is mandatory, no behavior change or even knowledge on the part of the consumer is required; they will benefit simply by continuing to eat the foods they normally buy. Voluntary fortification is undertaken at the discretion of the private sector, although preferably based on standards set by government. Mandatory fortification is more likely to have a public health benefit because there is no need for the consumer to actively identify and choose to purchase the fortified food."
+      },
+      {
+        "text": "The Global Fortification Data Exchange (GFDx) is an online tool, which provides unparalleled access to critical data on food fortification, all in one place, as well as tools to aid in analysis and visualization."
+      },
+      {
+        "text": "The GFDx was designed to empower governments, donors, implementing agencies, and other members of the global health and development community to reach populations affected by vitamin and mineral deficiencies with data-driven policy and programs. The GFDx aggregates and visualizes data to inform the planning, resourcing, implementation, and evaluation of food fortification programs. This tool was designed to make existing global datasets open, discoverable and understandable and to enable decision makers to answer critical questions like:"
+      },
+      {
+        "text": "Photo Credit: GAIN"
+      },
+      {
+        "text": "Photo Credit: GAIN"
+      },
+      {
+        "text": "All of the data in the GFDx come from countries and national programs. Some had already been compiled globally, but in independently managed, separate databases for each food. Other important food fortification data only exist in national databases. Consolidating available data for all five foods allows national decision-makers to more holistically view their fortification programs, identify gaps, and make comparisons across foods and between countries. Importantly, compiling national and global data and consolidating data sets across standardized indicators reflects the need for a collaborative and crosscutting partnership in fortification in order to improve diets globally."
+      },
+      {
+        "text": "Designed by the fortification community, the GFDx relies on the cooperation of both providers and users of data to help reach our aspiration for an improved data landscape in food fortification."
+      },
+      {
+        "text": "The GFDx is brought to you byFFI,GAIN,IGNand theMicronutrient Forum."
+      },
+      {
+        "text": "Developed as a joint effort by theFood Fortification Initiative (FFI),Global Alliance for Improved Nutrition (GAIN),Iodine Global Network (IGN), andMicronutrient Forum, the GFDx represents a significant step forward in the effort to improve the availability, stewardship and presentation of fortification data. From non-profit organizations to government to private industry, a broad range of actors must come together for fortification programs to be successful. As more countries begin to adopt food fortification programs, these stakeholders raised a call for better data accessibility to inform policy and identify populations in need, formalized in the2015 Arusha Statement on Food Fortification."
+      },
+      {
+        "text": "We would like to acknowledge the Global Fortification Technical Advisory Group (GF-TAG) for their contributions to the launch of the GFDx, including providing technical input and feedback on the development of core indicators."
+      },
+      {
+        "text": "We believe that better data transparency can drive better outcomes by supporting informed programs and effective policy."
+      },
+      {
+        "text": "We encourage governments, nongovernmental agencies, program implementers, donors, academia, and private sector to commit to greater data transparency and coordination to ensure that food fortification programs are optimally implemented for the populations who need them most. If your government, agency, institution, or company would like to contribute data to the GFDx, we want to hear from you! We will take data contributions on any one or more foods, any one or more countries, and in any language. Please contact us by using the form below."
+      },
+      {
+        "text": "Whether you want to share your experience of using the GFDx, contribute data, suggest improvements to the GFDx, or provide any other comments and feedback, please contact us by using the online form below or emailing us oninfo@fortificationdata.org."
+      },
+      {
+        "text": "Your Name*"
+      },
+      {
+        "text": "Your Email*"
+      },
+      {
+        "text": "Message*"
+      },
+      {
+        "text": "Δ"
+      },
+      {
+        "text": "Food fortification adds essential vitamins and minerals, called micronutrients, to commonly consumed foods to prevent nutritional deficiencies. We call these commonly consumed foods that can be fortifiedfood vehiclesbecause they “deliver” nutrients."
+      },
+      {
+        "text": "Food fortification is one of the most scalable, sustainable and cost-effective interventions to combat micronutrient malnutrition."
+      },
+      {
+        "text": "Vitamin and mineral deficiencies affect people globally – impacting their health and limiting their ability to contribute to the economic well-being of their communities and countries."
+      },
+      {
+        "text": "Designed for, and by the fortification community, the GFDx provides all the data necessary to track global progress on food fortification, and to enable decision makers to use data to improve the quality of national fortification programs."
+      },
+      {
+        "text": "The GFDxaggregates and visualizes data on five commonly fortified foods: maize flour, oil, rice, salt, and wheat flour."
+      },
+      {
+        "text": "The GFDx includes indicators on food fortification legislation from 1940 to present, fortification standards, and food availability and intake, legislation scope, proportion of foods industrially processed, availability of regulatory monitoring protocols, fortification quality, and population coverage for 196 countries."
+      },
+      {
+        "text": "Within the GFDx site,you are able to view Country Dashboards, use and share interactive maps, charts, tables, plots, and customize visualizations or download data for offline analysis."
+      },
+      {
+        "text": "UnderDataon the homepage, you will find our “Country Fortification Dashboards”. Once you are on a country dashboard, you cansearch for other countries in the map using the search bar:"
+      },
+      {
+        "text": "You can download as a PDF, or share with others. You can also return to the home page and click on “Countries” for afull list of country dashboard links, organized by global region:"
+      },
+      {
+        "text": "Also underDataon the homepage, you will find our interactive maps, charts and plots."
+      },
+      {
+        "text": "Use the filter options on the right-hand sideof the map, chart or plot of charts to customize based on your data needs.Explore other indicatorsby navigating theEXPLORE sectionon theleft hand side."
+      },
+      {
+        "text": "In the tabs below each visualization, you can view a table of thedata, understandhow to interpretthe visualization. You can alsodownload data as a CSV, download a PNG image, or shareyour customized visualization"
+      },
+      {
+        "text": "You can also download all data by returning to the home screen and under “Data“, clicking “Full Datasets”"
+      },
+      {
+        "text": "If you have any questions or would like more details, please contact the GFDx team atinfo@fortificationdata.org"
+      }
+    ]
+  },
+  "div_hierarchy": [
+    {
+      "text": "EnglishEspañol"
+    },
+    {
+      "text": "MenuMenu"
+    },
+    {
+      "text": "About UsIntroductionAbout FortificationAbout the GFDxWho we areShare your dataContact formCountriesDataCountry dashboardsVisualizationsFull datasetsMethods and SourcesMethodologyData contributorsMedia CenterResourcesFortification ResourcesHow to use the GFDxFAQsSubscribe to our newsletters!MenuMenu"
+    },
+    {
+      "text": "New item!xResources for Fortification & COVID-19Click here for more info"
+    },
+    {
+      "text": "Providing actionable food fortification dataExplore Our DataSee Our Data In Action"
+    },
+    {
+      "text": "Welcome to the GFDx, an analysis and visualization tool for data on food fortification. Food fortification adds essential vitamins and minerals, called micronutrients, to commonly consumed foods to prevent nutritional deficiencies. We call these commonly consumed foods that can be fortifiedfood vehiclesbecause they “deliver” nutrients.Food fortification is one of the most scalable, sustainable and cost-effective interventions to combat micronutrient malnutrition.Vitamin and mineral deficiencies affect people globally – impacting their health and limiting their ability to contribute to the economic well-being of their communities and countries.Designed for, and by the fortification community, the GFDx provides all the data necessary to track global progress on food fortification, and to enable decision makers to use data to improve the quality of national fortification programs."
+    },
+    {
+      "text": "The GFDx aggregates and visualizes data on five commonly fortified foods: maize flour, oil, rice, salt, and wheat flour. The GFDx includes indicators on food fortification legislation from 1940 to present, fortification standards, and food availability and intake, legislation scope, proportion of foods industrially processed, availability of regulatory monitoring protocols, fortification quality, and population coverage for 196 countries. Within the GFDx site, you are able to generate custom maps, charts, tables, and plots or download data for offline analysis. The GFDx will be continuously updated as new data and information become available.Get in touchto share your experience with the GFDx, contribute your data, or learn how to get involved.Sign upto updates as new data and features are added.Suggested Citation: Global Fortification Data Exchange. Accessed dd/mm/yyyy. [http://www.fortificationdata.org.]"
+    },
+    {
+      "text": "Food fortification is one of the most cost-effective, proven interventions that is readily available to address vitamin and mineral deficiencies. Food fortification adds essential vitamins and minerals to commonly consumed foods such as maize flour, edible oil, rice, salt, and wheat flour. Food fortification is a complementary intervention to preventing and treating vitamin and mineral deficiencies and should be considered as part of a broader nutrition strategy that includes other nutrition-specific and nutrition-sensitive interventions.Food fortification, as an intervention is unique, in that it spreads the burden of intervention and cost between the public and private sector and the consumer. While it is the private sector that fortifes the food, government can create a more enabling environment for industry, by passing and enforcing legislation making it a mandatory requirement (which creates an even playing field for industry) and by setting standards to ensure adequate and safe levels of nutrients are added. Moreover, when fortification is mandatory, no behavior change or even knowledge on the part of the consumer is required; they will benefit simply by continuing to eat the foods they normally buy. Voluntary fortification is undertaken at the discretion of the private sector, although preferably based on standards set by government. Mandatory fortification is more likely to have a public health benefit because there is no need for the consumer to actively identify and choose to purchase the fortified food."
+    },
+    {
+      "text": "The Global Fortification Data Exchange (GFDx) is an online tool, which provides unparalleled access to critical data on food fortification, all in one place, as well as tools to aid in analysis and visualization."
+    },
+    {
+      "text": "The GFDx was designed to empower governments, donors, implementing agencies, and other members of the global health and development community to reach populations affected by vitamin and mineral deficiencies with data-driven policy and programs. The GFDx aggregates and visualizes data to inform the planning, resourcing, implementation, and evaluation of food fortification programs. This tool was designed to make existing global datasets open, discoverable and understandable and to enable decision makers to answer critical questions like:"
+    },
+    {
+      "text": "Photo Credit: GAIN"
+    },
+    {
+      "text": "Photo Credit: GAIN"
+    },
+    {
+      "text": "How many and which countries require the mandatory fortification of maize flour, oil, rice, salt, or wheat flour?In countries with legislation standards, what nutrients are required to be included in fortified foods?How much maize flour, oil, rice, salt, or wheat flour is available or consumed in a given country?What proportion of maize flour, oil, rice, salt, or wheat flour is industrially processed and hence able to be fortified?How much of the food consumed in a given country is fortified at levels that meet the country’s standards?What proportion of a country’s population is consuming fortified maize flour, oil, rice, salt, or wheat flour?"
+    },
+    {
+      "text": "All of the data in the GFDx come from countries and national programs. Some had already been compiled globally, but in independently managed, separate databases for each food. Other important food fortification data only exist in national databases. Consolidating available data for all five foods allows national decision-makers to more holistically view their fortification programs, identify gaps, and make comparisons across foods and between countries. Importantly, compiling national and global data and consolidating data sets across standardized indicators reflects the need for a collaborative and crosscutting partnership in fortification in order to improve diets globally."
+    },
+    {
+      "text": "Designed by the fortification community, the GFDx relies on the cooperation of both providers and users of data to help reach our aspiration for an improved data landscape in food fortification.The GFDx is brought to you byFFI,GAIN,IGNand theMicronutrient Forum."
+    },
+    {
+      "text": "Developed as a joint effort by theFood Fortification Initiative (FFI),Global Alliance for Improved Nutrition (GAIN),Iodine Global Network (IGN), andMicronutrient Forum, the GFDx represents a significant step forward in the effort to improve the availability, stewardship and presentation of fortification data. From non-profit organizations to government to private industry, a broad range of actors must come together for fortification programs to be successful. As more countries begin to adopt food fortification programs, these stakeholders raised a call for better data accessibility to inform policy and identify populations in need, formalized in the2015 Arusha Statement on Food Fortification."
+    },
+    {
+      "text": "We would like to acknowledge the Global Fortification Technical Advisory Group (GF-TAG) for their contributions to the launch of the GFDx, including providing technical input and feedback on the development of core indicators."
+    },
+    {
+      "text": "We believe that better data transparency can drive better outcomes by supporting informed programs and effective policy.We encourage governments, nongovernmental agencies, program implementers, donors, academia, and private sector to commit to greater data transparency and coordination to ensure that food fortification programs are optimally implemented for the populations who need them most. If your government, agency, institution, or company would like to contribute data to the GFDx, we want to hear from you! We will take data contributions on any one or more foods, any one or more countries, and in any language. Please contact us by using the form below."
+    },
+    {
+      "text": "Whether you want to share your experience of using the GFDx, contribute data, suggest improvements to the GFDx, or provide any other comments and feedback, please contact us by using the online form below or emailing us oninfo@fortificationdata.org."
+    },
+    {
+      "text": "© Copyright - Global Fortification Data Exchange"
+    },
+    {
+      "text": "*indicates required"
+    },
+    {
+      "text": "Email Address:*"
+    },
+    {
+      "text": "First Name:"
+    },
+    {
+      "text": "Last Name:"
+    },
+    {
+      "text": "Organization:"
+    },
+    {
+      "text": "Country:"
+    },
+    {
+      "text": "*indica requerido"
+    },
+    {
+      "text": "Dirección de Correo electrónico:*"
+    },
+    {
+      "text": "Nombre de Pila:"
+    },
+    {
+      "text": "Nombre de Familia:"
+    },
+    {
+      "text": "Organización:"
+    },
+    {
+      "text": "País:"
+    },
+    {
+      "text": "Welcome to the GFDx, an analysis and visualization tool for data on food fortification!Food fortification adds essential vitamins and minerals, called micronutrients, to commonly consumed foods to prevent nutritional deficiencies. We call these commonly consumed foods that can be fortifiedfood vehiclesbecause they “deliver” nutrients.Food fortification is one of the most scalable, sustainable and cost-effective interventions to combat micronutrient malnutrition.Vitamin and mineral deficiencies affect people globally – impacting their health and limiting their ability to contribute to the economic well-being of their communities and countries.Designed for, and by the fortification community, the GFDx provides all the data necessary to track global progress on food fortification, and to enable decision makers to use data to improve the quality of national fortification programs."
+    },
+    {
+      "text": "Country Dashboards & Interactive Maps, Charts, Tables and PlotsThe GFDxaggregates and visualizes data on five commonly fortified foods: maize flour, oil, rice, salt, and wheat flour.The GFDx includes indicators on food fortification legislation from 1940 to present, fortification standards, and food availability and intake, legislation scope, proportion of foods industrially processed, availability of regulatory monitoring protocols, fortification quality, and population coverage for 196 countries.Within the GFDx site,you are able to view Country Dashboards, use and share interactive maps, charts, tables, plots, and customize visualizations or download data for offline analysis."
+    },
+    {
+      "text": "How to view country DashboardsUnderDataon the homepage, you will find our “Country Fortification Dashboards”. Once you are on a country dashboard, you cansearch for other countries in the map using the search bar:You can download as a PDF, or share with others. You can also return to the home page and click on “Countries” for afull list of country dashboard links, organized by global region:"
+    },
+    {
+      "text": "How to customize maps and chartsAlso underDataon the homepage, you will find our interactive maps, charts and plots.Use the filter options on the right-hand sideof the map, chart or plot of charts to customize based on your data needs.Explore other indicatorsby navigating theEXPLORE sectionon theleft hand side."
+    },
+    {
+      "text": "How to interpret visualizations, share and downloadIn the tabs below each visualization, you can view a table of thedata, understandhow to interpretthe visualization. You can alsodownload data as a CSV, download a PNG image, or shareyour customized visualizationYou can also download all data by returning to the home screen and under “Data“, clicking “Full Datasets”"
+    },
+    {
+      "text": "Questions?If you have any questions or would like more details, please contact the GFDx team atinfo@fortificationdata.org"
+    },
+    {
+      "text": "❮ PREV"
+    },
+    {
+      "text": "NEXT ❯"
+    }
+  ],
+  "links": [
+    {
+      "text": "English",
+      "href": "https://fortificationdata.org/"
+    },
+    {
+      "text": "Español",
+      "href": "https://fortificaciondatos.org/"
+    },
+    {
+      "text": "",
+      "href": "https://fortificationdata.org/"
+    },
+    {
+      "text": "MenuMenu",
+      "href": "#"
+    },
+    {
+      "text": "Youtube",
+      "href": "https://www.youtube.com/channel/UCujCdiDCqAyC4-MIfaeMS4w"
+    },
+    {
+      "text": "Twitter",
+      "href": "https://twitter.com/GFDxSecretariat"
+    },
+    {
+      "text": "Mail",
+      "href": "https://fortificationdata.org/#contact"
+    },
+    {
+      "text": "Youtube",
+      "href": "https://www.youtube.com/channel/UCujCdiDCqAyC4-MIfaeMS4w"
+    },
+    {
+      "text": "Twitter",
+      "href": "https://twitter.com/GFDxSecretariat"
+    },
+    {
+      "text": "Mail",
+      "href": "https://fortificationdata.org/#contact"
+    },
+    {
+      "text": "About Us",
+      "href": ""
+    },
+    {
+      "text": "Introduction",
+      "href": "https://fortificationdata.org/#intro"
+    },
+    {
+      "text": "About Fortification",
+      "href": "https://fortificationdata.org/#aboutfoodfortification"
+    },
+    {
+      "text": "About the GFDx",
+      "href": "https://fortificationdata.org/#about"
+    },
+    {
+      "text": "Who we are",
+      "href": "https://fortificationdata.org/#whoweare"
+    },
+    {
+      "text": "Share your data",
+      "href": "https://fortificationdata.org/#sharedata"
+    },
+    {
+      "text": "Contact form",
+      "href": "https://fortificationdata.org/#contact"
+    },
+    {
+      "text": "Countries",
+      "href": "https://fortificationdata.org/list-of-countries-for-the-food-fortification-dashboard/"
+    },
+    {
+      "text": "Data",
+      "href": ""
+    },
+    {
+      "text": "Country dashboards",
+      "href": "https://fortificationdata.org/country-fortification-dashboard/"
+    },
+    {
+      "text": "Visualizations",
+      "href": "https://fortificationdata.org/visualizations"
+    },
+    {
+      "text": "Full datasets",
+      "href": "https://fortificationdata.org/full-gfdx-datasets/"
+    },
+    {
+      "text": "Methods and Sources",
+      "href": ""
+    },
+    {
+      "text": "Methodology",
+      "href": "https://fortificationdata.org/methodology/"
+    },
+    {
+      "text": "Data contributors",
+      "href": "https://fortificationdata.org/data-contributors/"
+    },
+    {
+      "text": "Media Center",
+      "href": "https://fortificationdata.org/media-center/"
+    },
+    {
+      "text": "Resources",
+      "href": ""
+    },
+    {
+      "text": "Fortification Resources",
+      "href": "https://fortificationdata.org/resources/"
+    },
+    {
+      "text": "How to use the GFDx",
+      "href": "https://fortificationdata.org/how-to-use-the-gfdx/"
+    },
+    {
+      "text": "FAQs",
+      "href": "https://fortificationdata.org/frequently-asked-questions/"
+    },
+    {
+      "text": "Subscribe to our newsletters!",
+      "href": ""
+    },
+    {
+      "text": "MenuMenu",
+      "href": "#"
+    },
+    {
+      "text": "Resources for Fortification & COVID-19Click here for more info",
+      "href": "https://fortificationdata.org/resources/#resources"
+    },
+    {
+      "text": "Explore Our Data",
+      "href": "https://fortificationdata.org/visualizations"
+    },
+    {
+      "text": "See Our Data In Action",
+      "href": "https://fortificationdata.org/media-center/#datainaction"
+    },
+    {
+      "text": "Get in touch",
+      "href": "#contact"
+    },
+    {
+      "text": "Sign up",
+      "href": "#subscribe"
+    },
+    {
+      "text": "FFI",
+      "href": "https://www.ffinetwork.org/"
+    },
+    {
+      "text": "GAIN",
+      "href": "https://www.gainhealth.org/"
+    },
+    {
+      "text": "IGN",
+      "href": "https://www.gainhealth.org/"
+    },
+    {
+      "text": "Micronutrient Forum",
+      "href": "https://micronutrientforum.org/"
+    },
+    {
+      "text": "Food Fortification Initiative (FFI)",
+      "href": "https://www.ffinetwork.org/"
+    },
+    {
+      "text": "Global Alliance for Improved Nutrition (GAIN)",
+      "href": "https://www.gainhealth.org/"
+    },
+    {
+      "text": "Iodine Global Network (IGN)",
+      "href": "https://www.ign.org/"
+    },
+    {
+      "text": "Micronutrient Forum",
+      "href": "https://micronutrientforum.org/"
+    },
+    {
+      "text": "2015 Arusha Statement on Food Fortification",
+      "href": "http://www.gainhealth.org/wp-content/uploads/2015/05/Arusha-Statement.pdf"
+    },
+    {
+      "text": "info@fortificationdata.org",
+      "href": "mailto:info@fortificationdata.org"
+    },
+    {
+      "text": "info@fortificationdata.org",
+      "href": "mailto:info@fortificationdata.org"
+    },
+    {
+      "text": "1",
+      "href": "#1"
+    },
+    {
+      "text": "2",
+      "href": "#2"
+    },
+    {
+      "text": "3",
+      "href": "#3"
+    },
+    {
+      "text": "4",
+      "href": "#4"
+    },
+    {
+      "text": "5",
+      "href": "#5"
+    },
+    {
+      "text": "6",
+      "href": "#6"
+    },
+    {
+      "text": "Scroll to top",
+      "href": "#top"
+    }
+  ],
+  "map": [],
+  "other infornation": "INTRODUCTION\nWelcome to the GFDx, an analysis and visualization tool for data on food fortification. Food fortification adds essential vitamins and minerals, called micronutrients, to commonly consumed foods to prevent nutritional deficiencies. We call these commonly consumed foods that can be fortified\nfood vehicles\nbecause they “deliver” nutrients.\nFood fortification is one of the most scalable, sustainable and cost-effective interventions to combat micronutrient malnutrition.\nVitamin and mineral deficiencies affect people globally – impacting their health and limiting their ability to contribute to the economic well-being of their communities and countries.\nDesigned for, and by the fortification community, the GFDx provides all the data necessary to track global progress on food fortification, and to enable decision makers to use data to improve the quality of national fortification programs."
+}

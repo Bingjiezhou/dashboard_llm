@@ -1,0 +1,474 @@
+{
+  "url": "https://fortificationdata.org/visualizations/",
+  "structural_elements": {
+    "headers": [
+      {
+        "level": 2,
+        "text": "Questions?"
+      },
+      {
+        "level": 3,
+        "text": "Explore"
+      },
+      {
+        "level": 3,
+        "text": "Subscribe to the GFDx"
+      },
+      {
+        "level": 3,
+        "text": "Suscribirse al GFDx"
+      },
+      {
+        "level": 3,
+        "text": "Welcome to the GFDx, an analysis and visualization tool for data on food fortification!"
+      },
+      {
+        "level": 3,
+        "text": "Country Dashboards & Interactive Maps, Charts, Tables and Plots"
+      },
+      {
+        "level": 3,
+        "text": "How to view country Dashboards"
+      },
+      {
+        "level": 3,
+        "text": "How to customize maps and charts"
+      },
+      {
+        "level": 3,
+        "text": "How to interpret visualizations, share and download"
+      }
+    ],
+    "paragraphs": [
+      {
+        "text": "Click over here to beginexploring visualizations"
+      },
+      {
+        "text": "Food fortification adds essential vitamins and minerals, called micronutrients, to commonly consumed foods to prevent nutritional deficiencies. We call these commonly consumed foods that can be fortifiedfood vehiclesbecause they “deliver” nutrients."
+      },
+      {
+        "text": "Food fortification is one of the most scalable, sustainable and cost-effective interventions to combat micronutrient malnutrition."
+      },
+      {
+        "text": "Vitamin and mineral deficiencies affect people globally – impacting their health and limiting their ability to contribute to the economic well-being of their communities and countries."
+      },
+      {
+        "text": "Designed for, and by the fortification community, the GFDx provides all the data necessary to track global progress on food fortification, and to enable decision makers to use data to improve the quality of national fortification programs."
+      },
+      {
+        "text": "The GFDxaggregates and visualizes data on five commonly fortified foods: maize flour, oil, rice, salt, and wheat flour."
+      },
+      {
+        "text": "The GFDx includes indicators on food fortification legislation from 1940 to present, fortification standards, and food availability and intake, legislation scope, proportion of foods industrially processed, availability of regulatory monitoring protocols, fortification quality, and population coverage for 196 countries."
+      },
+      {
+        "text": "Within the GFDx site,you are able to view Country Dashboards, use and share interactive maps, charts, tables, plots, and customize visualizations or download data for offline analysis."
+      },
+      {
+        "text": "UnderDataon the homepage, you will find our “Country Fortification Dashboards”. Once you are on a country dashboard, you cansearch for other countries in the map using the search bar:"
+      },
+      {
+        "text": "You can download as a PDF, or share with others. You can also return to the home page and click on “Countries” for afull list of country dashboard links, organized by global region:"
+      },
+      {
+        "text": "Also underDataon the homepage, you will find our interactive maps, charts and plots."
+      },
+      {
+        "text": "Use the filter options on the right-hand sideof the map, chart or plot of charts to customize based on your data needs.Explore other indicatorsby navigating theEXPLORE sectionon theleft hand side."
+      },
+      {
+        "text": "In the tabs below each visualization, you can view a table of thedata, understandhow to interpretthe visualization. You can alsodownload data as a CSV, download a PNG image, or shareyour customized visualization"
+      },
+      {
+        "text": "You can also download all data by returning to the home screen and under “Data“, clicking “Full Datasets”"
+      },
+      {
+        "text": "If you have any questions or would like more details, please contact the GFDx team atinfo@fortificationdata.org"
+      }
+    ]
+  },
+  "div_hierarchy": [
+    {
+      "text": "EnglishEspañol"
+    },
+    {
+      "text": "MenuMenu"
+    },
+    {
+      "text": "About UsIntroductionAbout FortificationAbout the GFDxWho we areShare your dataContact formCountriesDataCountry dashboardsVisualizationsFull datasetsMethods and SourcesMethodologyData contributorsMedia CenterResourcesFortification ResourcesHow to use the GFDxFAQsSubscribe to our newsletters!MenuMenu"
+    },
+    {
+      "text": "Country DashboardsFortification OverviewReview of Foundational DocumentsFortification OpportunityFood Intake/AvailabilityPer Capita: Food Intake and AvailabilityBy Country: Total Food AvailabilityProportion of Food Industrially ProcessedBy Country: Quantity and Proportion of Industrially Processed Food VehiclesBy Year: Quantity and Proportion of Industrially Processed Food VehiclesProportion of Population Consuming FoodContext for Food Vehicle Coverage in the PopulationFoundational DocumentsLegislation StatusFortification LegislationYear When Food Fortification MandatedFortification Legislation Scope in Countries with Mandatory FortificationFortification StandardsNumber of Food Vehicles with StandardsNutrient Levels in Fortification Standards [mid-range or average]Count of Nutrients in StandardsAlignment of National Fortification Standards with WHO recommendations (nutrient compounds)Comparison of National Fortification Standards with WHO recommendations (nutrient levels)Regulatory Monitoring ProtocolsPresence of Regulatory Monitoring Protocols for External and Import MonitoringProgram PerformanceFortification Compliance/QualityQuantity and Proportion of Food Vehicle that is FortifiedProportion of Population Consuming Fortified FoodPopulation Coverage of Fortified Food Vehicle in Countries with Mandatory or Voluntary FortificationPotential Nutrient Contribution From FortificationPotential Nutrient Intake From FortificationHealth Status Before and After FortificationAvailability of Data on Health Status Before and After Mandatory FortificationHow To Use"
+    },
+    {
+      "text": "Click over here to beginexploring visualizations"
+    },
+    {
+      "text": "© Copyright - Global Fortification Data Exchange"
+    },
+    {
+      "text": "*indicates required"
+    },
+    {
+      "text": "Email Address:*"
+    },
+    {
+      "text": "First Name:"
+    },
+    {
+      "text": "Last Name:"
+    },
+    {
+      "text": "Organization:"
+    },
+    {
+      "text": "Country:"
+    },
+    {
+      "text": "*indica requerido"
+    },
+    {
+      "text": "Dirección de Correo electrónico:*"
+    },
+    {
+      "text": "Nombre de Pila:"
+    },
+    {
+      "text": "Nombre de Familia:"
+    },
+    {
+      "text": "Organización:"
+    },
+    {
+      "text": "País:"
+    },
+    {
+      "text": "Welcome to the GFDx, an analysis and visualization tool for data on food fortification!Food fortification adds essential vitamins and minerals, called micronutrients, to commonly consumed foods to prevent nutritional deficiencies. We call these commonly consumed foods that can be fortifiedfood vehiclesbecause they “deliver” nutrients.Food fortification is one of the most scalable, sustainable and cost-effective interventions to combat micronutrient malnutrition.Vitamin and mineral deficiencies affect people globally – impacting their health and limiting their ability to contribute to the economic well-being of their communities and countries.Designed for, and by the fortification community, the GFDx provides all the data necessary to track global progress on food fortification, and to enable decision makers to use data to improve the quality of national fortification programs."
+    },
+    {
+      "text": "Country Dashboards & Interactive Maps, Charts, Tables and PlotsThe GFDxaggregates and visualizes data on five commonly fortified foods: maize flour, oil, rice, salt, and wheat flour.The GFDx includes indicators on food fortification legislation from 1940 to present, fortification standards, and food availability and intake, legislation scope, proportion of foods industrially processed, availability of regulatory monitoring protocols, fortification quality, and population coverage for 196 countries.Within the GFDx site,you are able to view Country Dashboards, use and share interactive maps, charts, tables, plots, and customize visualizations or download data for offline analysis."
+    },
+    {
+      "text": "How to view country DashboardsUnderDataon the homepage, you will find our “Country Fortification Dashboards”. Once you are on a country dashboard, you cansearch for other countries in the map using the search bar:You can download as a PDF, or share with others. You can also return to the home page and click on “Countries” for afull list of country dashboard links, organized by global region:"
+    },
+    {
+      "text": "How to customize maps and chartsAlso underDataon the homepage, you will find our interactive maps, charts and plots.Use the filter options on the right-hand sideof the map, chart or plot of charts to customize based on your data needs.Explore other indicatorsby navigating theEXPLORE sectionon theleft hand side."
+    },
+    {
+      "text": "How to interpret visualizations, share and downloadIn the tabs below each visualization, you can view a table of thedata, understandhow to interpretthe visualization. You can alsodownload data as a CSV, download a PNG image, or shareyour customized visualizationYou can also download all data by returning to the home screen and under “Data“, clicking “Full Datasets”"
+    },
+    {
+      "text": "Questions?If you have any questions or would like more details, please contact the GFDx team atinfo@fortificationdata.org"
+    },
+    {
+      "text": "❮ PREV"
+    },
+    {
+      "text": "NEXT ❯"
+    }
+  ],
+  "links": [
+    {
+      "text": "English",
+      "href": "https://fortificationdata.org/visualizations/"
+    },
+    {
+      "text": "Español",
+      "href": "https://fortificaciondatos.org/visualizaciones/"
+    },
+    {
+      "text": "",
+      "href": "https://fortificationdata.org/"
+    },
+    {
+      "text": "MenuMenu",
+      "href": "#"
+    },
+    {
+      "text": "Youtube",
+      "href": "https://www.youtube.com/channel/UCujCdiDCqAyC4-MIfaeMS4w"
+    },
+    {
+      "text": "Twitter",
+      "href": "https://twitter.com/GFDxSecretariat"
+    },
+    {
+      "text": "Mail",
+      "href": "https://fortificationdata.org/#contact"
+    },
+    {
+      "text": "Youtube",
+      "href": "https://www.youtube.com/channel/UCujCdiDCqAyC4-MIfaeMS4w"
+    },
+    {
+      "text": "Twitter",
+      "href": "https://twitter.com/GFDxSecretariat"
+    },
+    {
+      "text": "Mail",
+      "href": "https://fortificationdata.org/#contact"
+    },
+    {
+      "text": "About Us",
+      "href": ""
+    },
+    {
+      "text": "Introduction",
+      "href": "https://fortificationdata.org/#intro"
+    },
+    {
+      "text": "About Fortification",
+      "href": "https://fortificationdata.org/#aboutfoodfortification"
+    },
+    {
+      "text": "About the GFDx",
+      "href": "https://fortificationdata.org/#about"
+    },
+    {
+      "text": "Who we are",
+      "href": "https://fortificationdata.org/#whoweare"
+    },
+    {
+      "text": "Share your data",
+      "href": "https://fortificationdata.org/#sharedata"
+    },
+    {
+      "text": "Contact form",
+      "href": "https://fortificationdata.org/#contact"
+    },
+    {
+      "text": "Countries",
+      "href": "https://fortificationdata.org/list-of-countries-for-the-food-fortification-dashboard/"
+    },
+    {
+      "text": "Data",
+      "href": ""
+    },
+    {
+      "text": "Country dashboards",
+      "href": "https://fortificationdata.org/country-fortification-dashboard/"
+    },
+    {
+      "text": "Visualizations",
+      "href": "https://fortificationdata.org/visualizations"
+    },
+    {
+      "text": "Full datasets",
+      "href": "https://fortificationdata.org/full-gfdx-datasets/"
+    },
+    {
+      "text": "Methods and Sources",
+      "href": ""
+    },
+    {
+      "text": "Methodology",
+      "href": "https://fortificationdata.org/methodology/"
+    },
+    {
+      "text": "Data contributors",
+      "href": "https://fortificationdata.org/data-contributors/"
+    },
+    {
+      "text": "Media Center",
+      "href": "https://fortificationdata.org/media-center/"
+    },
+    {
+      "text": "Resources",
+      "href": ""
+    },
+    {
+      "text": "Fortification Resources",
+      "href": "https://fortificationdata.org/resources/"
+    },
+    {
+      "text": "How to use the GFDx",
+      "href": "https://fortificationdata.org/how-to-use-the-gfdx/"
+    },
+    {
+      "text": "FAQs",
+      "href": "https://fortificationdata.org/frequently-asked-questions/"
+    },
+    {
+      "text": "Subscribe to our newsletters!",
+      "href": ""
+    },
+    {
+      "text": "MenuMenu",
+      "href": "#"
+    },
+    {
+      "text": "Country Dashboards",
+      "href": ""
+    },
+    {
+      "text": "Fortification Overview",
+      "href": "https://fortificationdata.org/country-fortification-dashboard/"
+    },
+    {
+      "text": "Review of Foundational Documents",
+      "href": "https://fortificationdata.org/country-fortification-dashboard/?dashboardPage=review"
+    },
+    {
+      "text": "Fortification Opportunity",
+      "href": ""
+    },
+    {
+      "text": "Food Intake/Availability",
+      "href": ""
+    },
+    {
+      "text": "Per Capita: Food Intake and Availability",
+      "href": "https://fortificationdata.org/map-availability/"
+    },
+    {
+      "text": "By Country: Total Food Availability",
+      "href": "https://fortificationdata.org/chart-availability/"
+    },
+    {
+      "text": "Proportion of Food Industrially Processed",
+      "href": ""
+    },
+    {
+      "text": "By Country: Quantity and Proportion of Industrially Processed Food Vehicles",
+      "href": "https://fortificationdata.org/chart-quantity-and-proportion-of-industrially-processed-food-vehicles/"
+    },
+    {
+      "text": "By Year: Quantity and Proportion of Industrially Processed Food Vehicles",
+      "href": "https://fortificationdata.org/chart-amount-and-proportion-industrially-processed-foods-by-year/"
+    },
+    {
+      "text": "Proportion of Population Consuming Food",
+      "href": ""
+    },
+    {
+      "text": "Context for Food Vehicle Coverage in the Population",
+      "href": "https://fortificationdata.org/chart-context-for-fortified-food-vehicle-coverage-in-the-population/"
+    },
+    {
+      "text": "Foundational Documents",
+      "href": ""
+    },
+    {
+      "text": "Legislation Status",
+      "href": ""
+    },
+    {
+      "text": "Fortification Legislation",
+      "href": "https://fortificationdata.org/interactive-map-fortification-legislation/"
+    },
+    {
+      "text": "Year When Food Fortification Mandated",
+      "href": "https://fortificationdata.org/chart-year-when-food-fortification-mandated/"
+    },
+    {
+      "text": "Fortification Legislation Scope in Countries with Mandatory Fortification",
+      "href": "https://fortificationdata.org/plot-fortification-legislation-scope-in-countries-with-mandatory-fortification/"
+    },
+    {
+      "text": "Fortification Standards",
+      "href": ""
+    },
+    {
+      "text": "Number of Food Vehicles with Standards",
+      "href": "https://fortificationdata.org/map-number-of-food-vehicles/"
+    },
+    {
+      "text": "Nutrient Levels in Fortification Standards [mid-range or average]",
+      "href": "https://fortificationdata.org/map-nutrient-levels-in-fortification-standards/"
+    },
+    {
+      "text": "Count of Nutrients in Standards",
+      "href": "https://fortificationdata.org/map-number-of-nutrients/"
+    },
+    {
+      "text": "Alignment of National Fortification Standards with WHO recommendations (nutrient compounds)",
+      "href": "https://fortificationdata.org/alignment-of-national-fortification-standards-with-who-recommendations-nutrient-compounds/"
+    },
+    {
+      "text": "Comparison of National Fortification Standards with WHO recommendations (nutrient levels)",
+      "href": "https://fortificationdata.org/gfdx-analysis-alignment-of-national-fortification-standards-with-who-recommendations-nutrient-levels/"
+    },
+    {
+      "text": "Regulatory Monitoring Protocols",
+      "href": ""
+    },
+    {
+      "text": "Presence of Regulatory Monitoring Protocols for External and Import Monitoring",
+      "href": "https://fortificationdata.org/map-presence-of-regulatory-monitoring-protocols-for-external-and-import-monitoring/"
+    },
+    {
+      "text": "Program Performance",
+      "href": ""
+    },
+    {
+      "text": "Fortification Compliance/Quality",
+      "href": ""
+    },
+    {
+      "text": "Quantity and Proportion of Food Vehicle that is Fortified",
+      "href": "https://fortificationdata.org/map-proportion-of-food-vehicle-that-is-fortified/"
+    },
+    {
+      "text": "Proportion of Population Consuming Fortified Food",
+      "href": ""
+    },
+    {
+      "text": "Population Coverage of Fortified Food Vehicle in Countries with Mandatory or Voluntary Fortification",
+      "href": "https://fortificationdata.org/map-population-coverage-of-fortified-food-vehicle/"
+    },
+    {
+      "text": "Potential Nutrient Contribution From Fortification",
+      "href": ""
+    },
+    {
+      "text": "Potential Nutrient Intake From Fortification",
+      "href": "https://fortificationdata.org/nutrient-intake-for-all-food-by-country/"
+    },
+    {
+      "text": "Health Status Before and After Fortification",
+      "href": ""
+    },
+    {
+      "text": "Availability of Data on Health Status Before and After Mandatory Fortification",
+      "href": "https://fortificationdata.org/availability-of-data-on-health-status-before-and-after-mandatory-fortification/"
+    },
+    {
+      "text": "How To Use",
+      "href": "#"
+    },
+    {
+      "text": "info@fortificationdata.org",
+      "href": "mailto:info@fortificationdata.org"
+    },
+    {
+      "text": "1",
+      "href": "#1"
+    },
+    {
+      "text": "2",
+      "href": "#2"
+    },
+    {
+      "text": "3",
+      "href": "#3"
+    },
+    {
+      "text": "4",
+      "href": "#4"
+    },
+    {
+      "text": "5",
+      "href": "#5"
+    },
+    {
+      "text": "6",
+      "href": "#6"
+    },
+    {
+      "text": "Scroll to top",
+      "href": "#top"
+    }
+  ],
+  "map": [],
+  "other infornation": ""
+}

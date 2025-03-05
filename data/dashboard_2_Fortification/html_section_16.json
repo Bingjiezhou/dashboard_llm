@@ -1,0 +1,477 @@
+{
+  "url": "https://fortificationdata.org/frequently-asked-questions/",
+  "structural_elements": {
+    "headers": [
+      {
+        "level": 1,
+        "text": "FREQUENTLY ASKEDQUESTIONS"
+      },
+      {
+        "level": 3,
+        "text": "Subscribe to the GFDx"
+      },
+      {
+        "level": 3,
+        "text": "Suscribirse al GFDx"
+      }
+    ],
+    "paragraphs": [
+      {
+        "text": "What is food fortification?"
+      },
+      {
+        "text": "Food fortification is one of the most cost-effective and proven interventions used to prevent vitamin and mineral (micronutrient) deficiencies at a population level. Fortification is the process of adding essential micronutrients to commonly consumed foods such as maize flour, oil, rice, salt, and wheat flour. Food fortification can be part of a country’s nutrition strategy and used to complement other interventions, such as micronutrient supplementation, dietary diversity promotion, biofortification, home fortification, promotion of good infant and child feeding practices, and others."
+      },
+      {
+        "text": "If you would like to learn more, please visit ourresources pagefor additional information on best practices, fortification advocacy, and more."
+      },
+      {
+        "text": "Are there plans to include other fortified foods, condiments, and/or beverages on the GFDx?"
+      },
+      {
+        "text": "While we recognize other foods are often fortified, there are currently no plans to include other fortified foods. However, in the future, the GFDx may consider expansion to include other foods, condiments, and beverages such as sugar, bouillon cubes, dairy products, etc."
+      },
+      {
+        "text": "Where can I get a “crash course” introduction to the GFDx and the GFDx website?"
+      },
+      {
+        "text": "On theGFDx Resources page, you can find ourGFDx Demo. This presentation will give you a brief introduction to the GFDx, our history, and demonstrations that will help you navigate our website."
+      },
+      {
+        "text": "Below our Demo, we also have two GFDx webinars:Europe/Africa (English)andLatin America (Spanish)."
+      },
+      {
+        "text": "If you have any questions beyond what is provided in the demo and the webinars, please reach out to us via theContact Us page."
+      },
+      {
+        "text": "Do I need to receive special permission to use a figure, a map, or any of the data on the GFDx?"
+      },
+      {
+        "text": "No special permission is required to use the information presented on the GFDx, however we do ask you to cite the website, maps, or visualizations. The suggested citation for our website is as follows:"
+      },
+      {
+        "text": "Global Fortification Data Exchange. Accessed dd/mm/yyyy. [http://www.fortificationdata.org.]"
+      },
+      {
+        "text": "The suggested citations for visualizations are located below each visualization, but generally is as follows:"
+      },
+      {
+        "text": "Global Fortification Data Exchange. “Name of visualization.” Accessed dd/mm/yyyy. [https://www.fortificationdata.org.]"
+      },
+      {
+        "text": "Where should I go to learn more about the organizations involved with the Global Fortification Data Exchange?"
+      },
+      {
+        "text": "The GFDx is a collaborative effort by the Food Fortification Initiative (FFI), the Global Alliance for Improved Nutrition (GAIN), and the Iodine Global Network (IGN). FFI helps country leaders promote, plan, implement, and monitor fortification of industrially milled maize flour, rice, and wheat flour, while also creating sustainable national programs through public, private, and civic partnerships. GAIN works to improve nutrition outcomes by improving the consumption of nutritious and safe food, aiming to make healthier food choices more affordable, available, and desirable in the countries that it serves. IGN looks to be an authoritative voice for iodine nutrition by supporting global and national iodine programs aimed at providing a cost-effective and sustainable solution for prevention of iodine deficiency disorders."
+      },
+      {
+        "text": "If you are interested in learning more about these organizations, please visit their websites using the following links:"
+      },
+      {
+        "text": "Food Fortification Initiative (FFI)"
+      },
+      {
+        "text": "Global Alliance for Improved Nutrition (GAIN)"
+      },
+      {
+        "text": "Iodine Global Network (IGN)"
+      },
+      {
+        "text": "How can I share data and contribute to the GFDx database?"
+      },
+      {
+        "text": "We believe that better data transparency can drive better outcomes by supporting informed programs and effective policy, and as such we encourage governments, nongovernmental agencies, program implementers, donors, academia, and the private sector to contribute data to the GFDx. We will take your data contributions on any of the foods we currently include, in any country, and in any language. If you would like to share your data or provide any comments and feedback regarding the GFDx, please visit theContact Us pageand fill out the contact form. We look forward to hearing from you!"
+      },
+      {
+        "text": "How can I stay updated on GFDx activities, for example when new data becomes available?"
+      },
+      {
+        "text": "If you would like to stay up-to-date on GFDx activities and receive notifications when new data are available, please subscribe to the GFDxhere. The GFDx maintains a mailing list, which is used to periodically send updates regarding webinars, new visualizations, and/or new data. It’s a great way for you to stay up to date on the GFDx!"
+      },
+      {
+        "text": "If I have a question about the data I have found, how can I contact the GFDx?"
+      },
+      {
+        "text": "You can reach us through ourContact Us page, or you can email us directly atinfo@fortificationdata.org."
+      },
+      {
+        "text": "Is the GFDx website and/or GFDx data available in a language other than English?"
+      },
+      {
+        "text": "The GFDx website is available in both English and Spanish. The link to the Spanish version of the GFDx website ishere, or you can hover over the navigation tab at the top of the GFDx homepage that reads “English” and select “Spanish” from the drop-down menu that appears. Currently, these are the only two languages that the GFDx website is available in."
+      },
+      {
+        "text": "Where can I find information on fortification for a specific country?"
+      },
+      {
+        "text": "All 196 countries in the GFDx have their own Country Dashboard page, which can be searchedhere. Simply type the country name of interest in the search bar (the default is filled in as Afghanistan) or choose the country from the drop-down menu that appears when clicking in the search bar."
+      },
+      {
+        "text": "The Country Dashboard reflects a summary of country-specific food fortification data on five foods (maize flour, oil, rice, salt, and wheat flour) such as the legislation status of each food. Additional information on the Country Dashboard can be accessed by clicking on any of the section headings, numbers, and nutrients within the Dashboard page."
+      },
+      {
+        "text": "The Country Dashboard can also be downloaded by scrolling to the bottom of the country profile and clicking the “Download the PDF” button that appears when you hover over the “Download” box."
+      },
+      {
+        "text": "How do I filter and/or aggregate data on the website?"
+      },
+      {
+        "text": "All visualizations on the website have filters available on the right panel, including income status, region, indicator, food vehicle, and year(s). You can also filter the visualizations to show individual countries by clicking them on the map or searching for a country in the search bar. The results of applying these filters can be downloaded at the bottom of the visualization using the Download button."
+      },
+      {
+        "text": "Is there a world map where I can review all the fortification information about multiple countries/foods/indicators at once?"
+      },
+      {
+        "text": "The GFDx website does not currently have a querying visualization feature in which multiple countries, foods, and indicators can be selected at once for comparison from a single map. The GFDx is currently working on an interactive world map that will allow users to review fortification information about multiple countries, foods, and indicators simultaneously."
+      },
+      {
+        "text": "Which functional outcomes were chosen for the health indicators?"
+      },
+      {
+        "text": "You can find the document providing the GFDx’s justification for choosing functional outcomeshere."
+      },
+      {
+        "text": "For the health indicators, how did you decide which biomarkers and outcomes to include/exclude?"
+      },
+      {
+        "text": "You can find the document providing the GFDx’s justification for excluding specific functional outcomeshere."
+      },
+      {
+        "text": "How do I download the GFDx data?"
+      },
+      {
+        "text": "ForCountry Dashboard pages, scroll down to the bottom of theCountry Dashboard page, hover over the “Download” box, and click on the “Download the PDF” button that appears above it."
+      },
+      {
+        "text": "Forall visualizationson the GFDx website, scroll down past the visualization and table that may appear below the visualization. Hover over the “Download” box and click on the “Download the CSV” button that appears. The CSV file can be opened in a spreadsheet program such as Excel.  You can customize your download by adding the filters you want onto the visualizations using the checkbox menus to the right of the visualization, meaning that you may separate and specify what data you want to download before you download the file."
+      },
+      {
+        "text": "Forfull GFDx datasets, you can download any of the CSV files that appear on theFull GFDx Datasets page. The full datasets are available in row- and column-based format."
+      },
+      {
+        "text": "Can I obtain a copy of any of the documents cited in the GFDx?"
+      },
+      {
+        "text": "The GFDx maintains copies of all cited documents. To request any of these cited documents, please reach out to us via theContact Us page. All documents can be shared unless explicitly requested otherwise by the country or source that provided the information."
+      }
+    ]
+  },
+  "div_hierarchy": [
+    {
+      "text": "EnglishEspañol"
+    },
+    {
+      "text": "MenuMenu"
+    },
+    {
+      "text": "About UsIntroductionAbout FortificationAbout the GFDxWho we areShare your dataContact formCountriesDataCountry dashboardsVisualizationsFull datasetsMethods and SourcesMethodologyData contributorsMedia CenterResourcesFortification ResourcesHow to use the GFDxFAQsSubscribe to our newsletters!MenuMenu"
+    },
+    {
+      "text": "Food fortification is one of the most cost-effective and proven interventions used to prevent vitamin and mineral (micronutrient) deficiencies at a population level. Fortification is the process of adding essential micronutrients to commonly consumed foods such as maize flour, oil, rice, salt, and wheat flour. Food fortification can be part of a country’s nutrition strategy and used to complement other interventions, such as micronutrient supplementation, dietary diversity promotion, biofortification, home fortification, promotion of good infant and child feeding practices, and others.If you would like to learn more, please visit ourresources pagefor additional information on best practices, fortification advocacy, and more."
+    },
+    {
+      "text": "While we recognize other foods are often fortified, there are currently no plans to include other fortified foods. However, in the future, the GFDx may consider expansion to include other foods, condiments, and beverages such as sugar, bouillon cubes, dairy products, etc."
+    },
+    {
+      "text": "On theGFDx Resources page, you can find ourGFDx Demo. This presentation will give you a brief introduction to the GFDx, our history, and demonstrations that will help you navigate our website.Below our Demo, we also have two GFDx webinars:Europe/Africa (English)andLatin America (Spanish).If you have any questions beyond what is provided in the demo and the webinars, please reach out to us via theContact Us page."
+    },
+    {
+      "text": "No special permission is required to use the information presented on the GFDx, however we do ask you to cite the website, maps, or visualizations. The suggested citation for our website is as follows:Global Fortification Data Exchange. Accessed dd/mm/yyyy. [http://www.fortificationdata.org.]The suggested citations for visualizations are located below each visualization, but generally is as follows:Global Fortification Data Exchange. “Name of visualization.” Accessed dd/mm/yyyy. [https://www.fortificationdata.org.]"
+    },
+    {
+      "text": "The GFDx is a collaborative effort by the Food Fortification Initiative (FFI), the Global Alliance for Improved Nutrition (GAIN), and the Iodine Global Network (IGN). FFI helps country leaders promote, plan, implement, and monitor fortification of industrially milled maize flour, rice, and wheat flour, while also creating sustainable national programs through public, private, and civic partnerships. GAIN works to improve nutrition outcomes by improving the consumption of nutritious and safe food, aiming to make healthier food choices more affordable, available, and desirable in the countries that it serves. IGN looks to be an authoritative voice for iodine nutrition by supporting global and national iodine programs aimed at providing a cost-effective and sustainable solution for prevention of iodine deficiency disorders.If you are interested in learning more about these organizations, please visit their websites using the following links:Food Fortification Initiative (FFI)Global Alliance for Improved Nutrition (GAIN)Iodine Global Network (IGN)"
+    },
+    {
+      "text": "We believe that better data transparency can drive better outcomes by supporting informed programs and effective policy, and as such we encourage governments, nongovernmental agencies, program implementers, donors, academia, and the private sector to contribute data to the GFDx. We will take your data contributions on any of the foods we currently include, in any country, and in any language. If you would like to share your data or provide any comments and feedback regarding the GFDx, please visit theContact Us pageand fill out the contact form. We look forward to hearing from you!"
+    },
+    {
+      "text": "If you would like to stay up-to-date on GFDx activities and receive notifications when new data are available, please subscribe to the GFDxhere. The GFDx maintains a mailing list, which is used to periodically send updates regarding webinars, new visualizations, and/or new data. It’s a great way for you to stay up to date on the GFDx!"
+    },
+    {
+      "text": "You can reach us through ourContact Us page, or you can email us directly atinfo@fortificationdata.org."
+    },
+    {
+      "text": "The GFDx website is available in both English and Spanish. The link to the Spanish version of the GFDx website ishere, or you can hover over the navigation tab at the top of the GFDx homepage that reads “English” and select “Spanish” from the drop-down menu that appears. Currently, these are the only two languages that the GFDx website is available in."
+    },
+    {
+      "text": "All 196 countries in the GFDx have their own Country Dashboard page, which can be searchedhere. Simply type the country name of interest in the search bar (the default is filled in as Afghanistan) or choose the country from the drop-down menu that appears when clicking in the search bar.The Country Dashboard reflects a summary of country-specific food fortification data on five foods (maize flour, oil, rice, salt, and wheat flour) such as the legislation status of each food. Additional information on the Country Dashboard can be accessed by clicking on any of the section headings, numbers, and nutrients within the Dashboard page.The Country Dashboard can also be downloaded by scrolling to the bottom of the country profile and clicking the “Download the PDF” button that appears when you hover over the “Download” box."
+    },
+    {
+      "text": "All visualizations on the website have filters available on the right panel, including income status, region, indicator, food vehicle, and year(s). You can also filter the visualizations to show individual countries by clicking them on the map or searching for a country in the search bar. The results of applying these filters can be downloaded at the bottom of the visualization using the Download button."
+    },
+    {
+      "text": "The GFDx website does not currently have a querying visualization feature in which multiple countries, foods, and indicators can be selected at once for comparison from a single map. The GFDx is currently working on an interactive world map that will allow users to review fortification information about multiple countries, foods, and indicators simultaneously."
+    },
+    {
+      "text": "You can find the document providing the GFDx’s justification for choosing functional outcomeshere."
+    },
+    {
+      "text": "You can find the document providing the GFDx’s justification for excluding specific functional outcomeshere."
+    },
+    {
+      "text": "ForCountry Dashboard pages, scroll down to the bottom of theCountry Dashboard page, hover over the “Download” box, and click on the “Download the PDF” button that appears above it.Forall visualizationson the GFDx website, scroll down past the visualization and table that may appear below the visualization. Hover over the “Download” box and click on the “Download the CSV” button that appears. The CSV file can be opened in a spreadsheet program such as Excel.  You can customize your download by adding the filters you want onto the visualizations using the checkbox menus to the right of the visualization, meaning that you may separate and specify what data you want to download before you download the file.Forfull GFDx datasets, you can download any of the CSV files that appear on theFull GFDx Datasets page. The full datasets are available in row- and column-based format."
+    },
+    {
+      "text": "The GFDx maintains copies of all cited documents. To request any of these cited documents, please reach out to us via theContact Us page. All documents can be shared unless explicitly requested otherwise by the country or source that provided the information."
+    },
+    {
+      "text": "© Copyright - Global Fortification Data Exchange"
+    },
+    {
+      "text": "*indicates required"
+    },
+    {
+      "text": "Email Address:*"
+    },
+    {
+      "text": "First Name:"
+    },
+    {
+      "text": "Last Name:"
+    },
+    {
+      "text": "Organization:"
+    },
+    {
+      "text": "Country:"
+    },
+    {
+      "text": "*indica requerido"
+    },
+    {
+      "text": "Dirección de Correo electrónico:*"
+    },
+    {
+      "text": "Nombre de Pila:"
+    },
+    {
+      "text": "Nombre de Familia:"
+    },
+    {
+      "text": "Organización:"
+    },
+    {
+      "text": "País:"
+    }
+  ],
+  "links": [
+    {
+      "text": "English",
+      "href": "https://fortificationdata.org/frequently-asked-questions/"
+    },
+    {
+      "text": "Español",
+      "href": "https://fortificaciondatos.org/preguntas-frecuentes/"
+    },
+    {
+      "text": "",
+      "href": "https://fortificationdata.org/"
+    },
+    {
+      "text": "MenuMenu",
+      "href": "#"
+    },
+    {
+      "text": "Youtube",
+      "href": "https://www.youtube.com/channel/UCujCdiDCqAyC4-MIfaeMS4w"
+    },
+    {
+      "text": "Twitter",
+      "href": "https://twitter.com/GFDxSecretariat"
+    },
+    {
+      "text": "Mail",
+      "href": "https://fortificationdata.org/#contact"
+    },
+    {
+      "text": "Youtube",
+      "href": "https://www.youtube.com/channel/UCujCdiDCqAyC4-MIfaeMS4w"
+    },
+    {
+      "text": "Twitter",
+      "href": "https://twitter.com/GFDxSecretariat"
+    },
+    {
+      "text": "Mail",
+      "href": "https://fortificationdata.org/#contact"
+    },
+    {
+      "text": "About Us",
+      "href": ""
+    },
+    {
+      "text": "Introduction",
+      "href": "https://fortificationdata.org/#intro"
+    },
+    {
+      "text": "About Fortification",
+      "href": "https://fortificationdata.org/#aboutfoodfortification"
+    },
+    {
+      "text": "About the GFDx",
+      "href": "https://fortificationdata.org/#about"
+    },
+    {
+      "text": "Who we are",
+      "href": "https://fortificationdata.org/#whoweare"
+    },
+    {
+      "text": "Share your data",
+      "href": "https://fortificationdata.org/#sharedata"
+    },
+    {
+      "text": "Contact form",
+      "href": "https://fortificationdata.org/#contact"
+    },
+    {
+      "text": "Countries",
+      "href": "https://fortificationdata.org/list-of-countries-for-the-food-fortification-dashboard/"
+    },
+    {
+      "text": "Data",
+      "href": ""
+    },
+    {
+      "text": "Country dashboards",
+      "href": "https://fortificationdata.org/country-fortification-dashboard/"
+    },
+    {
+      "text": "Visualizations",
+      "href": "https://fortificationdata.org/visualizations"
+    },
+    {
+      "text": "Full datasets",
+      "href": "https://fortificationdata.org/full-gfdx-datasets/"
+    },
+    {
+      "text": "Methods and Sources",
+      "href": ""
+    },
+    {
+      "text": "Methodology",
+      "href": "https://fortificationdata.org/methodology/"
+    },
+    {
+      "text": "Data contributors",
+      "href": "https://fortificationdata.org/data-contributors/"
+    },
+    {
+      "text": "Media Center",
+      "href": "https://fortificationdata.org/media-center/"
+    },
+    {
+      "text": "Resources",
+      "href": ""
+    },
+    {
+      "text": "Fortification Resources",
+      "href": "https://fortificationdata.org/resources/"
+    },
+    {
+      "text": "How to use the GFDx",
+      "href": "https://fortificationdata.org/how-to-use-the-gfdx/"
+    },
+    {
+      "text": "FAQs",
+      "href": "https://fortificationdata.org/frequently-asked-questions/#top"
+    },
+    {
+      "text": "Subscribe to our newsletters!",
+      "href": ""
+    },
+    {
+      "text": "MenuMenu",
+      "href": "#"
+    },
+    {
+      "text": "resources page",
+      "href": "https://fortificationdata.org/resources/"
+    },
+    {
+      "text": "GFDx Resources page",
+      "href": "https://fortificationdata.org/resources/"
+    },
+    {
+      "text": "GFDx Demo",
+      "href": "https://www.dropbox.com/s/64o0j8ar1kshnl6/GFDx%20demo_020818.full.pptx?dl=1"
+    },
+    {
+      "text": "Europe/Africa (English)",
+      "href": "https://drive.google.com/file/d/1a88ECS5WrTjFhwDdnRQd6UBvcYtsPecy/view"
+    },
+    {
+      "text": "Latin America (Spanish).",
+      "href": "https://drive.google.com/file/d/1stiw126SFnuEOQRtisP0gg6XF2f04CjH/view"
+    },
+    {
+      "text": "Contact Us page.",
+      "href": "https://fortificationdata.org/#contact"
+    },
+    {
+      "text": "http://www.fortificationdata.org",
+      "href": "http://www.fortificationdata.org"
+    },
+    {
+      "text": "Food Fortification Initiative (FFI)",
+      "href": "http://www.ffinetwork.org/"
+    },
+    {
+      "text": "Global Alliance for Improved Nutrition (GAIN)",
+      "href": "https://www.gainhealth.org/"
+    },
+    {
+      "text": "Iodine Global Network (IGN)",
+      "href": "http://www.ign.org/"
+    },
+    {
+      "text": "Contact Us page",
+      "href": "https://fortificationdata.org/#contact"
+    },
+    {
+      "text": "here",
+      "href": "#subscribe"
+    },
+    {
+      "text": "Contact Us page",
+      "href": "https://fortificationdata.org/#contact"
+    },
+    {
+      "text": "info@fortificationdata.org",
+      "href": "mailto:info@fortificationdata.org"
+    },
+    {
+      "text": "here",
+      "href": "https://fortificaciondatos.org/"
+    },
+    {
+      "text": "here",
+      "href": "https://fortificationdata.org/country-fortification-dashboard/"
+    },
+    {
+      "text": "here",
+      "href": "https://fortificationdata.org/#datasets"
+    },
+    {
+      "text": "here",
+      "href": "https://fortificationdata.org/wp-content/uploads/2019/09/Justification-for-health-impact-indicators.docx"
+    },
+    {
+      "text": "Country Dashboard page",
+      "href": "https://fortificationdata.org/country-fortification-dashboard/"
+    },
+    {
+      "text": "Full GFDx Datasets page",
+      "href": "https://fortificationdata.org/full-gfdx-datasets/"
+    },
+    {
+      "text": "Contact Us page",
+      "href": "https://fortificationdata.org/#contact"
+    },
+    {
+      "text": "Scroll to top",
+      "href": "#top"
+    }
+  ],
+  "map": [],
+  "other infornation": ""
+}
