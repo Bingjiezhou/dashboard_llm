@@ -1,0 +1,343 @@
+{
+  "url": "https://www.foodsystemsdashboard.org/indicators/percent-of-the-population-who-cannot-afford-a-healthy-diet-at-52-percent-of-income-co-hd-headcount/map",
+  "structural_elements": {
+    "headers": [
+      {
+        "level": 1,
+        "text": "Percent of the population who cannot afford a healthy diet(%)"
+      },
+      {
+        "level": 2,
+        "text": "Food Systems Dashboard"
+      }
+    ],
+    "paragraphs": []
+  },
+  "div_hierarchy": [
+    {
+      "text": "Food Systems Dashboard"
+    },
+    {
+      "text": "Percent of the population who cannot afford a healthy diet"
+    },
+    {
+      "text": "Compare to Another Indicator"
+    },
+    {
+      "text": "Reset Zoom"
+    },
+    {
+      "text": "in %"
+    },
+    {
+      "text": "0%"
+    },
+    {
+      "text": "94%"
+    },
+    {
+      "text": "Data fromFAOSTAT"
+    },
+    {
+      "text": "Loading…"
+    },
+    {
+      "text": "Filter Indicators"
+    },
+    {
+      "text": "Drivers"
+    },
+    {
+      "text": "22"
+    },
+    {
+      "text": "Food Supply Chains"
+    },
+    {
+      "text": "62"
+    },
+    {
+      "text": "Food Environments"
+    },
+    {
+      "text": "61"
+    },
+    {
+      "text": "Food availability"
+    },
+    {
+      "text": "16"
+    },
+    {
+      "text": "Food affordability"
+    },
+    {
+      "text": "21"
+    },
+    {
+      "text": "Cost of an energy sufficient diet"
+    },
+    {
+      "text": "Affordability of an energy sufficient diet: ratio of cost to food expenditures"
+    },
+    {
+      "text": "Cost of a nutrient adequate diet"
+    },
+    {
+      "text": "Affordability of a nutrient adequate diet: ratio of cost to food expenditures"
+    },
+    {
+      "text": "FSCI"
+    },
+    {
+      "text": "Cost of a healthy diet relative to the cost of sufficient energy from starchy staples"
+    },
+    {
+      "text": "Affordability of a healthy diet: ratio of cost to food expenditures"
+    },
+    {
+      "text": "Number of people unable to afford a healthy diet"
+    },
+    {
+      "text": "FSCI"
+    },
+    {
+      "text": "Cost of starchy staples"
+    },
+    {
+      "text": "Cost of fruits"
+    },
+    {
+      "text": "Cost of vegetables"
+    },
+    {
+      "text": "Cost of legumes, nuts, and seeds"
+    },
+    {
+      "text": "Cost of animal-source foods"
+    },
+    {
+      "text": "Cost of oils and fats"
+    },
+    {
+      "text": "Cost of fruits relative to the starchy staples in a least-cost healthy diet"
+    },
+    {
+      "text": "Cost of vegetables relative to the starchy staples in a least-cost healthy diet"
+    },
+    {
+      "text": "Cost of legumes, nuts, and seeds relative to the starchy staples in a least-cost healthy diet"
+    },
+    {
+      "text": "Cost of animal-source foods relative to the starchy staples in a least-cost healthy diet"
+    },
+    {
+      "text": "Cost of oils and fats relative to the starchy staples in a least-cost healthy diet"
+    },
+    {
+      "text": "Cost of fruits and vegetables relative to starchy staples in a least cost healthy diet"
+    },
+    {
+      "text": "Product properties"
+    },
+    {
+      "text": "8"
+    },
+    {
+      "text": "Vendor properties"
+    },
+    {
+      "text": "8"
+    },
+    {
+      "text": "Food messaging"
+    },
+    {
+      "text": "4"
+    },
+    {
+      "text": "Food safety"
+    },
+    {
+      "text": "4"
+    },
+    {
+      "text": "Individual Factors"
+    },
+    {
+      "text": "17"
+    },
+    {
+      "text": "Cross-Cutting Issues"
+    },
+    {
+      "text": "21"
+    },
+    {
+      "text": "Outcomes"
+    },
+    {
+      "text": "101"
+    },
+    {
+      "text": "FSCI"
+    },
+    {
+      "text": "MetadataDownload Data"
+    },
+    {
+      "text": "No Filters"
+    },
+    {
+      "text": "Timeline -2022"
+    },
+    {
+      "text": "Fall Back to Most Recent Data"
+    },
+    {
+      "text": "2017"
+    },
+    {
+      "text": "2018"
+    },
+    {
+      "text": "2019"
+    },
+    {
+      "text": "2020"
+    },
+    {
+      "text": "2021"
+    },
+    {
+      "text": "2022"
+    },
+    {
+      "text": "©2025GAIN, The Columbia Climate School, and Cornell University College of Agriculture and Life Sciences. All Rights Reserved. Geographic borders are based on UN conventions and don't represent an endorsement."
+    }
+  ],
+  "links": [
+    {
+      "text": "Food Systems Dashboard",
+      "href": "/"
+    },
+    {
+      "text": "Information",
+      "href": "/information"
+    },
+    {
+      "text": "Compare to Another Indicator",
+      "href": "/compare?independent=percent-of-the-population-who-cannot-afford-a-healthy-diet-at-52-percent-of-income-co-hd-headcount"
+    },
+    {
+      "text": "Map View",
+      "href": "/indicators/food-environments/food-affordability/percent-of-the-population-who-cannot-afford-a-healthy-diet-at-52-percent-of-income-co-hd-headcount/map"
+    },
+    {
+      "text": "Graph View",
+      "href": "/indicators/food-environments/food-affordability/percent-of-the-population-who-cannot-afford-a-healthy-diet-at-52-percent-of-income-co-hd-headcount/graph"
+    },
+    {
+      "text": "Table View",
+      "href": "/indicators/food-environments/food-affordability/percent-of-the-population-who-cannot-afford-a-healthy-diet-at-52-percent-of-income-co-hd-headcount/table"
+    },
+    {
+      "text": "FAOSTAT",
+      "href": "https://www.fao.org/faostat/en/#data/CAHD"
+    },
+    {
+      "text": "Cost of an energy sufficient diet",
+      "href": "/indicators/food-environments/food-affordability/cost-of-an-energy-sufficient-diet-co-ca/map"
+    },
+    {
+      "text": "Affordability of an energy sufficient diet: ratio of cost to food expenditures",
+      "href": "/indicators/food-environments/food-affordability/affordability-of-an-energy-sufficient-diet-ratio-of-cost-to-food-expenditures-co-ca-fexp/map"
+    },
+    {
+      "text": "Cost of a nutrient adequate diet",
+      "href": "/indicators/food-environments/food-affordability/cost-of-nutrient-adequacy-relative-to-the-cost-of-an-average-food-basket-ppp/map"
+    },
+    {
+      "text": "Affordability of a nutrient adequate diet: ratio of cost to food expenditures",
+      "href": "/indicators/food-environments/food-affordability/cost-of-nutrient-adequacy-co-na-as-a-percent-of-household-food-expenditure/map"
+    },
+    {
+      "text": "Cost of a healthy diet per capitaFSCI",
+      "href": "/indicators/food-environments/food-affordability/cost-of-a-healthy-diet/map"
+    },
+    {
+      "text": "Cost of a healthy diet relative to the cost of sufficient energy from starchy staples",
+      "href": "/indicators/food-environments/food-affordability/cost-of-a-healthy-diet-relative-to-the-cost-of-sufficient-energy-from-starchy-staples-co-hd-co-ca/map"
+    },
+    {
+      "text": "Affordability of a healthy diet: ratio of cost to food expenditures",
+      "href": "/indicators/food-environments/food-affordability/affordability-of-a-healthy-diet-ratio-of-cost-to-food-expenditures-co-hd-fexp/map"
+    },
+    {
+      "text": "Number of people unable to afford a healthy diet",
+      "href": "/indicators/food-environments/food-affordability/millions-of-people-who-cannot-afford-a-healthy-diet-at-52-percent-of-income-co-hd-unafford-n/map"
+    },
+    {
+      "text": "Percent of the population who cannot afford a healthy dietFSCI",
+      "href": "/indicators/food-environments/food-affordability/percent-of-the-population-who-cannot-afford-a-healthy-diet-at-52-percent-of-income-co-hd-headcount/map"
+    },
+    {
+      "text": "Cost of starchy staples",
+      "href": "/indicators/food-environments/food-affordability/cost-of-starchy-staples-co-hd-ss/map"
+    },
+    {
+      "text": "Cost of fruits",
+      "href": "/indicators/food-environments/food-affordability/cost-of-fruits-co-hd-f/map"
+    },
+    {
+      "text": "Cost of vegetables",
+      "href": "/indicators/food-environments/food-affordability/cost-of-vegetables-co-hd-v/map"
+    },
+    {
+      "text": "Cost of legumes, nuts, and seeds",
+      "href": "/indicators/food-environments/food-affordability/cost-of-legumes-nuts-and-seeds-co-hd-lns/map"
+    },
+    {
+      "text": "Cost of animal-source foods",
+      "href": "/indicators/food-environments/food-affordability/cost-of-animal-source-foods-co-hd-asf/map"
+    },
+    {
+      "text": "Cost of oils and fats",
+      "href": "/indicators/food-environments/food-affordability/cost-of-oils-and-fats-co-hd-of/map"
+    },
+    {
+      "text": "Cost of fruits relative to the starchy staples in a least-cost healthy diet",
+      "href": "/indicators/food-environments/food-affordability/cost-of-fruits-relative-to-the-starchy-staples-in-a-least-cost-healthy-diet-co-hd-f-ss/map"
+    },
+    {
+      "text": "Cost of vegetables relative to the starchy staples in a least-cost healthy diet",
+      "href": "/indicators/food-environments/food-affordability/cost-of-vegetables-relative-to-the-starchy-staples-in-a-least-cost-healthy-diet-co-hd-v-ss/map"
+    },
+    {
+      "text": "Cost of legumes, nuts, and seeds relative to the starchy staples in a least-cost healthy diet",
+      "href": "/indicators/food-environments/food-affordability/cost-of-legumes-nuts-and-seeds-relative-to-the-starchy-staples-in-a-least-cost-healthy-diet-co-hd-lns-ss/map"
+    },
+    {
+      "text": "Cost of animal-source foods relative to the starchy staples in a least-cost healthy diet",
+      "href": "/indicators/food-environments/food-affordability/cost-of-animal-sourced-foods-relative-to-the-starchy-staples-in-a-least-cost-healthy-diet-co-hd-asf-ss/map"
+    },
+    {
+      "text": "Cost of oils and fats relative to the starchy staples in a least-cost healthy diet",
+      "href": "/indicators/food-environments/food-affordability/cost-of-oils-and-fats-relative-to-the-starchy-staples-in-a-least-cost-healthy-diet-co-hd-of-ss/map"
+    },
+    {
+      "text": "Cost of fruits and vegetables relative to starchy staples in a least cost healthy diet",
+      "href": "/indicators/food-environments/food-affordability/cost-of-fruits-and-vegetables-relative-to-starchy-staples-in-a-least-cost-healthy-diet/map"
+    },
+    {
+      "text": "FSCI",
+      "href": "/fsci-indicators"
+    },
+    {
+      "text": "Download Data",
+      "href": "/downloads?default-indicator=149"
+    }
+  ],
+  "map": [],
+  "other infornation": ""
+}

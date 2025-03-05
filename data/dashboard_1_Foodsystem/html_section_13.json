@@ -1,0 +1,89 @@
+{
+  "url": "https://www.foodsystemsdashboard.org/fsci-interactions",
+  "structural_elements": {
+    "headers": [
+      {
+        "level": 2,
+        "text": "Food Systems Dashboard"
+      },
+      {
+        "level": 2,
+        "text": "Food Systems Countdown Initiative Indicator Connections"
+      }
+    ],
+    "paragraphs": [
+      {
+        "text": "Click on an indicator to view its direct connections to other indicators"
+      },
+      {
+        "text": "The Food Systems Countdown Initiative is a global research effort bringing together over60 expertsfrom diverse disciplines across all major world regions. The Countdown collaborators assessed the theoretical relationships between indicators based on their knowledge and understanding of food systems.This expert assessment was used to identify direct, causal relationships between indicators and what direction each relationship followed."
+      },
+      {
+        "text": "The Countdown collaborators' assessment identified direct relationships (where indicator A directly influences indicator B) and was used to create a matrix of these direct relationships. Additional analysis of this matrix identified indirect relationships, where indicators are connected through an intermediate indicator (where indicator A directly influences indicator B, which then influences indicator C, so the connection from A to C is indirect via B)."
+      },
+      {
+        "text": "Interactions between different areas of food systems are plentiful, diverse, and complex and a change in one area can directly or indirectly affect another."
+      },
+      {
+        "text": "This offers opportunities as interactions can create synergies where positive change in one area can lead to cascading positive changes in other areas and joint action across different parts of food systems can result in changes that are larger than the sum of the individual shifts. These powerful leverage points can serve as entry points for bringing about system-wide changes. But this also presents challenges that need to be carefully managed. Interactions can give rise to trade-offs between goals as well as unintended consequences of actions."
+      }
+    ]
+  },
+  "div_hierarchy": [
+    {
+      "text": "Food Systems Dashboard"
+    },
+    {
+      "text": "Click on an indicator to view its direct connections to other indicators"
+    },
+    {
+      "text": "Number of Direct Connections"
+    },
+    {
+      "text": "2"
+    },
+    {
+      "text": "20"
+    },
+    {
+      "text": "38"
+    },
+    {
+      "text": "Diets, Nutrition, and Health"
+    },
+    {
+      "text": "Environment, Natural Resources, and Production"
+    },
+    {
+      "text": "Livelihoods, Poverty, and Equity"
+    },
+    {
+      "text": "Governance"
+    },
+    {
+      "text": "Resilience"
+    },
+    {
+      "text": "The Food Systems Countdown Initiative is a global research effort bringing together over60 expertsfrom diverse disciplines across all major world regions. The Countdown collaborators assessed the theoretical relationships between indicators based on their knowledge and understanding of food systems.This expert assessment was used to identify direct, causal relationships between indicators and what direction each relationship followed.The Countdown collaborators' assessment identified direct relationships (where indicator A directly influences indicator B) and was used to create a matrix of these direct relationships. Additional analysis of this matrix identified indirect relationships, where indicators are connected through an intermediate indicator (where indicator A directly influences indicator B, which then influences indicator C, so the connection from A to C is indirect via B).Interactions between different areas of food systems are plentiful, diverse, and complex and a change in one area can directly or indirectly affect another.This offers opportunities as interactions can create synergies where positive change in one area can lead to cascading positive changes in other areas and joint action across different parts of food systems can result in changes that are larger than the sum of the individual shifts. These powerful leverage points can serve as entry points for bringing about system-wide changes. But this also presents challenges that need to be carefully managed. Interactions can give rise to trade-offs between goals as well as unintended consequences of actions."
+    },
+    {
+      "text": "©2025GAIN, The Columbia Climate School, and Cornell University College of Agriculture and Life Sciences. All Rights Reserved. Geographic borders are based on UN conventions and don't represent an endorsement."
+    }
+  ],
+  "links": [
+    {
+      "text": "Food Systems Dashboard",
+      "href": "/"
+    },
+    {
+      "text": "Information",
+      "href": "/information"
+    },
+    {
+      "text": "60 experts",
+      "href": "https://www.foodcountdown.org/team"
+    }
+  ],
+  "map": [],
+  "other infornation": ""
+}

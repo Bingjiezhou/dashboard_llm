@@ -1,0 +1,268 @@
+{
+  "url": "https://www.foodsystemsdashboard.org/",
+  "structural_elements": {
+    "headers": [
+      {
+        "level": 2,
+        "text": "Food Systems Dashboard"
+      },
+      {
+        "level": 2,
+        "text": "Global Data"
+      },
+      {
+        "level": 2,
+        "text": "Global Dashboard"
+      },
+      {
+        "level": 2,
+        "text": "Global Data by Country & Territory"
+      },
+      {
+        "level": 2,
+        "text": "Policies and Actions"
+      },
+      {
+        "level": 2,
+        "text": "Country Data"
+      },
+      {
+        "level": 2,
+        "text": "Countdown Data"
+      },
+      {
+        "level": 2,
+        "text": "Countdown Indicators"
+      },
+      {
+        "level": 2,
+        "text": "Countdown Country Profiles"
+      },
+      {
+        "level": 2,
+        "text": "Countdown Indicator Interactions"
+      },
+      {
+        "level": 3,
+        "text": "Country Dashboards Available In"
+      }
+    ],
+    "paragraphs": [
+      {
+        "text": "Data extracted from global databases and available across most countries at a national level"
+      },
+      {
+        "text": "View global data for hundreds of indicators spanning every aspect of food systems."
+      },
+      {
+        "text": "Dive into country and territory specific data, including our food systems diagnostics."
+      },
+      {
+        "text": "Explore evidence-based interventions that can help improve outcomes of food systems."
+      },
+      {
+        "text": "Data collected and made available by individual countries and often available for several administrative levels"
+      },
+      {
+        "text": "Country Dashboards show data at the state/province and city level and are available inNigeria,Mozambique,Bangladesh,Pakistan,Kenya, andIndonesia. Work is also underway on Country Dashboards inIndiaandRwanda."
+      },
+      {
+        "text": "Food Systems Countdown Initiative"
+      },
+      {
+        "text": "The Countdown is a collaborative effort to monitor global food systems. It brings together indicators that span food systems and provides annual analysis to inform policy, business, and NGO priorities and actions. It supports the transformation of food systems, so they become equitable, sustainable, and resilient and positively contribute to achieving the 2030 SDGs and other global goals."
+      },
+      {
+        "text": "View data for hand-selected indicators belonging to the Countdown's five thematic areas."
+      },
+      {
+        "text": "Compare Country-specific data for Countdown indicators to regional and global averages."
+      },
+      {
+        "text": "Explore how indicators influence and are influenced by each other."
+      }
+    ]
+  },
+  "div_hierarchy": [
+    {
+      "text": "Food Systems Dashboard"
+    },
+    {
+      "text": "The Food Systems Dashboardgives a complete view of food systems by bringing together data from multiple sources."
+    },
+    {
+      "text": "More About the DashboardMore About Food SystemsDownload Data"
+    },
+    {
+      "text": "Search by Country, Territory, or Indicator"
+    },
+    {
+      "text": "Global DataData extracted from global databases and available across most countries at a national level"
+    },
+    {
+      "text": "Global DashboardView global data for hundreds of indicators spanning every aspect of food systems."
+    },
+    {
+      "text": "Global Data by Country & TerritoryDive into country and territory specific data, including our food systems diagnostics."
+    },
+    {
+      "text": "Policies and ActionsExplore evidence-based interventions that can help improve outcomes of food systems."
+    },
+    {
+      "text": "Country DataData collected and made available by individual countries and often available for several administrative levels"
+    },
+    {
+      "text": "India"
+    },
+    {
+      "text": "In Development"
+    },
+    {
+      "text": "Rwanda"
+    },
+    {
+      "text": "In Development"
+    },
+    {
+      "text": "Countdown DataFood Systems Countdown Initiative"
+    },
+    {
+      "text": "The Countdown is a collaborative effort to monitor global food systems. It brings together indicators that span food systems and provides annual analysis to inform policy, business, and NGO priorities and actions. It supports the transformation of food systems, so they become equitable, sustainable, and resilient and positively contribute to achieving the 2030 SDGs and other global goals.More About the Indicator Architecture"
+    },
+    {
+      "text": "Countdown IndicatorsView data for hand-selected indicators belonging to the Countdown's five thematic areas."
+    },
+    {
+      "text": "Countdown Country ProfilesCompare Country-specific data for Countdown indicators to regional and global averages."
+    },
+    {
+      "text": "Countdown Indicator InteractionsExplore how indicators influence and are influenced by each other."
+    },
+    {
+      "text": "Question or comments? Email us atinfo@foodsystemsdashboard.org"
+    },
+    {
+      "text": "©2025GAIN, The Columbia Climate School, and Cornell University College of Agriculture and Life Sciences. All Rights Reserved. Geographic borders are based on UN conventions and don't represent an endorsement."
+    }
+  ],
+  "links": [
+    {
+      "text": "Food Systems Dashboard",
+      "href": "/"
+    },
+    {
+      "text": "Information",
+      "href": "/information"
+    },
+    {
+      "text": "More About the Dashboard",
+      "href": "/information/about-the-dashboard"
+    },
+    {
+      "text": "More About Food Systems",
+      "href": "/information/about-food-systems"
+    },
+    {
+      "text": "Download Data",
+      "href": "/downloads"
+    },
+    {
+      "text": "Global DashboardView global data for hundreds of indicators spanning every aspect of food systems.",
+      "href": "/indicators/percent-of-the-population-who-cannot-afford-a-healthy-diet-at-52-percent-of-income-co-hd-headcount/map"
+    },
+    {
+      "text": "Global Data by Country & TerritoryDive into country and territory specific data, including our food systems diagnostics.",
+      "href": "/countries"
+    },
+    {
+      "text": "Policies and ActionsExplore evidence-based interventions that can help improve outcomes of food systems.",
+      "href": "/policies-and-actions"
+    },
+    {
+      "text": "Nigeria",
+      "href": "/countries/nga/subnational-data"
+    },
+    {
+      "text": "Mozambique",
+      "href": "/countries/moz/subnational-data"
+    },
+    {
+      "text": "Bangladesh",
+      "href": "/countries/bgd/subnational-data"
+    },
+    {
+      "text": "Pakistan",
+      "href": "/countries/pak/subnational-data"
+    },
+    {
+      "text": "Kenya",
+      "href": "/countries/ken/subnational-data"
+    },
+    {
+      "text": "Indonesia",
+      "href": "/countries/idn/subnational-data"
+    },
+    {
+      "text": "Bangladesh",
+      "href": "/countries/bgd/subnational-data"
+    },
+    {
+      "text": "Indonesia",
+      "href": "/countries/idn/subnational-data"
+    },
+    {
+      "text": "Kenya",
+      "href": "/countries/ken/subnational-data"
+    },
+    {
+      "text": "Mozambique",
+      "href": "/countries/moz/subnational-data"
+    },
+    {
+      "text": "Nigeria",
+      "href": "/countries/nga/subnational-data"
+    },
+    {
+      "text": "Pakistan",
+      "href": "/countries/pak/subnational-data"
+    },
+    {
+      "text": "More About the Indicator Architecture",
+      "href": "https://www.foodcountdown.org/indicator-architecture"
+    },
+    {
+      "text": "Countdown IndicatorsView data for hand-selected indicators belonging to the Countdown's five thematic areas.",
+      "href": "/fsci-indicators"
+    },
+    {
+      "text": "Countdown Country ProfilesCompare Country-specific data for Countdown indicators to regional and global averages.",
+      "href": "/countries/fsci-data"
+    },
+    {
+      "text": "Countdown Indicator InteractionsExplore how indicators influence and are influenced by each other.",
+      "href": "/fsci-interactions"
+    },
+    {
+      "text": "",
+      "href": "https://www.gainhealth.org/"
+    },
+    {
+      "text": "",
+      "href": "https://www.climate.columbia.edu/"
+    },
+    {
+      "text": "",
+      "href": "https://www.fao.org/home/en"
+    },
+    {
+      "text": "",
+      "href": "https://cals.cornell.edu/"
+    },
+    {
+      "text": "Question or comments? Email us atinfo@foodsystemsdashboard.org",
+      "href": "mailto:info@foodsystemsdashboard.org"
+    }
+  ],
+  "map": [],
+  "other infornation": ""
+}

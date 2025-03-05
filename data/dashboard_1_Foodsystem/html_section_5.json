@@ -1,0 +1,1530 @@
+{
+  "url": "https://www.foodsystemsdashboard.org/countries/fsci-data",
+  "structural_elements": {
+    "headers": [
+      {
+        "level": 1,
+        "text": "Countdown Data by Country & Territory"
+      },
+      {
+        "level": 2,
+        "text": "Food Systems Dashboard"
+      },
+      {
+        "level": 2,
+        "text": "Africa"
+      },
+      {
+        "level": 2,
+        "text": "Americas"
+      },
+      {
+        "level": 2,
+        "text": "Asia"
+      },
+      {
+        "level": 2,
+        "text": "Europe"
+      },
+      {
+        "level": 2,
+        "text": "Oceania"
+      },
+      {
+        "level": 3,
+        "text": "Central or Middle Africa"
+      },
+      {
+        "level": 3,
+        "text": "Eastern Africa"
+      },
+      {
+        "level": 3,
+        "text": "Northern Africa"
+      },
+      {
+        "level": 3,
+        "text": "Southern Africa"
+      },
+      {
+        "level": 3,
+        "text": "Western Africa"
+      },
+      {
+        "level": 3,
+        "text": "Caribbean"
+      },
+      {
+        "level": 3,
+        "text": "Central America"
+      },
+      {
+        "level": 3,
+        "text": "Northern America"
+      },
+      {
+        "level": 3,
+        "text": "South America"
+      },
+      {
+        "level": 3,
+        "text": "Central Asia"
+      },
+      {
+        "level": 3,
+        "text": "Eastern Asia"
+      },
+      {
+        "level": 3,
+        "text": "South-eastern Asia"
+      },
+      {
+        "level": 3,
+        "text": "Southern Asia"
+      },
+      {
+        "level": 3,
+        "text": "Western Asia"
+      },
+      {
+        "level": 3,
+        "text": "Eastern Europe"
+      },
+      {
+        "level": 3,
+        "text": "Northern Europe"
+      },
+      {
+        "level": 3,
+        "text": "Southern Europe"
+      },
+      {
+        "level": 3,
+        "text": "Western Europe"
+      },
+      {
+        "level": 3,
+        "text": "Australia and New Zealand"
+      },
+      {
+        "level": 3,
+        "text": "Melanesia"
+      },
+      {
+        "level": 3,
+        "text": "Micronesia"
+      },
+      {
+        "level": 3,
+        "text": "Polynesia"
+      }
+    ],
+    "paragraphs": [
+      {
+        "text": "Profiles of national level data for the 50 Food Systems Countdown Initiative indicators."
+      }
+    ]
+  },
+  "div_hierarchy": [
+    {
+      "text": "Food Systems Dashboard"
+    },
+    {
+      "text": "Global Databy Country & Territory"
+    },
+    {
+      "text": "Country Data"
+    },
+    {
+      "text": "Countdown Databy Country & Territory"
+    },
+    {
+      "text": "Countdown Data by Country & TerritoryProfiles of national level data for the 50 Food Systems Countdown Initiative indicators."
+    },
+    {
+      "text": "Angola"
+    },
+    {
+      "text": "Cameroon"
+    },
+    {
+      "text": "Central African Republic"
+    },
+    {
+      "text": "Chad"
+    },
+    {
+      "text": "Congo"
+    },
+    {
+      "text": "Democratic Republic of the Congo"
+    },
+    {
+      "text": "Equatorial Guinea"
+    },
+    {
+      "text": "Gabon"
+    },
+    {
+      "text": "Sao Tome and Principe"
+    },
+    {
+      "text": "Burundi"
+    },
+    {
+      "text": "Comoros"
+    },
+    {
+      "text": "Djibouti"
+    },
+    {
+      "text": "Eritrea"
+    },
+    {
+      "text": "Ethiopia"
+    },
+    {
+      "text": "Kenya"
+    },
+    {
+      "text": "Madagascar"
+    },
+    {
+      "text": "Malawi"
+    },
+    {
+      "text": "Mauritius"
+    },
+    {
+      "text": "Mozambique"
+    },
+    {
+      "text": "Rwanda"
+    },
+    {
+      "text": "Seychelles"
+    },
+    {
+      "text": "Somalia"
+    },
+    {
+      "text": "South Sudan"
+    },
+    {
+      "text": "Uganda"
+    },
+    {
+      "text": "United Republic of Tanzania"
+    },
+    {
+      "text": "Zambia"
+    },
+    {
+      "text": "Zimbabwe"
+    },
+    {
+      "text": "Algeria"
+    },
+    {
+      "text": "Egypt"
+    },
+    {
+      "text": "Libya"
+    },
+    {
+      "text": "Morocco"
+    },
+    {
+      "text": "Sudan"
+    },
+    {
+      "text": "Tunisia"
+    },
+    {
+      "text": "Botswana"
+    },
+    {
+      "text": "Eswatini"
+    },
+    {
+      "text": "Lesotho"
+    },
+    {
+      "text": "Namibia"
+    },
+    {
+      "text": "South Africa"
+    },
+    {
+      "text": "Benin"
+    },
+    {
+      "text": "Burkina Faso"
+    },
+    {
+      "text": "Cabo Verde"
+    },
+    {
+      "text": "Côte d’Ivoire"
+    },
+    {
+      "text": "Gambia"
+    },
+    {
+      "text": "Ghana"
+    },
+    {
+      "text": "Guinea"
+    },
+    {
+      "text": "Guinea-Bissau"
+    },
+    {
+      "text": "Liberia"
+    },
+    {
+      "text": "Mali"
+    },
+    {
+      "text": "Mauritania"
+    },
+    {
+      "text": "Niger"
+    },
+    {
+      "text": "Nigeria"
+    },
+    {
+      "text": "Senegal"
+    },
+    {
+      "text": "Sierra Leone"
+    },
+    {
+      "text": "Togo"
+    },
+    {
+      "text": "Antigua and Barbuda"
+    },
+    {
+      "text": "Bahamas"
+    },
+    {
+      "text": "Barbados"
+    },
+    {
+      "text": "Cuba"
+    },
+    {
+      "text": "Dominica"
+    },
+    {
+      "text": "Dominican Republic"
+    },
+    {
+      "text": "Grenada"
+    },
+    {
+      "text": "Haiti"
+    },
+    {
+      "text": "Jamaica"
+    },
+    {
+      "text": "Saint Kitts and Nevis"
+    },
+    {
+      "text": "Saint Lucia"
+    },
+    {
+      "text": "Saint Vincent and the Grenadines"
+    },
+    {
+      "text": "Trinidad and Tobago"
+    },
+    {
+      "text": "Belize"
+    },
+    {
+      "text": "Costa Rica"
+    },
+    {
+      "text": "El Salvador"
+    },
+    {
+      "text": "Guatemala"
+    },
+    {
+      "text": "Honduras"
+    },
+    {
+      "text": "Mexico"
+    },
+    {
+      "text": "Nicaragua"
+    },
+    {
+      "text": "Panama"
+    },
+    {
+      "text": "Canada"
+    },
+    {
+      "text": "United States of America"
+    },
+    {
+      "text": "Argentina"
+    },
+    {
+      "text": "Bolivia (Plurinational State of)"
+    },
+    {
+      "text": "Brazil"
+    },
+    {
+      "text": "Chile"
+    },
+    {
+      "text": "Colombia"
+    },
+    {
+      "text": "Ecuador"
+    },
+    {
+      "text": "French Guiana"
+    },
+    {
+      "text": "Guyana"
+    },
+    {
+      "text": "Paraguay"
+    },
+    {
+      "text": "Peru"
+    },
+    {
+      "text": "Suriname"
+    },
+    {
+      "text": "Uruguay"
+    },
+    {
+      "text": "Venezuela (Bolivarian Republic of)"
+    },
+    {
+      "text": "Kazakhstan"
+    },
+    {
+      "text": "Kyrgyzstan"
+    },
+    {
+      "text": "Tajikistan"
+    },
+    {
+      "text": "Turkmenistan"
+    },
+    {
+      "text": "Uzbekistan"
+    },
+    {
+      "text": "China"
+    },
+    {
+      "text": "Democratic People's Republic of Korea"
+    },
+    {
+      "text": "Japan"
+    },
+    {
+      "text": "Mongolia"
+    },
+    {
+      "text": "Republic of Korea"
+    },
+    {
+      "text": "Brunei Darussalam"
+    },
+    {
+      "text": "Cambodia"
+    },
+    {
+      "text": "Indonesia"
+    },
+    {
+      "text": "Lao People's Democratic Republic"
+    },
+    {
+      "text": "Malaysia"
+    },
+    {
+      "text": "Myanmar"
+    },
+    {
+      "text": "Philippines"
+    },
+    {
+      "text": "Singapore"
+    },
+    {
+      "text": "Thailand"
+    },
+    {
+      "text": "Timor-Leste"
+    },
+    {
+      "text": "Viet Nam"
+    },
+    {
+      "text": "Afghanistan"
+    },
+    {
+      "text": "Bangladesh"
+    },
+    {
+      "text": "Bhutan"
+    },
+    {
+      "text": "India"
+    },
+    {
+      "text": "Iran (Islamic Republic of)"
+    },
+    {
+      "text": "Maldives"
+    },
+    {
+      "text": "Nepal"
+    },
+    {
+      "text": "Pakistan"
+    },
+    {
+      "text": "Sri Lanka"
+    },
+    {
+      "text": "Armenia"
+    },
+    {
+      "text": "Azerbaijan"
+    },
+    {
+      "text": "Bahrain"
+    },
+    {
+      "text": "Cyprus"
+    },
+    {
+      "text": "Georgia"
+    },
+    {
+      "text": "Iraq"
+    },
+    {
+      "text": "Israel"
+    },
+    {
+      "text": "Jordan"
+    },
+    {
+      "text": "Kuwait"
+    },
+    {
+      "text": "Lebanon"
+    },
+    {
+      "text": "Oman"
+    },
+    {
+      "text": "Qatar"
+    },
+    {
+      "text": "Saudi Arabia"
+    },
+    {
+      "text": "Syrian Arab Republic"
+    },
+    {
+      "text": "Turkey"
+    },
+    {
+      "text": "United Arab Emirates"
+    },
+    {
+      "text": "Yemen"
+    },
+    {
+      "text": "Belarus"
+    },
+    {
+      "text": "Bulgaria"
+    },
+    {
+      "text": "Czechia"
+    },
+    {
+      "text": "Hungary"
+    },
+    {
+      "text": "Poland"
+    },
+    {
+      "text": "Republic of Moldova"
+    },
+    {
+      "text": "Romania"
+    },
+    {
+      "text": "Russian Federation"
+    },
+    {
+      "text": "Slovakia"
+    },
+    {
+      "text": "Ukraine"
+    },
+    {
+      "text": "Denmark"
+    },
+    {
+      "text": "Estonia"
+    },
+    {
+      "text": "Finland"
+    },
+    {
+      "text": "Iceland"
+    },
+    {
+      "text": "Ireland"
+    },
+    {
+      "text": "Latvia"
+    },
+    {
+      "text": "Lithuania"
+    },
+    {
+      "text": "Norway"
+    },
+    {
+      "text": "Sweden"
+    },
+    {
+      "text": "United Kingdom of Great Britain and Northern Ireland"
+    },
+    {
+      "text": "Albania"
+    },
+    {
+      "text": "Andorra"
+    },
+    {
+      "text": "Bosnia and Herzegovina"
+    },
+    {
+      "text": "Croatia"
+    },
+    {
+      "text": "Greece"
+    },
+    {
+      "text": "Italy"
+    },
+    {
+      "text": "Malta"
+    },
+    {
+      "text": "Montenegro"
+    },
+    {
+      "text": "North Macedonia"
+    },
+    {
+      "text": "Portugal"
+    },
+    {
+      "text": "San Marino"
+    },
+    {
+      "text": "Serbia"
+    },
+    {
+      "text": "Slovenia"
+    },
+    {
+      "text": "Spain"
+    },
+    {
+      "text": "Austria"
+    },
+    {
+      "text": "Belgium"
+    },
+    {
+      "text": "France"
+    },
+    {
+      "text": "Germany"
+    },
+    {
+      "text": "Liechtenstein"
+    },
+    {
+      "text": "Luxembourg"
+    },
+    {
+      "text": "Monaco"
+    },
+    {
+      "text": "Netherlands"
+    },
+    {
+      "text": "Switzerland"
+    },
+    {
+      "text": "Australia"
+    },
+    {
+      "text": "New Zealand"
+    },
+    {
+      "text": "Fiji"
+    },
+    {
+      "text": "Papua New Guinea"
+    },
+    {
+      "text": "Solomon Islands"
+    },
+    {
+      "text": "Vanuatu"
+    },
+    {
+      "text": "Kiribati"
+    },
+    {
+      "text": "Marshall Islands"
+    },
+    {
+      "text": "Micronesia (Federated States of)"
+    },
+    {
+      "text": "Nauru"
+    },
+    {
+      "text": "Palau"
+    },
+    {
+      "text": "Samoa"
+    },
+    {
+      "text": "Tonga"
+    },
+    {
+      "text": "Tuvalu"
+    },
+    {
+      "text": "©2025GAIN, The Columbia Climate School, and Cornell University College of Agriculture and Life Sciences. All Rights Reserved. Geographic borders are based on UN conventions and don't represent an endorsement."
+    }
+  ],
+  "links": [
+    {
+      "text": "Food Systems Dashboard",
+      "href": "/"
+    },
+    {
+      "text": "Information",
+      "href": "/information"
+    },
+    {
+      "text": "Global Databy Country & Territory",
+      "href": "/countries/global-data"
+    },
+    {
+      "text": "Country Data",
+      "href": "/countries/country-data"
+    },
+    {
+      "text": "Countdown Databy Country & Territory",
+      "href": "/countries/fsci-data"
+    },
+    {
+      "text": "Angola",
+      "href": "/countries/ago/fsci"
+    },
+    {
+      "text": "Cameroon",
+      "href": "/countries/cmr/fsci"
+    },
+    {
+      "text": "Central African Republic",
+      "href": "/countries/caf/fsci"
+    },
+    {
+      "text": "Chad",
+      "href": "/countries/tcd/fsci"
+    },
+    {
+      "text": "Congo",
+      "href": "/countries/cog/fsci"
+    },
+    {
+      "text": "Democratic Republic of the Congo",
+      "href": "/countries/cod/fsci"
+    },
+    {
+      "text": "Equatorial Guinea",
+      "href": "/countries/gnq/fsci"
+    },
+    {
+      "text": "Gabon",
+      "href": "/countries/gab/fsci"
+    },
+    {
+      "text": "Sao Tome and Principe",
+      "href": "/countries/stp/fsci"
+    },
+    {
+      "text": "Burundi",
+      "href": "/countries/bdi/fsci"
+    },
+    {
+      "text": "Comoros",
+      "href": "/countries/com/fsci"
+    },
+    {
+      "text": "Djibouti",
+      "href": "/countries/dji/fsci"
+    },
+    {
+      "text": "Eritrea",
+      "href": "/countries/eri/fsci"
+    },
+    {
+      "text": "Ethiopia",
+      "href": "/countries/eth/fsci"
+    },
+    {
+      "text": "Kenya",
+      "href": "/countries/ken/fsci"
+    },
+    {
+      "text": "Madagascar",
+      "href": "/countries/mdg/fsci"
+    },
+    {
+      "text": "Malawi",
+      "href": "/countries/mwi/fsci"
+    },
+    {
+      "text": "Mauritius",
+      "href": "/countries/mus/fsci"
+    },
+    {
+      "text": "Mozambique",
+      "href": "/countries/moz/fsci"
+    },
+    {
+      "text": "Rwanda",
+      "href": "/countries/rwa/fsci"
+    },
+    {
+      "text": "Seychelles",
+      "href": "/countries/syc/fsci"
+    },
+    {
+      "text": "Somalia",
+      "href": "/countries/som/fsci"
+    },
+    {
+      "text": "South Sudan",
+      "href": "/countries/ssd/fsci"
+    },
+    {
+      "text": "Uganda",
+      "href": "/countries/uga/fsci"
+    },
+    {
+      "text": "United Republic of Tanzania",
+      "href": "/countries/tza/fsci"
+    },
+    {
+      "text": "Zambia",
+      "href": "/countries/zmb/fsci"
+    },
+    {
+      "text": "Zimbabwe",
+      "href": "/countries/zwe/fsci"
+    },
+    {
+      "text": "Algeria",
+      "href": "/countries/dza/fsci"
+    },
+    {
+      "text": "Egypt",
+      "href": "/countries/egy/fsci"
+    },
+    {
+      "text": "Libya",
+      "href": "/countries/lby/fsci"
+    },
+    {
+      "text": "Morocco",
+      "href": "/countries/mar/fsci"
+    },
+    {
+      "text": "Sudan",
+      "href": "/countries/sdn/fsci"
+    },
+    {
+      "text": "Tunisia",
+      "href": "/countries/tun/fsci"
+    },
+    {
+      "text": "Botswana",
+      "href": "/countries/bwa/fsci"
+    },
+    {
+      "text": "Eswatini",
+      "href": "/countries/swz/fsci"
+    },
+    {
+      "text": "Lesotho",
+      "href": "/countries/lso/fsci"
+    },
+    {
+      "text": "Namibia",
+      "href": "/countries/nam/fsci"
+    },
+    {
+      "text": "South Africa",
+      "href": "/countries/zaf/fsci"
+    },
+    {
+      "text": "Benin",
+      "href": "/countries/ben/fsci"
+    },
+    {
+      "text": "Burkina Faso",
+      "href": "/countries/bfa/fsci"
+    },
+    {
+      "text": "Cabo Verde",
+      "href": "/countries/cpv/fsci"
+    },
+    {
+      "text": "Côte d’Ivoire",
+      "href": "/countries/civ/fsci"
+    },
+    {
+      "text": "Gambia",
+      "href": "/countries/gmb/fsci"
+    },
+    {
+      "text": "Ghana",
+      "href": "/countries/gha/fsci"
+    },
+    {
+      "text": "Guinea",
+      "href": "/countries/gin/fsci"
+    },
+    {
+      "text": "Guinea-Bissau",
+      "href": "/countries/gnb/fsci"
+    },
+    {
+      "text": "Liberia",
+      "href": "/countries/lbr/fsci"
+    },
+    {
+      "text": "Mali",
+      "href": "/countries/mli/fsci"
+    },
+    {
+      "text": "Mauritania",
+      "href": "/countries/mrt/fsci"
+    },
+    {
+      "text": "Niger",
+      "href": "/countries/ner/fsci"
+    },
+    {
+      "text": "Nigeria",
+      "href": "/countries/nga/fsci"
+    },
+    {
+      "text": "Senegal",
+      "href": "/countries/sen/fsci"
+    },
+    {
+      "text": "Sierra Leone",
+      "href": "/countries/sle/fsci"
+    },
+    {
+      "text": "Togo",
+      "href": "/countries/tgo/fsci"
+    },
+    {
+      "text": "Antigua and Barbuda",
+      "href": "/countries/atg/fsci"
+    },
+    {
+      "text": "Bahamas",
+      "href": "/countries/bhs/fsci"
+    },
+    {
+      "text": "Barbados",
+      "href": "/countries/brb/fsci"
+    },
+    {
+      "text": "Cuba",
+      "href": "/countries/cub/fsci"
+    },
+    {
+      "text": "Dominica",
+      "href": "/countries/dma/fsci"
+    },
+    {
+      "text": "Dominican Republic",
+      "href": "/countries/dom/fsci"
+    },
+    {
+      "text": "Grenada",
+      "href": "/countries/grd/fsci"
+    },
+    {
+      "text": "Haiti",
+      "href": "/countries/hti/fsci"
+    },
+    {
+      "text": "Jamaica",
+      "href": "/countries/jam/fsci"
+    },
+    {
+      "text": "Saint Kitts and Nevis",
+      "href": "/countries/kna/fsci"
+    },
+    {
+      "text": "Saint Lucia",
+      "href": "/countries/lca/fsci"
+    },
+    {
+      "text": "Saint Vincent and the Grenadines",
+      "href": "/countries/vct/fsci"
+    },
+    {
+      "text": "Trinidad and Tobago",
+      "href": "/countries/tto/fsci"
+    },
+    {
+      "text": "Belize",
+      "href": "/countries/blz/fsci"
+    },
+    {
+      "text": "Costa Rica",
+      "href": "/countries/cri/fsci"
+    },
+    {
+      "text": "El Salvador",
+      "href": "/countries/slv/fsci"
+    },
+    {
+      "text": "Guatemala",
+      "href": "/countries/gtm/fsci"
+    },
+    {
+      "text": "Honduras",
+      "href": "/countries/hnd/fsci"
+    },
+    {
+      "text": "Mexico",
+      "href": "/countries/mex/fsci"
+    },
+    {
+      "text": "Nicaragua",
+      "href": "/countries/nic/fsci"
+    },
+    {
+      "text": "Panama",
+      "href": "/countries/pan/fsci"
+    },
+    {
+      "text": "Canada",
+      "href": "/countries/can/fsci"
+    },
+    {
+      "text": "United States of America",
+      "href": "/countries/usa/fsci"
+    },
+    {
+      "text": "Argentina",
+      "href": "/countries/arg/fsci"
+    },
+    {
+      "text": "Bolivia (Plurinational State of)",
+      "href": "/countries/bol/fsci"
+    },
+    {
+      "text": "Brazil",
+      "href": "/countries/bra/fsci"
+    },
+    {
+      "text": "Chile",
+      "href": "/countries/chl/fsci"
+    },
+    {
+      "text": "Colombia",
+      "href": "/countries/col/fsci"
+    },
+    {
+      "text": "Ecuador",
+      "href": "/countries/ecu/fsci"
+    },
+    {
+      "text": "French Guiana",
+      "href": "/countries/guf/fsci"
+    },
+    {
+      "text": "Guyana",
+      "href": "/countries/guy/fsci"
+    },
+    {
+      "text": "Paraguay",
+      "href": "/countries/pry/fsci"
+    },
+    {
+      "text": "Peru",
+      "href": "/countries/per/fsci"
+    },
+    {
+      "text": "Suriname",
+      "href": "/countries/sur/fsci"
+    },
+    {
+      "text": "Uruguay",
+      "href": "/countries/ury/fsci"
+    },
+    {
+      "text": "Venezuela (Bolivarian Republic of)",
+      "href": "/countries/ven/fsci"
+    },
+    {
+      "text": "Kazakhstan",
+      "href": "/countries/kaz/fsci"
+    },
+    {
+      "text": "Kyrgyzstan",
+      "href": "/countries/kgz/fsci"
+    },
+    {
+      "text": "Tajikistan",
+      "href": "/countries/tjk/fsci"
+    },
+    {
+      "text": "Turkmenistan",
+      "href": "/countries/tkm/fsci"
+    },
+    {
+      "text": "Uzbekistan",
+      "href": "/countries/uzb/fsci"
+    },
+    {
+      "text": "China",
+      "href": "/countries/chn/fsci"
+    },
+    {
+      "text": "Democratic People's Republic of Korea",
+      "href": "/countries/prk/fsci"
+    },
+    {
+      "text": "Japan",
+      "href": "/countries/jpn/fsci"
+    },
+    {
+      "text": "Mongolia",
+      "href": "/countries/mng/fsci"
+    },
+    {
+      "text": "Republic of Korea",
+      "href": "/countries/kor/fsci"
+    },
+    {
+      "text": "Brunei Darussalam",
+      "href": "/countries/brn/fsci"
+    },
+    {
+      "text": "Cambodia",
+      "href": "/countries/khm/fsci"
+    },
+    {
+      "text": "Indonesia",
+      "href": "/countries/idn/fsci"
+    },
+    {
+      "text": "Lao People's Democratic Republic",
+      "href": "/countries/lao/fsci"
+    },
+    {
+      "text": "Malaysia",
+      "href": "/countries/mys/fsci"
+    },
+    {
+      "text": "Myanmar",
+      "href": "/countries/mmr/fsci"
+    },
+    {
+      "text": "Philippines",
+      "href": "/countries/phl/fsci"
+    },
+    {
+      "text": "Singapore",
+      "href": "/countries/sgp/fsci"
+    },
+    {
+      "text": "Thailand",
+      "href": "/countries/tha/fsci"
+    },
+    {
+      "text": "Timor-Leste",
+      "href": "/countries/tls/fsci"
+    },
+    {
+      "text": "Viet Nam",
+      "href": "/countries/vnm/fsci"
+    },
+    {
+      "text": "Afghanistan",
+      "href": "/countries/afg/fsci"
+    },
+    {
+      "text": "Bangladesh",
+      "href": "/countries/bgd/fsci"
+    },
+    {
+      "text": "Bhutan",
+      "href": "/countries/btn/fsci"
+    },
+    {
+      "text": "India",
+      "href": "/countries/ind/fsci"
+    },
+    {
+      "text": "Iran (Islamic Republic of)",
+      "href": "/countries/irn/fsci"
+    },
+    {
+      "text": "Maldives",
+      "href": "/countries/mdv/fsci"
+    },
+    {
+      "text": "Nepal",
+      "href": "/countries/npl/fsci"
+    },
+    {
+      "text": "Pakistan",
+      "href": "/countries/pak/fsci"
+    },
+    {
+      "text": "Sri Lanka",
+      "href": "/countries/lka/fsci"
+    },
+    {
+      "text": "Armenia",
+      "href": "/countries/arm/fsci"
+    },
+    {
+      "text": "Azerbaijan",
+      "href": "/countries/aze/fsci"
+    },
+    {
+      "text": "Bahrain",
+      "href": "/countries/bhr/fsci"
+    },
+    {
+      "text": "Cyprus",
+      "href": "/countries/cyp/fsci"
+    },
+    {
+      "text": "Georgia",
+      "href": "/countries/geo/fsci"
+    },
+    {
+      "text": "Iraq",
+      "href": "/countries/irq/fsci"
+    },
+    {
+      "text": "Israel",
+      "href": "/countries/isr/fsci"
+    },
+    {
+      "text": "Jordan",
+      "href": "/countries/jor/fsci"
+    },
+    {
+      "text": "Kuwait",
+      "href": "/countries/kwt/fsci"
+    },
+    {
+      "text": "Lebanon",
+      "href": "/countries/lbn/fsci"
+    },
+    {
+      "text": "Oman",
+      "href": "/countries/omn/fsci"
+    },
+    {
+      "text": "Qatar",
+      "href": "/countries/qat/fsci"
+    },
+    {
+      "text": "Saudi Arabia",
+      "href": "/countries/sau/fsci"
+    },
+    {
+      "text": "Syrian Arab Republic",
+      "href": "/countries/syr/fsci"
+    },
+    {
+      "text": "Turkey",
+      "href": "/countries/tur/fsci"
+    },
+    {
+      "text": "United Arab Emirates",
+      "href": "/countries/are/fsci"
+    },
+    {
+      "text": "Yemen",
+      "href": "/countries/yem/fsci"
+    },
+    {
+      "text": "Belarus",
+      "href": "/countries/blr/fsci"
+    },
+    {
+      "text": "Bulgaria",
+      "href": "/countries/bgr/fsci"
+    },
+    {
+      "text": "Czechia",
+      "href": "/countries/cze/fsci"
+    },
+    {
+      "text": "Hungary",
+      "href": "/countries/hun/fsci"
+    },
+    {
+      "text": "Poland",
+      "href": "/countries/pol/fsci"
+    },
+    {
+      "text": "Republic of Moldova",
+      "href": "/countries/mda/fsci"
+    },
+    {
+      "text": "Romania",
+      "href": "/countries/rou/fsci"
+    },
+    {
+      "text": "Russian Federation",
+      "href": "/countries/rus/fsci"
+    },
+    {
+      "text": "Slovakia",
+      "href": "/countries/svk/fsci"
+    },
+    {
+      "text": "Ukraine",
+      "href": "/countries/ukr/fsci"
+    },
+    {
+      "text": "Denmark",
+      "href": "/countries/dnk/fsci"
+    },
+    {
+      "text": "Estonia",
+      "href": "/countries/est/fsci"
+    },
+    {
+      "text": "Finland",
+      "href": "/countries/fin/fsci"
+    },
+    {
+      "text": "Iceland",
+      "href": "/countries/isl/fsci"
+    },
+    {
+      "text": "Ireland",
+      "href": "/countries/irl/fsci"
+    },
+    {
+      "text": "Latvia",
+      "href": "/countries/lva/fsci"
+    },
+    {
+      "text": "Lithuania",
+      "href": "/countries/ltu/fsci"
+    },
+    {
+      "text": "Norway",
+      "href": "/countries/nor/fsci"
+    },
+    {
+      "text": "Sweden",
+      "href": "/countries/swe/fsci"
+    },
+    {
+      "text": "United Kingdom of Great Britain and Northern Ireland",
+      "href": "/countries/gbr/fsci"
+    },
+    {
+      "text": "Albania",
+      "href": "/countries/alb/fsci"
+    },
+    {
+      "text": "Andorra",
+      "href": "/countries/and/fsci"
+    },
+    {
+      "text": "Bosnia and Herzegovina",
+      "href": "/countries/bih/fsci"
+    },
+    {
+      "text": "Croatia",
+      "href": "/countries/hrv/fsci"
+    },
+    {
+      "text": "Greece",
+      "href": "/countries/grc/fsci"
+    },
+    {
+      "text": "Italy",
+      "href": "/countries/ita/fsci"
+    },
+    {
+      "text": "Malta",
+      "href": "/countries/mlt/fsci"
+    },
+    {
+      "text": "Montenegro",
+      "href": "/countries/mne/fsci"
+    },
+    {
+      "text": "North Macedonia",
+      "href": "/countries/mkd/fsci"
+    },
+    {
+      "text": "Portugal",
+      "href": "/countries/prt/fsci"
+    },
+    {
+      "text": "San Marino",
+      "href": "/countries/smr/fsci"
+    },
+    {
+      "text": "Serbia",
+      "href": "/countries/srb/fsci"
+    },
+    {
+      "text": "Slovenia",
+      "href": "/countries/svn/fsci"
+    },
+    {
+      "text": "Spain",
+      "href": "/countries/esp/fsci"
+    },
+    {
+      "text": "Austria",
+      "href": "/countries/aut/fsci"
+    },
+    {
+      "text": "Belgium",
+      "href": "/countries/bel/fsci"
+    },
+    {
+      "text": "France",
+      "href": "/countries/fra/fsci"
+    },
+    {
+      "text": "Germany",
+      "href": "/countries/deu/fsci"
+    },
+    {
+      "text": "Liechtenstein",
+      "href": "/countries/lie/fsci"
+    },
+    {
+      "text": "Luxembourg",
+      "href": "/countries/lux/fsci"
+    },
+    {
+      "text": "Monaco",
+      "href": "/countries/mco/fsci"
+    },
+    {
+      "text": "Netherlands",
+      "href": "/countries/nld/fsci"
+    },
+    {
+      "text": "Switzerland",
+      "href": "/countries/che/fsci"
+    },
+    {
+      "text": "Australia",
+      "href": "/countries/aus/fsci"
+    },
+    {
+      "text": "New Zealand",
+      "href": "/countries/nzl/fsci"
+    },
+    {
+      "text": "Fiji",
+      "href": "/countries/fji/fsci"
+    },
+    {
+      "text": "Papua New Guinea",
+      "href": "/countries/png/fsci"
+    },
+    {
+      "text": "Solomon Islands",
+      "href": "/countries/slb/fsci"
+    },
+    {
+      "text": "Vanuatu",
+      "href": "/countries/vut/fsci"
+    },
+    {
+      "text": "Kiribati",
+      "href": "/countries/kir/fsci"
+    },
+    {
+      "text": "Marshall Islands",
+      "href": "/countries/mhl/fsci"
+    },
+    {
+      "text": "Micronesia (Federated States of)",
+      "href": "/countries/fsm/fsci"
+    },
+    {
+      "text": "Nauru",
+      "href": "/countries/nru/fsci"
+    },
+    {
+      "text": "Palau",
+      "href": "/countries/plw/fsci"
+    },
+    {
+      "text": "Samoa",
+      "href": "/countries/wsm/fsci"
+    },
+    {
+      "text": "Tonga",
+      "href": "/countries/ton/fsci"
+    },
+    {
+      "text": "Tuvalu",
+      "href": "/countries/tuv/fsci"
+    }
+  ],
+  "map": [],
+  "other infornation": ""
+}

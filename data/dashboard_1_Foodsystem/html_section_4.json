@@ -1,0 +1,128 @@
+{
+  "url": "https://www.foodsystemsdashboard.org/downloads",
+  "structural_elements": {
+    "headers": [
+      {
+        "level": 1,
+        "text": "Download Data"
+      },
+      {
+        "level": 2,
+        "text": "Food Systems Dashboard"
+      },
+      {
+        "level": 2,
+        "text": "Download Bulk Data Sets"
+      }
+    ],
+    "paragraphs": [
+      {
+        "text": "Please cite data as from the primary source accessed via the Food Systems Dashboard."
+      },
+      {
+        "text": "The Food Systems Dashboard. The Global Alliance for Improved Nutrition (GAIN), The Columbia Climate School, and Cornell University College of Agriculture and Life Sciences. 2024. Geneva, Switzerland. https://www.foodsystemsdashboard.org. DOI: https://doi.org/10.36072/db."
+      },
+      {
+        "text": "≈52Mb CSV file."
+      },
+      {
+        "text": "≈12Mb CSV file."
+      },
+      {
+        "text": "Data sets last updated on2025-01-21."
+      }
+    ]
+  },
+  "div_hierarchy": [
+    {
+      "text": "Food Systems Dashboard"
+    },
+    {
+      "text": "Indicators"
+    },
+    {
+      "text": "Select all (263 Indicators)"
+    },
+    {
+      "text": "0Selected"
+    },
+    {
+      "text": "Drivers"
+    },
+    {
+      "text": "Food Supply Chains"
+    },
+    {
+      "text": "Food Environments"
+    },
+    {
+      "text": "Individual Factors"
+    },
+    {
+      "text": "Cross-Cutting Issues"
+    },
+    {
+      "text": "Outcomes"
+    },
+    {
+      "text": "Years"
+    },
+    {
+      "text": "-"
+    },
+    {
+      "text": "Regions"
+    },
+    {
+      "text": "Select all (240 Regions)"
+    },
+    {
+      "text": "0Selected"
+    },
+    {
+      "text": "AfghanistanAlbaniaAlgeriaAmerican SamoaAndorraAngolaAnguillaAntigua and BarbudaArgentinaArmeniaArubaAustraliaAustriaAzerbaijanBahamasBahrainBangladeshBarbadosBelarusBelgiumBelizeBeninBermudaBhutanBolivia (Plurinational State of)Bonaire, Sint Eustatius and SabaBosnia and HerzegovinaBotswanaBrazilBritish Indian Ocean TerritoryBritish Virgin IslandsBrunei DarussalamBulgariaBurkina FasoBurundiCabo VerdeCambodiaCameroonCanadaCayman IslandsCentral African RepublicChadChileChinaChina, Hong Kong Special Administrative RegionChina, Macao Special Administrative RegionCocos (Keeling) IslandsColombiaComorosCongoCook IslandsCosta RicaCôte d’IvoireCroatiaCubaCuraçaoCyprusCzechiaDemocratic People's Republic of KoreaDemocratic Republic of the CongoDenmarkDjiboutiDominicaDominican RepublicEcuadorEgyptEl SalvadorEquatorial GuineaEritreaEstoniaEswatiniEthiopiaFalkland Islands (Malvinas)Faroe IslandsFijiFinlandFranceFrench GuianaFrench PolynesiaFrench Southern TerritoriesGabonGambiaGeorgiaGermanyGhanaGibraltarGreeceGreenlandGrenadaGuadeloupeGuamGuatemalaGuernseyGuineaGuinea-BissauGuyanaHaitiHoly SeeHondurasHungaryIcelandIndiaIndonesiaIran (Islamic Republic of)IraqIrelandIsle of ManIsraelItalyJamaicaJapanJerseyJordanKazakhstanKenyaKiribatiKuwaitKyrgyzstanLao People's Democratic RepublicLatviaLebanonLesothoLiberiaLibyaLiechtensteinLithuaniaLuxembourgMadagascarMalawiMalaysiaMaldivesMaliMaltaMarshall IslandsMartiniqueMauritaniaMauritiusMayotteMexicoMicronesia (Federated States of)MonacoMongoliaMontenegroMontserratMoroccoMozambiqueMyanmarNamibiaNauruNepalNetherlandsNew CaledoniaNew ZealandNicaraguaNigerNigeriaNiueNorfolk IslandNorthern Mariana IslandsNorth MacedoniaNorwayOmanPakistanPalauPanamaPapua New GuineaParaguayPeruPhilippinesPitcairnPolandPortugalPuerto RicoQatarRepublic of KoreaRepublic of MoldovaRéunionRomaniaRussian FederationRwandaSaint HelenaSaint Kitts and NevisSaint LuciaSaint Martin (French Part)Saint Pierre and MiquelonSaint Vincent and the GrenadinesSamoaSan MarinoSao Tome and PrincipeSaudi ArabiaSenegalSerbiaSeychellesSierra LeoneSingaporeSint Maarten (Dutch part)SlovakiaSloveniaSolomon IslandsSomaliaSouth AfricaSouth SudanSpainSri LankaState of PalestineSudanSurinameSvalbard and Jan Mayen IslandsSwedenSwitzerlandSyrian Arab RepublicTaiwan, Province of ChinaTajikistanThailandTimor-LesteTogoTokelauTongaTrinidad and TobagoTunisiaTurkeyTurkmenistanTurks and Caicos IslandsTuvaluUgandaUkraineUnited Arab EmiratesUnited Kingdom of Great Britain and Northern IrelandUnited Republic of TanzaniaUnited States of AmericaUnited States Virgin IslandsUruguayUzbekistanVanuatuVenezuela (Bolivarian Republic of)Viet NamWallis and Futuna IslandsYemenZambiaZimbabwe"
+    },
+    {
+      "text": "Download metadata"
+    },
+    {
+      "text": "Select at least one indicator and region"
+    },
+    {
+      "text": "≈52Mb CSV file."
+    },
+    {
+      "text": "≈12Mb CSV file."
+    },
+    {
+      "text": "All Indicator Metadata"
+    },
+    {
+      "text": "©2025GAIN, The Columbia Climate School, and Cornell University College of Agriculture and Life Sciences. All Rights Reserved. Geographic borders are based on UN conventions and don't represent an endorsement."
+    }
+  ],
+  "links": [
+    {
+      "text": "Food Systems Dashboard",
+      "href": "/"
+    },
+    {
+      "text": "Information",
+      "href": "/information"
+    },
+    {
+      "text": "Full FSD Data Set",
+      "href": "https://s3.us-east-2.amazonaws.com/data.foodsystemsdashboard.org/bulk-data-downloads/fsd-full-export-2025-01-21.csv"
+    },
+    {
+      "text": "Countdown Data Set",
+      "href": "https://s3.us-east-2.amazonaws.com/data.foodsystemsdashboard.org/bulk-data-downloads/fsd-fsci-full-export-2025-01-21.csv"
+    },
+    {
+      "text": "All Indicator Metadata",
+      "href": "https://s3.us-east-2.amazonaws.com/data.foodsystemsdashboard.org/bulk-data-downloads/fsd-metadata-export-2025-01-21.csv"
+    }
+  ],
+  "map": [],
+  "other infornation": ""
+}

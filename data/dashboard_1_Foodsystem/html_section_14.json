@@ -1,0 +1,204 @@
+{
+  "url": "https://www.foodsystemsdashboard.org/information",
+  "structural_elements": {
+    "headers": [
+      {
+        "level": 1,
+        "text": "About the Food Systems Dashboard"
+      },
+      {
+        "level": 2,
+        "text": "Food Systems Dashboard"
+      },
+      {
+        "level": 2,
+        "text": "About the Food Systems Dashboard"
+      },
+      {
+        "level": 2,
+        "text": "About Food Systems"
+      },
+      {
+        "level": 2,
+        "text": "Data Sources and Methodology"
+      },
+      {
+        "level": 2,
+        "text": "Resources"
+      }
+    ],
+    "paragraphs": []
+  },
+  "div_hierarchy": [
+    {
+      "text": "Food Systems Dashboard"
+    },
+    {
+      "text": "What is the Food Systems Dashboard?What are the Country Dashboards?How to Navigate the Food Systems DashboardHow to Cite the Food Systems DashboardWho is the Food Systems Dashboard for?Who created the Food Systems Dashboard?Donors"
+    },
+    {
+      "text": "A Food Systems FrameworkComponents of Food SystemsCross-Cutting IssuesDrivers of Food SystemsOutcomes of Food SystemsFood System Types"
+    },
+    {
+      "text": "Background on the Development of the Conceptual FrameworkIndicators and Their SourcesMethodology for Developing the Food Systems TypologyHow the 42 Actions Were IdentifiedHow the Environmental Policies and Actions Were Identified"
+    },
+    {
+      "text": "PublicationsReports and Policy BriefsFood Systems Transformation BriefsWebinars, Interviews, and Other TalksVideosInterviewsTestimonialsArticles & Blogs"
+    },
+    {
+      "text": "©2025GAIN, The Columbia Climate School, and Cornell University College of Agriculture and Life Sciences. All Rights Reserved. Geographic borders are based on UN conventions and don't represent an endorsement."
+    }
+  ],
+  "links": [
+    {
+      "text": "Food Systems Dashboard",
+      "href": "/"
+    },
+    {
+      "text": "Information",
+      "href": "/information"
+    },
+    {
+      "text": "",
+      "href": "/information/about-the-dashboard"
+    },
+    {
+      "text": "About the Food Systems Dashboard",
+      "href": "/information/about-the-dashboard"
+    },
+    {
+      "text": "What is the Food Systems Dashboard?",
+      "href": "/information/about-the-dashboard#what-is-the-dashboard"
+    },
+    {
+      "text": "What are the Country Dashboards?",
+      "href": "/information/about-the-dashboard#country-dashboards"
+    },
+    {
+      "text": "How to Navigate the Food Systems Dashboard",
+      "href": "/information/about-the-dashboard#how-to-navigate-the-dashboard"
+    },
+    {
+      "text": "How to Cite the Food Systems Dashboard",
+      "href": "/information/about-the-dashboard#how-to-cite-the-dashboard"
+    },
+    {
+      "text": "Who is the Food Systems Dashboard for?",
+      "href": "/information/about-the-dashboard#who-is-the-dashboard-for"
+    },
+    {
+      "text": "Who created the Food Systems Dashboard?",
+      "href": "/information/about-the-dashboard#who-created-the-dashboard"
+    },
+    {
+      "text": "Donors",
+      "href": "/information/about-the-dashboard#donors"
+    },
+    {
+      "text": "",
+      "href": "/information/about-food-systems"
+    },
+    {
+      "text": "About Food Systems",
+      "href": "/information/about-food-systems"
+    },
+    {
+      "text": "A Food Systems Framework",
+      "href": "/information/about-food-systems#a-food-systems-framework"
+    },
+    {
+      "text": "Components of Food Systems",
+      "href": "/information/about-food-systems#components-of-food-systems"
+    },
+    {
+      "text": "Cross-Cutting Issues",
+      "href": "/information/about-food-systems#cross-cutting-issues"
+    },
+    {
+      "text": "Drivers of Food Systems",
+      "href": "/information/about-food-systems#drivers-of-food-systems"
+    },
+    {
+      "text": "Outcomes of Food Systems",
+      "href": "/information/about-food-systems#outcomes-of-food-systems"
+    },
+    {
+      "text": "Food System Types",
+      "href": "/information/about-food-systems#food-system-types"
+    },
+    {
+      "text": "",
+      "href": "/information/data-sources-and-methodology"
+    },
+    {
+      "text": "Data Sources and Methodology",
+      "href": "/information/data-sources-and-methodology"
+    },
+    {
+      "text": "Background on the Development of the Conceptual Framework",
+      "href": "/information/data-sources-and-methodology#background-on-the-development-of-the-conceptual-framework"
+    },
+    {
+      "text": "Indicators and Their Sources",
+      "href": "/information/data-sources-and-methodology#indicators-and-their-sources"
+    },
+    {
+      "text": "Methodology for Developing the Food Systems Typology",
+      "href": "/information/data-sources-and-methodology#methodology-for-developing-the-food-systems-typology"
+    },
+    {
+      "text": "How the 42 Actions Were Identified",
+      "href": "/information/data-sources-and-methodology#how-the-42-actions-were-identified"
+    },
+    {
+      "text": "How the Environmental Policies and Actions Were Identified",
+      "href": "/information/data-sources-and-methodology#how-the-environmental-policies-and-actions-were-identified"
+    },
+    {
+      "text": "",
+      "href": "/information/resources"
+    },
+    {
+      "text": "Resources",
+      "href": "/information/resources"
+    },
+    {
+      "text": "Publications",
+      "href": "/information/resources?type=publication"
+    },
+    {
+      "text": "Reports and Policy Briefs",
+      "href": "/information/resources?type=report"
+    },
+    {
+      "text": "Food Systems Transformation Briefs",
+      "href": "/information/resources?type=brief"
+    },
+    {
+      "text": "Webinars, Interviews, and Other Talks",
+      "href": "/information/resources?type=webinar"
+    },
+    {
+      "text": "Videos",
+      "href": "/information/resources?type=video"
+    },
+    {
+      "text": "Interviews",
+      "href": "/information/resources?type=interview"
+    },
+    {
+      "text": "Testimonials",
+      "href": "/information/resources?type=testimonial"
+    },
+    {
+      "text": "Articles & Blogs",
+      "href": "/information/resources?type=article"
+    },
+    {
+      "text": "Question or comments? Email us atinfo@foodsystemsdashboard.org",
+      "href": "mailto:info@foodsystemsdashboard.org"
+    }
+  ],
+  "map": [],
+  "other infornation": ""
+}

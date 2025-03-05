@@ -1,0 +1,340 @@
+{
+  "url": "https://www.foodsystemsdashboard.org/countries/nga/subnational-data",
+  "structural_elements": {
+    "headers": [
+      {
+        "level": 1,
+        "text": "Percent of the population who cannot afford a healthy diet(Percent)"
+      },
+      {
+        "level": 2,
+        "text": "Food Systems Dashboard"
+      }
+    ],
+    "paragraphs": [
+      {
+        "text": "Food Systems Dashboard"
+      }
+    ]
+  },
+  "div_hierarchy": [
+    {
+      "text": "Food Systems Dashboard"
+    },
+    {
+      "text": "Country Dashboard"
+    },
+    {
+      "text": "Nigeria"
+    },
+    {
+      "text": "Country DataState ProfilesCompare"
+    },
+    {
+      "text": "Percent of the population who cannot afford a healthy diet"
+    },
+    {
+      "text": "Compare to Another Indicator"
+    },
+    {
+      "text": "Reset Zoom"
+    },
+    {
+      "text": "in Percent"
+    },
+    {
+      "text": "5.3"
+    },
+    {
+      "text": "87.2"
+    },
+    {
+      "text": "Data fromCalculated by the Food Prices for Nutrition project, Tufts University, Boston, U.S.A., using food price data from monthly monitoring by the Nigeria National Bureau of Statistics (NBS) and expenditure data from the Nigeria Living Standards Survey (NLSS) 2018-2019.\n\nNBS. 2020. “2019 Poverty and Inequality in Nigeria: Executive Summary.” Abuja, Nigeria: National Bureau of Statistics. https://nigerianstat.gov.ng/download/1092."
+    },
+    {
+      "text": "Loading…"
+    },
+    {
+      "text": "Drivers"
+    },
+    {
+      "text": "13"
+    },
+    {
+      "text": "Food Supply Chains"
+    },
+    {
+      "text": "33"
+    },
+    {
+      "text": "Food Environments"
+    },
+    {
+      "text": "36"
+    },
+    {
+      "text": "Food availability"
+    },
+    {
+      "text": "11"
+    },
+    {
+      "text": "Food affordability"
+    },
+    {
+      "text": "20"
+    },
+    {
+      "text": "Cost of an energy sufficient diet"
+    },
+    {
+      "text": "Cost of animal source foods"
+    },
+    {
+      "text": "Cost of fruits relative to starchy staples in a least-cost healthy diet"
+    },
+    {
+      "text": "Cost of a healthy diet relative to the cost of sufficient energy from starchy staples"
+    },
+    {
+      "text": "Cost of fruits and vegetables relative to starchy staples in a least-cost healthy diet"
+    },
+    {
+      "text": "Affordability of a healthy diet: ratio of cost to food expenditures"
+    },
+    {
+      "text": "Affordability of an energy sufficient diet: ratio of cost to food expenditures"
+    },
+    {
+      "text": "Cost of fruits and vegetables"
+    },
+    {
+      "text": "Cost of a healthy diet per capita"
+    },
+    {
+      "text": "Cost of animal source foods relative to starchy staples in a least-cost healthy diet"
+    },
+    {
+      "text": "Cost of fruits"
+    },
+    {
+      "text": "Cost of legumes, nuts, and seeds"
+    },
+    {
+      "text": "Cost of legumes, nuts, and seeds relative to starchy staples in a least-cost healthy diet"
+    },
+    {
+      "text": "Cost of oils and fats"
+    },
+    {
+      "text": "Cost of oils and fats relative to starchy staples in a least-cost healthy diet"
+    },
+    {
+      "text": "Cost of starchy staples"
+    },
+    {
+      "text": "Cost of vegetables"
+    },
+    {
+      "text": "Cost of vegetables relative to starchy staples in a least-cost healthy diet"
+    },
+    {
+      "text": "Percent of population who cannot afford an energy sufficient diet"
+    },
+    {
+      "text": "Percent of the population who cannot afford a healthy diet"
+    },
+    {
+      "text": "Product properties"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "Vendor properties"
+    },
+    {
+      "text": "2"
+    },
+    {
+      "text": "Food messaging"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "Food safety"
+    },
+    {
+      "text": "1"
+    },
+    {
+      "text": "Individual Factors"
+    },
+    {
+      "text": "14"
+    },
+    {
+      "text": "Cross-Cutting Issues"
+    },
+    {
+      "text": "4"
+    },
+    {
+      "text": "Outcomes"
+    },
+    {
+      "text": "50"
+    },
+    {
+      "text": "Percent of the population who cannot afford a healthy diet(Percent)"
+    },
+    {
+      "text": "MetadataDownload (CSV)"
+    },
+    {
+      "text": "No Filters"
+    },
+    {
+      "text": "Data from"
+    },
+    {
+      "text": "2019"
+    },
+    {
+      "text": "©2025GAIN, The Columbia Climate School, and Cornell University College of Agriculture and Life Sciences. All Rights Reserved. Geographic borders are based on UN conventions and don't represent an endorsement."
+    }
+  ],
+  "links": [
+    {
+      "text": "Food Systems Dashboard",
+      "href": "/"
+    },
+    {
+      "text": "Information",
+      "href": "/information"
+    },
+    {
+      "text": "Country DashboardNigeria",
+      "href": "/countries/nga/subnational-data"
+    },
+    {
+      "text": "Country Data",
+      "href": "/countries/nga/subnational-data/indicators/admin-1/food-environments/food-affordability/percent-of-the-population-who-cannot-afford-a-healthy-diet/map"
+    },
+    {
+      "text": "State Profiles",
+      "href": "/countries/nga/subnational-data/regions"
+    },
+    {
+      "text": "Compare",
+      "href": "/countries/nga/subnational-data/compare/admin-1"
+    },
+    {
+      "text": "Compare to Another Indicator",
+      "href": "/compare?independent=percent-of-the-population-who-cannot-afford-a-healthy-diet"
+    },
+    {
+      "text": "Map View",
+      "href": "/countries/nga/subnational-data/indicators/admin-1/food-environments/food-affordability/percent-of-the-population-who-cannot-afford-a-healthy-diet/map"
+    },
+    {
+      "text": "Graph View",
+      "href": "/countries/nga/subnational-data/indicators/admin-1/food-environments/food-affordability/percent-of-the-population-who-cannot-afford-a-healthy-diet/graph"
+    },
+    {
+      "text": "Table View",
+      "href": "/countries/nga/subnational-data/indicators/admin-1/food-environments/food-affordability/percent-of-the-population-who-cannot-afford-a-healthy-diet/table"
+    },
+    {
+      "text": "Calculated by the Food Prices for Nutrition project, Tufts University, Boston, U.S.A., using food price data from monthly monitoring by the Nigeria National Bureau of Statistics (NBS) and expenditure data from the Nigeria Living Standards Survey (NLSS) 2018-2019.\n\nNBS. 2020. “2019 Poverty and Inequality in Nigeria: Executive Summary.” Abuja, Nigeria: National Bureau of Statistics. https://nigerianstat.gov.ng/download/1092.",
+      "href": ""
+    },
+    {
+      "text": "Cost of an energy sufficient diet",
+      "href": "/countries/nga/subnational-data/indicators/admin-1/food-environments/food-affordability/cost-of-an-energy-sufficient-diet/map"
+    },
+    {
+      "text": "Cost of animal source foods",
+      "href": "/countries/nga/subnational-data/indicators/admin-1/food-environments/food-affordability/cost-of-animal-source-foods/map"
+    },
+    {
+      "text": "Cost of fruits relative to starchy staples in a least-cost healthy diet",
+      "href": "/countries/nga/subnational-data/indicators/admin-1/food-environments/food-affordability/cost-of-fruits-relative-to-starchy-staples-in-a-least-cost-healthy-diet/map"
+    },
+    {
+      "text": "Cost of a healthy diet relative to the cost of sufficient energy from starchy staples",
+      "href": "/countries/nga/subnational-data/indicators/admin-1/food-environments/food-affordability/cost-of-a-healthy-diet-relative-to-the-cost-of-sufficient-energy-from-starchy-staples/map"
+    },
+    {
+      "text": "Cost of fruits and vegetables relative to starchy staples in a least-cost healthy diet",
+      "href": "/countries/nga/subnational-data/indicators/admin-1/food-environments/food-affordability/cost-of-fruits-and-vegetables-relative-to-starchy-staples-in-a-least-cost-healthy-diet/map"
+    },
+    {
+      "text": "Affordability of a healthy diet: ratio of cost to food expenditures",
+      "href": "/countries/nga/subnational-data/indicators/admin-1/food-environments/food-affordability/affordability-of-a-healthy-diet-ratio-of-cost-to-food-expenditures/map"
+    },
+    {
+      "text": "Affordability of an energy sufficient diet: ratio of cost to food expenditures",
+      "href": "/countries/nga/subnational-data/indicators/admin-1/food-environments/food-affordability/affordability-of-an-energy-sufficient-diet-ratio-of-cost-to-food-expenditures/map"
+    },
+    {
+      "text": "Cost of fruits and vegetables",
+      "href": "/countries/nga/subnational-data/indicators/admin-1/food-environments/food-affordability/cost-of-fruits-and-vegetables/map"
+    },
+    {
+      "text": "Cost of a healthy diet per capita",
+      "href": "/countries/nga/subnational-data/indicators/admin-1/food-environments/food-affordability/cost-of-a-healthy-diet-per-capita/map"
+    },
+    {
+      "text": "Cost of animal source foods relative to starchy staples in a least-cost healthy diet",
+      "href": "/countries/nga/subnational-data/indicators/admin-1/food-environments/food-affordability/cost-of-animal-source-foods-relative-to-starchy-staples-in-a-least-cost-healthy-diet/map"
+    },
+    {
+      "text": "Cost of fruits",
+      "href": "/countries/nga/subnational-data/indicators/admin-1/food-environments/food-affordability/cost-of-fruits/map"
+    },
+    {
+      "text": "Cost of legumes, nuts, and seeds",
+      "href": "/countries/nga/subnational-data/indicators/admin-1/food-environments/food-affordability/cost-of-legumes-nuts-and-seeds/map"
+    },
+    {
+      "text": "Cost of legumes, nuts, and seeds relative to starchy staples in a least-cost healthy diet",
+      "href": "/countries/nga/subnational-data/indicators/admin-1/food-environments/food-affordability/cost-of-legumes-nuts-and-seeds-relative-to-starchy-staples-in-a-least-cost-healthy-diet/map"
+    },
+    {
+      "text": "Cost of oils and fats",
+      "href": "/countries/nga/subnational-data/indicators/admin-1/food-environments/food-affordability/cost-of-oils-and-fats/map"
+    },
+    {
+      "text": "Cost of oils and fats relative to starchy staples in a least-cost healthy diet",
+      "href": "/countries/nga/subnational-data/indicators/admin-1/food-environments/food-affordability/cost-of-oils-and-fats-relative-to-starchy-staples-in-a-least-cost-healthy-diet/map"
+    },
+    {
+      "text": "Cost of starchy staples",
+      "href": "/countries/nga/subnational-data/indicators/admin-1/food-environments/food-affordability/cost-of-starchy-staples/map"
+    },
+    {
+      "text": "Cost of vegetables",
+      "href": "/countries/nga/subnational-data/indicators/admin-1/food-environments/food-affordability/cost-of-vegetables/map"
+    },
+    {
+      "text": "Cost of vegetables relative to starchy staples in a least-cost healthy diet",
+      "href": "/countries/nga/subnational-data/indicators/admin-1/food-environments/food-affordability/cost-of-vegetables-relative-to-starchy-staples-in-a-least-cost-healthy-diet/map"
+    },
+    {
+      "text": "Percent of population who cannot afford an energy sufficient diet",
+      "href": "/countries/nga/subnational-data/indicators/admin-1/food-environments/food-affordability/percent-of-population-who-cannot-afford-an-energy-sufficient-diet/map"
+    },
+    {
+      "text": "Percent of the population who cannot afford a healthy diet",
+      "href": "/countries/nga/subnational-data/indicators/admin-1/food-environments/food-affordability/percent-of-the-population-who-cannot-afford-a-healthy-diet/map"
+    },
+    {
+      "text": "Download (CSV)",
+      "href": "/api/indicators/8581/countries/nga/csv?adminLevel=LEVEL_1"
+    }
+  ],
+  "map": [],
+  "other infornation": ""
+}
